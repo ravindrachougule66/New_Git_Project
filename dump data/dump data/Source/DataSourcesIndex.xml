@@ -1,0 +1,24 @@
+ <Application>
+ 
+<Header>
+
+  <Version val="14080.00"/>
+
+  <WithIsn val="Y"/>
+
+  <Exe comp="-1"/>
+
+  <LastIsn val="3"/>
+
+  <LastIsnFolder val="0"/>
+
+</Header>
+
+<DataRepositoryProperties/>
+ <DataSourceRepository>
+  <DataObjects>
+ 
+<DataObject PhysicalName="read_data" Resident="N" UniqueISNConvState="12" data_source="SQLite Database" id="1" name="read data" offset="228" length="3515"/> 
+<DataObject PhysicalName="read_datacompare" Resident="N" UniqueISNConvState="12" data_source="SQLite Database" id="3" name="read dataforcomparision" offset="3744" length="3570"/>  </DataObjects>
+ </DataSourceRepository>
+ <LastModified val="30954890179042560"/>  </Application>

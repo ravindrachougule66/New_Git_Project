@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Application>
+
+  <MobileDesignMode Val="N"/>
+
+  <EditProjectMode Val="N"/>
+
+  <DebugMode Val="N"/>
+
+  <RIAExecutionPlatform Val="Desktop"/>
+
+  <WatchListItems>
+    <RestData/>
+  </WatchListItems>
+
+  <VisitedTasks>
+    <VisitedTask>
+      <PrgIsn Val="1"/>
+      <TaskIsn Val="1"/>
+    </VisitedTask>
+    <VisitedTask>
+      <PrgIsn Val="2"/>
+      <TaskIsn Val="3"/>
+    </VisitedTask>
+    <VisitedTask>
+      <PrgIsn Val="2"/>
+      <TaskIsn Val="4"/>
+    </VisitedTask>
+    <VisitedTask>
+      <PrgIsn Val="2"/>
+      <TaskIsn Val="5"/>
+    </VisitedTask>
+    <VisitedTask>
+      <PrgIsn Val="2"/>
+      <TaskIsn Val="7"/>
+    </VisitedTask>
+    <VisitedTask>
+      <PrgIsn Val="2"/>
+      <TaskIsn Val="6"/>
+    </VisitedTask>
+    <VisitedTask>
+      <PrgIsn Val="2"/>
+      <TaskIsn Val="2"/>
+    </VisitedTask>
+    <VisitedTask>
+      <PrgIsn Val="2"/>
+      <TaskIsn Val="8"/>
+    </VisitedTask>
+    <VisitedTask>
+      <PrgIsn Val="2"/>
+      <TaskIsn Val="1"/>
+    </VisitedTask>
+    <VisitedTask>
+      <PrgIsn Val="3"/>
+      <TaskIsn Val="3"/>
+    </VisitedTask>
+    <VisitedTask>
+      <PrgIsn Val="3"/>
+      <TaskIsn Val="4"/>
+    </VisitedTask>
+    <VisitedTask>
+      <PrgIsn Val="3"/>
+      <TaskIsn Val="5"/>
+    </VisitedTask>
+    <VisitedTask>
+      <PrgIsn Val="3"/>
+      <TaskIsn Val="7"/>
+    </VisitedTask>
+    <VisitedTask>
+      <PrgIsn Val="3"/>
+      <TaskIsn Val="6"/>
+    </VisitedTask>
+    <VisitedTask>
+      <PrgIsn Val="3"/>
+      <TaskIsn Val="2"/>
+    </VisitedTask>
+    <VisitedTask>
+      <PrgIsn Val="3"/>
+      <TaskIsn Val="8"/>
+    </VisitedTask>
+    <VisitedTask>
+      <PrgIsn Val="3"/>
+      <TaskIsn Val="1"/>
+    </VisitedTask>
+    <VisitedTask>
+      <PrgIsn Val="4"/>
+      <TaskIsn Val="1"/>
+    </VisitedTask>
+    <VisitedTask>
+      <PrgIsn Val="5"/>
+      <TaskIsn Val="2"/>
+    </VisitedTask>
+    <VisitedTask>
+      <PrgIsn Val="5"/>
+      <TaskIsn Val="3"/>
+    </VisitedTask>
+    <VisitedTask>
+      <PrgIsn Val="5"/>
+      <TaskIsn Val="4"/>
+    </VisitedTask>
+    <VisitedTask>
+      <PrgIsn Val="5"/>
+      <TaskIsn Val="6"/>
+    </VisitedTask>
+    <VisitedTask>
+      <PrgIsn Val="5"/>
+      <TaskIsn Val="5"/>
+    </VisitedTask>
+    <VisitedTask>
+      <PrgIsn Val="5"/>
+      <TaskIsn Val="1"/>
+    </VisitedTask>
+  </VisitedTasks>
+
+</Application>

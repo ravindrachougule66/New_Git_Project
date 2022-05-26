@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Application>
+
+  <Header>
+    <Version val="13021"/>
+    <WithIsn val="Y"/>
+    <Exe comp="-1"/>
+    <LastIsn val="1"/>
+    <LastIsnFolder val="0"/>
+    <Folders/>
+  </Header>
+
+  <DataSourceRepository>
+    <DataObjects>
+      <DataObject PhysicalName="A" Resident="N" UniqueISNConvState="12" data_source="Memory" id="1" length="890" name="A" offset="209"/>
+    </DataObjects>
+  </DataSourceRepository>
+
+  <LastModified val="30959068176535987"/>
+
+</Application>

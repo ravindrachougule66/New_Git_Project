@@ -1,0 +1,56 @@
+﻿ *********************   Date: 17/05/2022  ********************
+ <-1> 17/05/2022 10:46:27.240     [Info   ] - The INI file ("E:\Magic_XPA\XPA48\MAGIC.INI") was successfully opened.
+ <-1> 17/05/2022 10:46:27.267     [Info   ] - ProcessID is 28088
+ <-1> 17/05/2022 10:46:27.280     [Info   ] - The current working directory is: "E:\Magic_XPA\XPA48".
+ *********************   Date: 17/05/2022  ********************
+ <-1> 17/05/2022 10:46:42.421     [Info   ] - The INI file ("E:\Magic_XPA\XPA48\MAGIC.INI") was successfully opened.
+ <-1> 17/05/2022 10:46:42.434     [Info   ] - ProcessID is 29464
+ <-1> 17/05/2022 10:46:42.448     [Info   ] - The current working directory is: "E:\Magic_XPA\XPA48".
+ <-1> 17/05/2022 10:46:53.640     [Info   ] - Starting Magic xpa Server. Maximum checked-out concurrent threads: 1. Maximum checked-out concurrent users: 1.
+ <-1> 17/05/2022 10:52:58.182     [Info   ] - Starts Loading Component :  
+ <-1> 17/05/2022 10:52:58.182     [Info   ] - Starts Loading Component : E:\Magic_XPA\XPA48\Add_On\UserFunctionality\UserFunctionality.ecf 
+ <-1> 17/05/2022 10:52:58.195     [Info   ] - Starts Loading Component : System.Windows.Forms 
+ <-1> 17/05/2022 10:52:58.232     [Info   ] - Ends Loading Component : System.Windows.Forms 
+ <-1> 17/05/2022 10:52:58.233     [Info   ] - Starts Loading Component : System.Drawing 
+ <-1> 17/05/2022 10:52:58.242     [Info   ] - Ends Loading Component : System.Drawing 
+ <-1> 17/05/2022 10:52:58.246     [Info   ] - Starts Loading Component : System 
+ <-1> 17/05/2022 10:52:58.261     [Info   ] - Ends Loading Component : System 
+ <-1> 17/05/2022 10:52:58.261     [Info   ] - Starts Loading Component : System.Data 
+ <-1> 17/05/2022 10:52:58.284     [Info   ] - Ends Loading Component : System.Data 
+ <-1> 17/05/2022 10:52:58.284     [Info   ] - Starts Loading Component : Microsoft.Office.Interop.Excel 
+ <-1> 17/05/2022 10:52:58.349     [Info   ] - Ends Loading Component : Microsoft.Office.Interop.Excel 
+ <-1> 17/05/2022 10:52:58.349     [Info   ] - Starts Loading Component : Microsoft.CSharp 
+ <-1> 17/05/2022 10:52:58.361     [Info   ] - Ends Loading Component : Microsoft.CSharp 
+ <-1> 17/05/2022 10:52:58.364     [Info   ] - Starts Loading Component : System.Core 
+ <-1> 17/05/2022 10:52:58.374     [Info   ] - Ends Loading Component : System.Core 
+ <-1> 17/05/2022 10:52:58.397     [Info   ] - Ends Loading Component : E:\Magic_XPA\XPA48\Add_On\UserFunctionality\UserFunctionality.ecf 
+ <-1> 17/05/2022 10:52:58.402     [Info   ] -   License file: "E:\Magic_XPA\XPA48\LICENSE.dat", License feature: 'MGCSTK'.
+ <-1> 17/05/2022 10:52:58.406     [Info   ] -   The project was successfully opened.
+ <417665290382504960> 17/05/2022 10:52:58.520     [Action ] -   >>Starts load Batch Task - 'Main Program (UserFunctionality)' in Query mode (Task Instance: 1)
+ <417665290382504960> 17/05/2022 10:52:58.521     [Action ] -   Ends Load Task
+ <417665290382504960> 17/05/2022 10:52:58.529     [Action ] -   Starts Task Prefix
+ <417665290382504960> 17/05/2022 10:52:58.535     [Action ] -     Flow - Update: 'V: gV:FunctionsList' <== exp #41
+ <417665290382504960> 17/05/2022 10:52:58.545     [Action ] -     Flow - Update: 'W: gV:FunctionsDescriptionList' <== exp #42
+ <417665290382504960> 17/05/2022 10:52:58.551     [Action ] -     Flow - Update: 'X: gV:DigitAndPunctuationList' <== exp #43
+ <417665290382504960> 17/05/2022 10:52:58.559     [Action ] -     Flow - Update: 'BB: gV:IsHebrewApp' <== exp #105
+ <417665290382504960> 17/05/2022 10:52:58.566     [Action ] -   Ends Task Prefix
+ <417665290382504960> 17/05/2022 10:52:58.576     [Action ] -   Load records
+ <417665290382504960> 17/05/2022 10:52:58.688     [Action ] -   >>Starts load Batch Task - 'Main Program (CrashDll)' in Query mode (Task Instance: 2)
+ <417665290382504960> 17/05/2022 10:52:58.689     [Action ] -   Ends Load Task
+ <417665290382504960> 17/05/2022 10:52:58.697     [Action ] -   Load records
+ <417665290382504960> 17/05/2022 10:52:58.822     [Action ] -     >>Starts load Batch Task - 'Lecture Buffer ZalixEcritPlan' in Modify mode (Task Instance: 3)
+ <417665290382504960> 17/05/2022 10:52:58.823     [Action ] -     Ends Load Task
+ <417665290382504960> 17/05/2022 10:52:58.837     [Action ] -     Task Mode Change - Modify
+ <417665290382504960> 17/05/2022 10:52:58.850     [Action ] -     Starts Task Prefix
+ <417665290382504960> 17/05/2022 10:52:58.859     [Action ] -       Flow - Update: 'E: v : IpServer' <== exp #7
+ <417665290382504960> 17/05/2022 10:52:58.871     [Action ] -       Flow - Update: 'D: v : RetourLog' <== exp #8
+ <417665290382504960> 17/05/2022 10:52:58.880     [Action ] -       Flow - Update: 'F: v : IdentReponse' <== exp #10
+ <417665290382504960> 17/05/2022 10:52:58.893     [Action ] -       Flow - Update: 'G: v : Jour' <== exp #8
+ <417665290382504960> 17/05/2022 10:52:58.905     [Action ] -       Flow - Update: 'H: v : Mois' <== exp #8
+ <417665290382504960> 17/05/2022 10:52:58.914     [Action ] -       Flow - Update: 'I: v : Annee' <== exp #8
+ <417665290382504960> 17/05/2022 10:52:58.927     [Action ] -       Flow - Update: 'J: v : Heure' <== exp #8
+ <417665290382504960> 17/05/2022 10:52:58.940     [Action ] -       Flow - Update: 'K: v : Minute' <== exp #8
+ <417665290382504960> 17/05/2022 10:52:58.951     [Action ] -       Flow - Update: 'L: v : Seconde' <== exp #8
+ <417665290382504960> 17/05/2022 10:52:58.960     [Action ] -       Flow - Update: 'M: v : ID' <== exp #9
+ <417665290382504960> 17/05/2022 10:52:58.970     [Action ] -       Flow - Update: 'B: v : SOCKET' <== exp #14
+ <417665290382504960> 17/05/2022 10:52:58.979     [Action ] -       Flow - Invoke UDP :: '@Zalix._connexionC@4'

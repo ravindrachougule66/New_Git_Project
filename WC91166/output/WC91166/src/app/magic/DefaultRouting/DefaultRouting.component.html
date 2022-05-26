@@ -1,0 +1,51 @@
+<div
+    novalidate
+    [formGroup]="screenFormGroup"
+>
+    <div
+        style="display: flex; flex-direction: column"
+        [magic]="mgc.DefaultRouting"
+    >
+        <div style="display: flex; flex-direction: row">
+            <button
+                mat-raised-button
+                color="primary"
+                [magic]="mgc.App1"
+            >
+                App1
+            </button>
+            <button
+                mat-raised-button
+                color="primary"
+                [magic]="mgc.btn_App2"
+            >
+                App2
+            </button>
+            <button
+                mat-raised-button
+                color="primary"
+                [magic]="mgc.btn_App3"
+            >
+                App3
+            </button>
+        </div>
+        <div style="display: flex; flex-direction: row">
+            <router-outlet [magic]="mgc.RouterOutlet1">
+            </router-outlet>
+        </div>
+        <div style="display: flex; flex-direction: row">
+            <router-outlet
+                [magic]="mgc.RouterOutlet2"
+                name="RouterOutlet2"
+            >
+            </router-outlet>
+        </div>
+        <div style="display: flex; flex-direction: row">
+            <router-outlet
+                [magic]="mgc.RouterOutlet3"
+                name="RouterOutlet3"
+            >
+            </router-outlet>
+        </div>
+    </div>
+</div>

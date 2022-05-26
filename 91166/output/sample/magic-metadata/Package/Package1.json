@@ -1,0 +1,192 @@
+{
+	"style":	null,
+	"props":	{
+		"id":	"Package1",
+		"component_path":	"Package/",
+		"component_uniquename":	"Package_Package1"
+	},
+	"coordinates":	{
+		"x":	0,
+		"y":	0,
+		"width":	762,
+		"height":	539
+	},
+	"hint":	null,
+	"controlType":	null,
+	"children":	[
+		{
+			"style":	null,
+			"props":	{
+				"id":	"Label7",
+				"text":	"varid:",
+				"common_line_id":	"line13"
+			},
+			"coordinates":	{
+				"x":	6,
+				"y":	13,
+				"width":	28,
+				"height":	15
+			},
+			"hint":	null,
+			"controlType":	"L",
+			"children":	null
+		},
+		{
+			"style":	null,
+			"props":	{
+				"id":	"varid",
+				"mgformat":	"mgFormat",
+				"attribute":	"N",
+				"common_line_id":	"line13"
+			},
+			"coordinates":	{
+				"x":	40,
+				"y":	13,
+				"width":	54,
+				"height":	20
+			},
+			"hint":	null,
+			"controlType":	"T",
+			"children":	null
+		},
+		{
+			"style":	null,
+			"props":	{
+				"id":	"Label8",
+				"text":	"Var2:",
+				"common_line_id":	"line46"
+			},
+			"coordinates":	{
+				"x":	6,
+				"y":	46,
+				"width":	27,
+				"height":	15
+			},
+			"hint":	null,
+			"controlType":	"L",
+			"children":	null
+		},
+		{
+			"style":	null,
+			"props":	{
+				"id":	"Var2",
+				"mgformat":	"mgFormat",
+				"attribute":	"A",
+				"common_line_id":	"line46"
+			},
+			"coordinates":	{
+				"x":	40,
+				"y":	46,
+				"width":	90,
+				"height":	20
+			},
+			"hint":	null,
+			"controlType":	"T",
+			"children":	null
+		},
+		{
+			"style":	null,
+			"props":	{
+				"id":	"Button9",
+				"format":	"App1",
+				"common_line_id":	"line46"
+			},
+			"coordinates":	{
+				"x":	321,
+				"y":	46,
+				"width":	41,
+				"height":	22
+			},
+			"hint":	null,
+			"controlType":	"B",
+			"children":	null
+		},
+		{
+			"style":	null,
+			"props":	{
+				"id":	"Button10",
+				"format":	"App2",
+				"common_line_id":	"line46"
+			},
+			"coordinates":	{
+				"x":	388,
+				"y":	46,
+				"width":	41,
+				"height":	22
+			},
+			"hint":	null,
+			"controlType":	"B",
+			"children":	null
+		},
+		{
+			"style":	null,
+			"props":	{
+				"id":	"Button11",
+				"format":	"App3",
+				"common_line_id":	"line46"
+			},
+			"coordinates":	{
+				"x":	451,
+				"y":	46,
+				"width":	41,
+				"height":	22
+			},
+			"hint":	null,
+			"controlType":	"B",
+			"children":	null
+		},
+		{
+			"style":	null,
+			"props":	{
+				"id":	"Subform6",
+				"is_router_outlet":	true,
+				"default_outlet":	true,
+				"common_line_id":	"line90"
+			},
+			"coordinates":	{
+				"x":	43,
+				"y":	90,
+				"width":	193,
+				"height":	112
+			},
+			"hint":	null,
+			"controlType":	"F",
+			"children":	null
+		},
+		{
+			"style":	null,
+			"props":	{
+				"id":	"Subform7",
+				"is_router_outlet":	true,
+				"common_line_id":	"line90"
+			},
+			"coordinates":	{
+				"x":	259,
+				"y":	90,
+				"width":	193,
+				"height":	115
+			},
+			"hint":	null,
+			"controlType":	"F",
+			"children":	null
+		},
+		{
+			"style":	null,
+			"props":	{
+				"id":	"Subform8",
+				"is_router_outlet":	true,
+				"default_outlet":	false,
+				"common_line_id":	"line90"
+			},
+			"coordinates":	{
+				"x":	485,
+				"y":	90,
+				"width":	196,
+				"height":	115
+			},
+			"hint":	null,
+			"controlType":	"F",
+			"children":	null
+		}
+	]
+}

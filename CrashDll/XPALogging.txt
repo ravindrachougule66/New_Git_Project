@@ -1,0 +1,29 @@
+﻿ *********************   Date: 17/05/2022  ********************
+ <-1> 17/05/2022 10:53:45.519     [Info   ] - The INI file ("E:\Magic_XPA\XPA48\MAGIC.INI") was successfully opened.
+ <-1> 17/05/2022 10:53:45.521     [Info   ] - ProcessID is 31240
+ <-1> 17/05/2022 10:53:45.529     [Info   ] - The current working directory is: "E:\Magic_XPA\XPA48".
+ *********************   Date: 17/05/2022  ********************
+ <-1> 17/05/2022 10:53:46.463     [Info   ] - The INI file ("E:\Magic_XPA\XPA48\MAGIC.INI") was successfully opened.
+ <-1> 17/05/2022 10:53:46.472     [Info   ] - ProcessID is 9916
+ <-1> 17/05/2022 10:53:46.479     [Info   ] - The current working directory is: "E:\Magic_XPA\XPA48".
+ <-1> 17/05/2022 10:53:56.726     [Info   ] - Starting Magic xpa Server. Maximum checked-out concurrent threads: 1. Maximum checked-out concurrent users: 1.
+ <-1> 17/05/2022 10:53:56.983     [Info   ] - Starts Loading Component :  
+ <-1> 17/05/2022 10:53:56.983     [Info   ] - Starts Loading Component : E:\Magic_XPA\XPA48\Add_On\UserFunctionality\UserFunctionality.ecf 
+ <-1> 17/05/2022 10:53:56.997     [Info   ] - Starts Loading Component : System.Windows.Forms 
+ <-1> 17/05/2022 10:53:57.036     [Info   ] - Ends Loading Component : System.Windows.Forms 
+ <-1> 17/05/2022 10:53:57.036     [Info   ] - Starts Loading Component : System.Drawing 
+ <-1> 17/05/2022 10:53:57.045     [Info   ] - Ends Loading Component : System.Drawing 
+ <-1> 17/05/2022 10:53:57.049     [Info   ] - Starts Loading Component : System 
+ <-1> 17/05/2022 10:53:57.064     [Info   ] - Ends Loading Component : System 
+ <-1> 17/05/2022 10:53:57.064     [Info   ] - Starts Loading Component : System.Data 
+ <-1> 17/05/2022 10:53:57.087     [Info   ] - Ends Loading Component : System.Data 
+ <-1> 17/05/2022 10:53:57.087     [Info   ] - Starts Loading Component : Microsoft.Office.Interop.Excel 
+ <-1> 17/05/2022 10:53:57.156     [Info   ] - Ends Loading Component : Microsoft.Office.Interop.Excel 
+ <-1> 17/05/2022 10:53:57.156     [Info   ] - Starts Loading Component : Microsoft.CSharp 
+ <-1> 17/05/2022 10:53:57.169     [Info   ] - Ends Loading Component : Microsoft.CSharp 
+ <-1> 17/05/2022 10:53:57.171     [Info   ] - Starts Loading Component : System.Core 
+ <-1> 17/05/2022 10:53:57.182     [Info   ] - Ends Loading Component : System.Core 
+ <-1> 17/05/2022 10:53:57.204     [Info   ] - Ends Loading Component : E:\Magic_XPA\XPA48\Add_On\UserFunctionality\UserFunctionality.ecf 
+ <-1> 17/05/2022 10:53:57.209     [Info   ] -   License file: "E:\Magic_XPA\XPA48\LICENSE.dat", License feature: 'MGCSTK'.
+ <-1> 17/05/2022 10:53:57.214     [Info   ] -   The project was successfully opened.
+ <-1> 17/05/2022 10:54:11.979     [Info   ] - Starting Magic xpa Server. Maximum checked-out concurrent threads: 1. Maximum checked-out concurrent users: 1.

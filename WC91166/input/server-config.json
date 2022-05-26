@@ -1,0 +1,11 @@
+{
+   "protocol": "http",
+   "server": "Ravindraclpt.magicsoftware.co.in",
+   "requester": "MagicScripts48/MGrqispi.dll",
+   "appname": "WC91166",
+   "LogClientSequenceForActivityMonitor": "N",
+   "InternalLogLevel": "",
+   "InternalLogSync": "Message",
+   "DisplayGenericError": "N",
+   "FirstHTTPRequestTimeout": "5"
+}

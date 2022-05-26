@@ -1,0 +1,25 @@
+[
+	{
+		"module_name":	"",
+		"routesArray":	[
+			{
+				"RouteName":	"App1",
+				"ModuleName":	"",
+				"OutletName":	"",
+				"children":	null
+			},
+			{
+				"RouteName":	"App2",
+				"ModuleName":	"",
+				"OutletName":	"RouterOutlet2",
+				"children":	null
+			},
+			{
+				"RouteName":	"App3",
+				"ModuleName":	"",
+				"OutletName":	"RouterOutlet3",
+				"children":	null
+			}
+		]
+	}
+]

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Application>
+
+  <MobileDesignMode Val="N"/>
+
+  <EditProjectMode Val="N"/>
+
+  <DebugMode Val="N"/>
+
+  <RIAExecutionPlatform Val="Desktop"/>
+
+  <WatchListItems>
+    <RestData/>
+  </WatchListItems>
+
+  <ExpandedItems>
+    <ExpandedItem>
+      <PrgIsn Val="3"/>
+      <TaskIsn Val="1"/>
+      <Type Val="2"/>
+      <HandlerIsn Val="4"/>
+    </ExpandedItem>
+    <ExpandedItem>
+      <PrgIsn Val="3"/>
+      <TaskIsn Val="2"/>
+      <Type Val="2"/>
+      <HandlerIsn Val="2"/>
+    </ExpandedItem>
+    <ExpandedItem>
+      <PrgIsn Val="5"/>
+      <TaskIsn Val="1"/>
+      <Type Val="1"/>
+      <OperationIsn Val="7"/>
+    </ExpandedItem>
+    <ExpandedItem>
+      <PrgIsn Val="4"/>
+      <TaskIsn Val="1"/>
+      <Type Val="2"/>
+      <HandlerIsn Val="4"/>
+    </ExpandedItem>
+    <ExpandedItem>
+      <PrgIsn Val="5"/>
+      <TaskIsn Val="1"/>
+      <Type Val="2"/>
+      <HandlerIsn Val="3"/>
+    </ExpandedItem>
+  </ExpandedItems>
+
+  <VisitedTasks>
+    <VisitedTask>
+      <PrgIsn Val="1"/>
+      <TaskIsn Val="1"/>
+    </VisitedTask>
+    <VisitedTask>
+      <PrgIsn Val="3"/>
+      <TaskIsn Val="2"/>
+    </VisitedTask>
+    <VisitedTask>
+      <PrgIsn Val="3"/>
+      <TaskIsn Val="1"/>
+    </VisitedTask>
+  </VisitedTasks>
+
+</Application>

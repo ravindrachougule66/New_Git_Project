@@ -1,0 +1,5 @@
+﻿ <512684380400122560> 02/05/2022 18:57:06.369     [Error  ] - Online task cannot be executed using a background runtime engine. You should set the Deployment Mode to Online  >> Application: "E:\Magic_XPA\XPA48\Projects\Doubleclick\", Program: "SENS21 INQ MENU".
+ <-1> 02/05/2022 18:57:40.150     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <-1> 02/05/2022 18:57:40.150     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <-1> 02/05/2022 19:02:17.860     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <-1> 02/05/2022 19:03:44.365     [Error  ] - Error: "Cannot connect to the middleware" (-150)

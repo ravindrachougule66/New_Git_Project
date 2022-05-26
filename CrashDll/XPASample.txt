@@ -1,0 +1,1705 @@
+﻿ <-1> 17/05/2022 10:57:03.241     [Info   ] - Process 31240 - Exiting Magic xpa
+ <-1> 17/05/2022 10:57:03.242     [Info   ] - ------------------------------------------
+ <-1> 17/05/2022 12:47:40.092     [Info   ] - Process 9916 - Exiting Magic xpa
+ <-1> 17/05/2022 12:47:40.092     [Info   ] - ------------------------------------------
+ *********************   Date: 17/05/2022  ********************
+ <-1> 17/05/2022 15:02:12.122     [Info   ] - The INI file ("E:\Magic_XPA\XPA48\MAGIC.INI") was successfully opened.
+ <-1> 17/05/2022 15:02:12.146     [Info   ] - ProcessID is 21816
+ <-1> 17/05/2022 15:02:12.165     [Info   ] - The current working directory is: "E:\Magic_XPA\XPA48".
+ <-1> 17/05/2022 15:02:12.250     [Info   ] - Starting Magic xpa Server. Maximum checked-out concurrent threads: 1. Maximum checked-out concurrent users: 1.
+ <-1> 17/05/2022 15:11:51.159     [Info   ] - Starts Loading Component :  
+ <-1> 17/05/2022 15:11:51.160     [Info   ] - Starts Loading Component : E:\Magic_XPA\XPA48\Add_On\UserFunctionality\UserFunctionality.ecf 
+ <-1> 17/05/2022 15:11:51.175     [Info   ] - Starts Loading Component : System.Windows.Forms 
+ <-1> 17/05/2022 15:11:51.222     [Info   ] - Ends Loading Component : System.Windows.Forms 
+ <-1> 17/05/2022 15:11:51.222     [Info   ] - Starts Loading Component : System.Drawing 
+ <-1> 17/05/2022 15:11:51.234     [Info   ] - Ends Loading Component : System.Drawing 
+ <-1> 17/05/2022 15:11:51.236     [Info   ] - Starts Loading Component : System 
+ <-1> 17/05/2022 15:11:51.252     [Info   ] - Ends Loading Component : System 
+ <-1> 17/05/2022 15:11:51.252     [Info   ] - Starts Loading Component : System.Data 
+ <-1> 17/05/2022 15:11:51.283     [Info   ] - Ends Loading Component : System.Data 
+ <-1> 17/05/2022 15:11:51.283     [Info   ] - Starts Loading Component : Microsoft.Office.Interop.Excel 
+ <-1> 17/05/2022 15:11:51.371     [Info   ] - Ends Loading Component : Microsoft.Office.Interop.Excel 
+ <-1> 17/05/2022 15:11:51.371     [Info   ] - Starts Loading Component : Microsoft.CSharp 
+ <-1> 17/05/2022 15:11:51.386     [Info   ] - Ends Loading Component : Microsoft.CSharp 
+ <-1> 17/05/2022 15:11:51.386     [Info   ] - Starts Loading Component : System.Core 
+ <-1> 17/05/2022 15:11:51.400     [Info   ] - Ends Loading Component : System.Core 
+ <-1> 17/05/2022 15:11:51.424     [Info   ] - Ends Loading Component : E:\Magic_XPA\XPA48\Add_On\UserFunctionality\UserFunctionality.ecf 
+ <-1> 17/05/2022 15:11:51.429     [Info   ] -   License file: "E:\Magic_XPA\XPA48\LICENSE.dat", License feature: 'MGCSTK'.
+ <-1> 17/05/2022 15:11:51.433     [Info   ] -   The project was successfully opened.
+ <-1> 17/05/2022 15:20:56.131     [Info   ] - Process 21816 - Exiting Magic xpa
+ <-1> 17/05/2022 15:20:56.131     [Info   ] - ------------------------------------------
+ *********************   Date: 17/05/2022  ********************
+ <-1> 17/05/2022 15:21:38.058     [Info   ] - The INI file ("E:\Magic_XPA\XPA48\MAGIC.INI") was successfully opened.
+ <-1> 17/05/2022 15:21:38.082     [Info   ] - ProcessID is 31248
+ <-1> 17/05/2022 15:21:38.098     [Info   ] - The current working directory is: "E:\Magic_XPA\XPA48".
+ <-1> 17/05/2022 15:21:38.190     [Info   ] - Starting Magic xpa Server. Maximum checked-out concurrent threads: 1. Maximum checked-out concurrent users: 1.
+ <-1> 17/05/2022 15:21:41.802     [Info   ] - Starts Loading Component :  
+ <-1> 17/05/2022 15:21:41.803     [Info   ] - Starts Loading Component : E:\Magic_XPA\XPA48\Add_On\UserFunctionality\UserFunctionality.ecf 
+ <-1> 17/05/2022 15:21:41.824     [Info   ] - Starts Loading Component : System.Windows.Forms 
+ <-1> 17/05/2022 15:21:41.872     [Info   ] - Ends Loading Component : System.Windows.Forms 
+ <-1> 17/05/2022 15:21:41.872     [Info   ] - Starts Loading Component : System.Drawing 
+ <-1> 17/05/2022 15:21:41.881     [Info   ] - Ends Loading Component : System.Drawing 
+ <-1> 17/05/2022 15:21:41.886     [Info   ] - Starts Loading Component : System 
+ <-1> 17/05/2022 15:21:41.902     [Info   ] - Ends Loading Component : System 
+ <-1> 17/05/2022 15:21:41.902     [Info   ] - Starts Loading Component : System.Data 
+ <-1> 17/05/2022 15:21:41.925     [Info   ] - Ends Loading Component : System.Data 
+ <-1> 17/05/2022 15:21:41.925     [Info   ] - Starts Loading Component : Microsoft.Office.Interop.Excel 
+ <-1> 17/05/2022 15:21:42.011     [Info   ] - Ends Loading Component : Microsoft.Office.Interop.Excel 
+ <-1> 17/05/2022 15:21:42.011     [Info   ] - Starts Loading Component : Microsoft.CSharp 
+ <-1> 17/05/2022 15:21:42.023     [Info   ] - Ends Loading Component : Microsoft.CSharp 
+ <-1> 17/05/2022 15:21:42.026     [Info   ] - Starts Loading Component : System.Core 
+ <-1> 17/05/2022 15:21:42.037     [Info   ] - Ends Loading Component : System.Core 
+ <-1> 17/05/2022 15:21:42.059     [Info   ] - Ends Loading Component : E:\Magic_XPA\XPA48\Add_On\UserFunctionality\UserFunctionality.ecf 
+ <-1> 17/05/2022 15:21:42.064     [Info   ] -   License file: "E:\Magic_XPA\XPA48\LICENSE.dat", License feature: 'MGCSTK'.
+ <-1> 17/05/2022 15:21:42.069     [Info   ] -   The project was successfully opened.
+ <-1> 17/05/2022 15:21:57.078     [Info   ] -   Starts Loading Component : E:\Magic_XPA\XPA48\Add_On\UserFunctionality\UserFunctionality.ecf 
+ <-1> 17/05/2022 15:21:57.087     [Info   ] -   Starts Loading Component : System.Windows.Forms 
+ <-1> 17/05/2022 15:21:57.093     [Info   ] -   Ends Loading Component : System.Windows.Forms 
+ <-1> 17/05/2022 15:21:57.095     [Info   ] -   Starts Loading Component : System.Drawing 
+ <-1> 17/05/2022 15:21:57.104     [Info   ] -   Ends Loading Component : System.Drawing 
+ <-1> 17/05/2022 15:21:57.110     [Info   ] -   Starts Loading Component : System 
+ <-1> 17/05/2022 15:21:57.123     [Info   ] -   Ends Loading Component : System 
+ <-1> 17/05/2022 15:21:57.126     [Info   ] -   Starts Loading Component : System.Data 
+ <-1> 17/05/2022 15:21:57.139     [Info   ] -   Ends Loading Component : System.Data 
+ <-1> 17/05/2022 15:21:57.141     [Info   ] -   Starts Loading Component : Microsoft.Office.Interop.Excel 
+ <-1> 17/05/2022 15:21:57.160     [Info   ] -   Ends Loading Component : Microsoft.Office.Interop.Excel 
+ <-1> 17/05/2022 15:21:57.160     [Info   ] -   Starts Loading Component : Microsoft.CSharp 
+ <-1> 17/05/2022 15:21:57.171     [Info   ] -   Ends Loading Component : Microsoft.CSharp 
+ <-1> 17/05/2022 15:21:57.176     [Info   ] -   Starts Loading Component : System.Core 
+ <-1> 17/05/2022 15:21:57.187     [Info   ] -   Ends Loading Component : System.Core 
+ <-1> 17/05/2022 15:21:57.211     [Info   ] -   Ends Loading Component : E:\Magic_XPA\XPA48\Add_On\UserFunctionality\UserFunctionality.ecf 
+ <-1> 17/05/2022 15:21:58.065     [Info   ] -   Starts Loading Component : E:\Magic_XPA\XPA48\Add_On\UserFunctionality\UserFunctionality.ecf 
+ <-1> 17/05/2022 15:21:58.074     [Info   ] -   Starts Loading Component : System.Windows.Forms 
+ <-1> 17/05/2022 15:21:58.082     [Info   ] -   Ends Loading Component : System.Windows.Forms 
+ <-1> 17/05/2022 15:21:58.084     [Info   ] -   Starts Loading Component : System.Drawing 
+ <-1> 17/05/2022 15:21:58.094     [Info   ] -   Ends Loading Component : System.Drawing 
+ <-1> 17/05/2022 15:21:58.102     [Info   ] -   Starts Loading Component : System 
+ <-1> 17/05/2022 15:21:58.114     [Info   ] -   Ends Loading Component : System 
+ <-1> 17/05/2022 15:21:58.117     [Info   ] -   Starts Loading Component : System.Data 
+ <-1> 17/05/2022 15:21:58.130     [Info   ] -   Ends Loading Component : System.Data 
+ <-1> 17/05/2022 15:21:58.132     [Info   ] -   Starts Loading Component : Microsoft.Office.Interop.Excel 
+ <-1> 17/05/2022 15:21:58.142     [Info   ] -   Ends Loading Component : Microsoft.Office.Interop.Excel 
+ <-1> 17/05/2022 15:21:58.147     [Info   ] -   Starts Loading Component : Microsoft.CSharp 
+ <-1> 17/05/2022 15:21:58.157     [Info   ] -   Ends Loading Component : Microsoft.CSharp 
+ <-1> 17/05/2022 15:21:58.161     [Info   ] -   Starts Loading Component : System.Core 
+ <-1> 17/05/2022 15:21:58.172     [Info   ] -   Ends Loading Component : System.Core 
+ <-1> 17/05/2022 15:21:58.195     [Info   ] -   Ends Loading Component : E:\Magic_XPA\XPA48\Add_On\UserFunctionality\UserFunctionality.ecf 
+ <388044324242302528> 17/05/2022 15:23:06.849     [Action ] -   >>Starts load Batch Task - 'Main Program (UserFunctionality)' in Query mode (Task Instance: 1)
+ <388044324242302528> 17/05/2022 15:23:06.850     [Action ] -   Ends Load Task
+ <388044324242302528> 17/05/2022 15:23:06.859     [Action ] -   Starts Task Prefix
+ <388044324242302528> 17/05/2022 15:23:06.864     [Action ] -     Flow - Update: 'V: gV:FunctionsList' <== exp #41
+ <388044324242302528> 17/05/2022 15:23:06.872     [Action ] -     Flow - Update: 'W: gV:FunctionsDescriptionList' <== exp #42
+ <388044324242302528> 17/05/2022 15:23:06.878     [Action ] -     Flow - Update: 'X: gV:DigitAndPunctuationList' <== exp #43
+ <388044324242302528> 17/05/2022 15:23:06.886     [Action ] -     Flow - Update: 'BB: gV:IsHebrewApp' <== exp #105
+ <388044324242302528> 17/05/2022 15:23:06.893     [Action ] -   Ends Task Prefix
+ <388044324242302528> 17/05/2022 15:23:06.901     [Action ] -   Load records
+ <388044324242302528> 17/05/2022 15:23:07.029     [Action ] -   >>Starts load Batch Task - 'Main Program (CrashDll)' in Query mode (Task Instance: 2)
+ <388044324242302528> 17/05/2022 15:23:07.030     [Action ] -   Ends Load Task
+ <388044324242302528> 17/05/2022 15:23:07.038     [Action ] -   Load records
+ <388044324242302528> 17/05/2022 15:23:07.155     [Action ] -     >>Starts load Batch Task - 'Lecture Buffer ZalixEcritPlan' in Modify mode (Task Instance: 3)
+ <388044324242302528> 17/05/2022 15:23:07.156     [Action ] -     Ends Load Task
+ <388044324242302528> 17/05/2022 15:23:07.167     [Action ] -     Task Mode Change - Modify
+ <388044324242302528> 17/05/2022 15:23:07.176     [Action ] -     Starts Task Prefix
+ <388044324242302528> 17/05/2022 15:23:07.183     [Action ] -       Flow - Update: 'D: v : IpServer' <== exp #3
+ <388044324242302528> 17/05/2022 15:23:07.193     [Action ] -       Flow - Update: 'C: v : RetourLog' <== exp #4
+ <388044324242302528> 17/05/2022 15:23:07.202     [Action ] -       Flow - Update: 'E: v : IdentReponse' <== exp #6
+ <388044324242302528> 17/05/2022 15:23:07.210     [Action ] -       Flow - Update: 'F: v : Jour' <== exp #4
+ <388044324242302528> 17/05/2022 15:23:07.220     [Action ] -       Flow - Update: 'G: v : Mois' <== exp #4
+ <388044324242302528> 17/05/2022 15:23:07.228     [Action ] -       Flow - Update: 'H: v : Annee' <== exp #4
+ <388044324242302528> 17/05/2022 15:23:07.237     [Action ] -       Flow - Update: 'I: v : Heure' <== exp #4
+ <388044324242302528> 17/05/2022 15:23:07.244     [Action ] -       Flow - Update: 'J: v : Minute' <== exp #4
+ <388044324242302528> 17/05/2022 15:23:07.253     [Action ] -       Flow - Update: 'K: v : Seconde' <== exp #4
+ <388044324242302528> 17/05/2022 15:23:07.260     [Action ] -       Flow - Update: 'L: v : ID' <== exp #5
+ <388044324242302528> 17/05/2022 15:23:07.269     [Action ] -       Flow - Update: 'A: v : SOCKET' <== exp #9
+ <388044324242302528> 17/05/2022 15:23:07.276     [Action ] -     Ends Task Prefix
+ <388044324242302528> 17/05/2022 15:23:07.286     [Action ] -     Load records
+ <388044324242302528> 17/05/2022 15:23:07.299     [Action ] -     Starts Record Suffix
+ <388044324242302528> 17/05/2022 15:23:07.303     [Action ] -       Flow - Invoke UDP :: '@Zalix._Lecture_Zalix@40'
+ <388044324242302528> 17/05/2022 15:23:07.314     [Action ] -       Flow - Update: 'M: v : DateLog' <== exp #7
+ <388044324242302528> 17/05/2022 15:23:07.320     [Action ] -       Flow - Update: 'N: v : HeureLog' <== exp #8
+ <388044324242302528> 17/05/2022 15:23:07.327     [Action ] -       Flow - Verify Warning: Default title, Message Exp #10
+ <388044324242302528> 17/05/2022 15:23:07.336     [Warning] -       Date returned = 22/17/05 Time returned = 12:15:45 Hand Id =        10, Program: "Lecture Buffer ZalixEcritPlan".
+ <388044324242302528> 17/05/2022 15:23:10.385     [Action ] -     Ends Record Suffix
+ <388044324242302528> 17/05/2022 15:23:10.387     [Action ] -     Starts Closing Batch Task - 'Lecture Buffer ZalixEcritPlan' (Task Instance: 3)
+ <388044324242302528> 17/05/2022 15:23:10.432     [Action ] -   <<Ends Close Task
+ <388044324242302528> 17/05/2022 15:23:10.435     [Action ] -   >>  Processing Event  [Context Got Focus]  Control Name :  [ N/A ] 
+ <388044324242302528> 17/05/2022 15:23:10.450     [Action ] -   >>  Processing Event  [Exit System]  Control Name :  [ N/A ] 
+ <388044324242302528> 17/05/2022 15:23:10.462     [Info   ] -   Context released : 
+ <388044324242302528> 17/05/2022 15:23:10.472     [Action ] -   Starts Closing Batch Task - 'Main Program (CrashDll)' (Task Instance: 2)
+ <388044324242302528> 17/05/2022 15:23:10.504     [Action ] -   <<Ends Close Task
+ <388044324242302528> 17/05/2022 15:23:10.504     [Action ] -   Starts Closing Batch Task - 'Main Program (UserFunctionality)' (Task Instance: 1)
+ <388044324242302528> 17/05/2022 15:23:10.512     [Action ] -   <<Ends Close Task
+ <279468134161565504> 17/05/2022 15:23:29.222     [Action ] -   >>Starts load Batch Task - 'Main Program (UserFunctionality)' in Query mode (Task Instance: 4)
+ <279468134161565504> 17/05/2022 15:23:29.222     [Action ] -   Ends Load Task
+ <279468134161565504> 17/05/2022 15:23:29.230     [Action ] -   Starts Task Prefix
+ <279468134161565504> 17/05/2022 15:23:29.238     [Action ] -     Flow - Update: 'V: gV:FunctionsList' <== exp #41
+ <279468134161565504> 17/05/2022 15:23:29.245     [Action ] -     Flow - Update: 'W: gV:FunctionsDescriptionList' <== exp #42
+ <279468134161565504> 17/05/2022 15:23:29.254     [Action ] -     Flow - Update: 'X: gV:DigitAndPunctuationList' <== exp #43
+ <279468134161565504> 17/05/2022 15:23:29.261     [Action ] -     Flow - Update: 'BB: gV:IsHebrewApp' <== exp #105
+ <279468134161565504> 17/05/2022 15:23:29.269     [Action ] -   Ends Task Prefix
+ <279468134161565504> 17/05/2022 15:23:29.277     [Action ] -   Load records
+ <279468134161565504> 17/05/2022 15:23:29.293     [Action ] -   >>Starts load Batch Task - 'Main Program (CrashDll)' in Query mode (Task Instance: 5)
+ <279468134161565504> 17/05/2022 15:23:29.295     [Action ] -   Ends Load Task
+ <279468134161565504> 17/05/2022 15:23:29.303     [Action ] -   Load records
+ <279468134161565504> 17/05/2022 15:23:29.341     [Action ] -     >>Starts load Batch Task - 'Lecture Buffer ZalixEcritPlan' in Modify mode (Task Instance: 6)
+ <279468134161565504> 17/05/2022 15:23:29.341     [Action ] -     Ends Load Task
+ <279468134161565504> 17/05/2022 15:23:29.353     [Action ] -     Starts Task Prefix
+ <279468134161565504> 17/05/2022 15:23:29.363     [Action ] -       Flow - Update: 'D: v : IpServer' <== exp #3
+ <279468134161565504> 17/05/2022 15:23:29.373     [Action ] -       Flow - Update: 'C: v : RetourLog' <== exp #4
+ <279468134161565504> 17/05/2022 15:23:29.382     [Action ] -       Flow - Update: 'E: v : IdentReponse' <== exp #6
+ <279468134161565504> 17/05/2022 15:23:29.391     [Action ] -       Flow - Update: 'F: v : Jour' <== exp #4
+ <279468134161565504> 17/05/2022 15:23:29.398     [Action ] -       Flow - Update: 'G: v : Mois' <== exp #4
+ <279468134161565504> 17/05/2022 15:23:29.410     [Action ] -       Flow - Update: 'H: v : Annee' <== exp #4
+ <279468134161565504> 17/05/2022 15:23:29.419     [Action ] -       Flow - Update: 'I: v : Heure' <== exp #4
+ <279468134161565504> 17/05/2022 15:23:29.427     [Action ] -       Flow - Update: 'J: v : Minute' <== exp #4
+ <279468134161565504> 17/05/2022 15:23:29.436     [Action ] -       Flow - Update: 'K: v : Seconde' <== exp #4
+ <279468134161565504> 17/05/2022 15:23:29.444     [Action ] -       Flow - Update: 'L: v : ID' <== exp #5
+ <279468134161565504> 17/05/2022 15:23:29.453     [Action ] -       Flow - Update: 'A: v : SOCKET' <== exp #9
+ <279468134161565504> 17/05/2022 15:23:29.460     [Action ] -     Ends Task Prefix
+ <279468134161565504> 17/05/2022 15:23:29.470     [Action ] -     Load records
+ <279468134161565504> 17/05/2022 15:23:29.478     [Action ] -     Starts Record Suffix
+ <279468134161565504> 17/05/2022 15:23:29.486     [Action ] -       Flow - Invoke UDP :: '@Zalix._Lecture_Zalix@40'
+ <279468134161565504> 17/05/2022 15:23:29.495     [Action ] -       Flow - Update: 'M: v : DateLog' <== exp #7
+ <279468134161565504> 17/05/2022 15:23:29.503     [Action ] -       Flow - Update: 'N: v : HeureLog' <== exp #8
+ <279468134161565504> 17/05/2022 15:23:29.511     [Action ] -       Flow - Verify Warning: Default title, Message Exp #10
+ <279468134161565504> 17/05/2022 15:23:29.520     [Warning] -       Date returned = 22/17/05 Time returned = 12:15:45 Hand Id =        10, Program: "Lecture Buffer ZalixEcritPlan".
+ <279468134161565504> 17/05/2022 15:23:33.026     [Action ] -     Ends Record Suffix
+ <279468134161565504> 17/05/2022 15:23:33.026     [Action ] -     Starts Closing Batch Task - 'Lecture Buffer ZalixEcritPlan' (Task Instance: 6)
+ <279468134161565504> 17/05/2022 15:23:33.049     [Action ] -   <<Ends Close Task
+ <279468134161565504> 17/05/2022 15:23:33.049     [Action ] -   >>  Processing Event  [Exit System]  Control Name :  [ N/A ] 
+ <279468134161565504> 17/05/2022 15:23:33.058     [Info   ] -   Context released : 
+ <279468134161565504> 17/05/2022 15:23:33.065     [Action ] -   Starts Closing Batch Task - 'Main Program (CrashDll)' (Task Instance: 5)
+ <279468134161565504> 17/05/2022 15:23:33.094     [Action ] -   <<Ends Close Task
+ <279468134161565504> 17/05/2022 15:23:33.094     [Action ] -   Starts Closing Batch Task - 'Main Program (UserFunctionality)' (Task Instance: 4)
+ <279468134161565504> 17/05/2022 15:23:33.105     [Action ] -   <<Ends Close Task
+ <251995496551808192> 17/05/2022 15:26:35.409     [Action ] -   >>Starts load Batch Task - 'Main Program (UserFunctionality)' in Query mode (Task Instance: 7)
+ <251995496551808192> 17/05/2022 15:26:35.410     [Action ] -   Ends Load Task
+ <251995496551808192> 17/05/2022 15:26:35.417     [Action ] -   Starts Task Prefix
+ <251995496551808192> 17/05/2022 15:26:35.424     [Action ] -     Flow - Update: 'V: gV:FunctionsList' <== exp #41
+ <251995496551808192> 17/05/2022 15:26:35.431     [Action ] -     Flow - Update: 'W: gV:FunctionsDescriptionList' <== exp #42
+ <251995496551808192> 17/05/2022 15:26:35.437     [Action ] -     Flow - Update: 'X: gV:DigitAndPunctuationList' <== exp #43
+ <251995496551808192> 17/05/2022 15:26:35.444     [Action ] -     Flow - Update: 'BB: gV:IsHebrewApp' <== exp #105
+ <251995496551808192> 17/05/2022 15:26:35.451     [Action ] -   Ends Task Prefix
+ <251995496551808192> 17/05/2022 15:26:35.457     [Action ] -   Load records
+ <251995496551808192> 17/05/2022 15:26:35.471     [Action ] -   >>Starts load Batch Task - 'Main Program (CrashDll)' in Query mode (Task Instance: 8)
+ <251995496551808192> 17/05/2022 15:26:35.472     [Action ] -   Ends Load Task
+ <251995496551808192> 17/05/2022 15:26:35.479     [Action ] -   Load records
+ <251995496551808192> 17/05/2022 15:26:35.516     [Action ] -     >>Starts load Batch Task - 'Lecture Buffer ZalixEcritPlan' in Modify mode (Task Instance: 9)
+ <251995496551808192> 17/05/2022 15:26:35.517     [Action ] -     Ends Load Task
+ <251995496551808192> 17/05/2022 15:26:35.529     [Action ] -     Starts Task Prefix
+ <251995496551808192> 17/05/2022 15:26:35.538     [Action ] -       Flow - Update: 'D: v : IpServer' <== exp #3
+ <251995496551808192> 17/05/2022 15:26:35.548     [Action ] -       Flow - Update: 'C: v : RetourLog' <== exp #4
+ <251995496551808192> 17/05/2022 15:26:35.556     [Action ] -       Flow - Update: 'E: v : IdentReponse' <== exp #6
+ <251995496551808192> 17/05/2022 15:26:35.563     [Action ] -       Flow - Update: 'F: v : Jour' <== exp #4
+ <251995496551808192> 17/05/2022 15:26:35.570     [Action ] -       Flow - Update: 'G: v : Mois' <== exp #4
+ <251995496551808192> 17/05/2022 15:26:35.579     [Action ] -       Flow - Update: 'H: v : Annee' <== exp #4
+ <251995496551808192> 17/05/2022 15:26:35.586     [Action ] -       Flow - Update: 'I: v : Heure' <== exp #4
+ <251995496551808192> 17/05/2022 15:26:35.594     [Action ] -       Flow - Update: 'J: v : Minute' <== exp #4
+ <251995496551808192> 17/05/2022 15:26:35.601     [Action ] -       Flow - Update: 'K: v : Seconde' <== exp #4
+ <251995496551808192> 17/05/2022 15:26:35.610     [Action ] -       Flow - Update: 'L: v : ID' <== exp #5
+ <251995496551808192> 17/05/2022 15:26:35.618     [Action ] -       Flow - Update: 'A: v : SOCKET' <== exp #9
+ <251995496551808192> 17/05/2022 15:26:35.628     [Action ] -     Ends Task Prefix
+ <251995496551808192> 17/05/2022 15:26:35.635     [Action ] -     Load records
+ <251995496551808192> 17/05/2022 15:26:35.644     [Action ] -     Starts Record Suffix
+ <251995496551808192> 17/05/2022 15:26:35.652     [Action ] -       Flow - Invoke UDP :: '@Zalix._Lecture_Zalix@40'
+ <251995496551808192> 17/05/2022 15:26:35.662     [Action ] -       Flow - Update: 'M: v : DateLog' <== exp #7
+ <251995496551808192> 17/05/2022 15:26:35.668     [Action ] -       Flow - Update: 'N: v : HeureLog' <== exp #8
+ <251995496551808192> 17/05/2022 15:26:35.676     [Action ] -       Flow - Verify Warning: Default title, Message Exp #10
+ <251995496551808192> 17/05/2022 15:26:35.684     [Warning] -       Date returned = 22/17/05 Time returned = 12:15:45 Hand Id =        10, Program: "Lecture Buffer ZalixEcritPlan".
+ <251995496551808192> 17/05/2022 15:26:39.511     [Action ] -     Ends Record Suffix
+ <251995496551808192> 17/05/2022 15:26:39.511     [Action ] -     Starts Closing Batch Task - 'Lecture Buffer ZalixEcritPlan' (Task Instance: 9)
+ <251995496551808192> 17/05/2022 15:26:39.543     [Action ] -   <<Ends Close Task
+ <251995496551808192> 17/05/2022 15:26:39.544     [Action ] -   >>  Processing Event  [Exit System]  Control Name :  [ N/A ] 
+ <251995496551808192> 17/05/2022 15:26:39.551     [Info   ] -   Context released : 
+ <251995496551808192> 17/05/2022 15:26:39.559     [Action ] -   Starts Closing Batch Task - 'Main Program (CrashDll)' (Task Instance: 8)
+ <251995496551808192> 17/05/2022 15:26:39.590     [Action ] -   <<Ends Close Task
+ <251995496551808192> 17/05/2022 15:26:39.590     [Action ] -   Starts Closing Batch Task - 'Main Program (UserFunctionality)' (Task Instance: 7)
+ <251995496551808192> 17/05/2022 15:26:39.602     [Action ] -   <<Ends Close Task
+ <-1> 17/05/2022 15:27:40.775     [Info   ] - Process 31248 - Exiting Magic xpa
+ <-1> 17/05/2022 15:27:40.776     [Info   ] - ------------------------------------------
+ *********************   Date: 17/05/2022  ********************
+ <-1> 17/05/2022 15:28:25.855     [Info   ] - The INI file ("E:\Magic_XPA\XPA48\MAGIC.INI") was successfully opened.
+ <-1> 17/05/2022 15:28:25.884     [Info   ] - ProcessID is 27988
+ <-1> 17/05/2022 15:28:25.905     [Info   ] - The current working directory is: "E:\Magic_XPA\XPA48".
+ <-1> 17/05/2022 15:28:25.980     [Info   ] - Starting Magic xpa Server. Maximum checked-out concurrent threads: 1. Maximum checked-out concurrent users: 1.
+ <-1> 17/05/2022 15:28:29.585     [Info   ] - Starts Loading Component : E:\Magic_XPA\XPA48\Add_On\UserFunctionality\UserFunctionality.ecf 
+ <-1> 17/05/2022 15:28:29.593     [Info   ] - Starts Loading Component : System.Windows.Forms 
+ <-1> 17/05/2022 15:28:29.633     [Info   ] - Ends Loading Component : System.Windows.Forms 
+ <-1> 17/05/2022 15:28:29.633     [Info   ] - Starts Loading Component : System.Drawing 
+ <-1> 17/05/2022 15:28:29.643     [Info   ] - Ends Loading Component : System.Drawing 
+ <-1> 17/05/2022 15:28:29.648     [Info   ] - Starts Loading Component : System 
+ <-1> 17/05/2022 15:28:29.663     [Info   ] - Ends Loading Component : System 
+ <-1> 17/05/2022 15:28:29.664     [Info   ] - Starts Loading Component : System.Data 
+ <-1> 17/05/2022 15:28:29.686     [Info   ] - Ends Loading Component : System.Data 
+ <-1> 17/05/2022 15:28:29.686     [Info   ] - Starts Loading Component : Microsoft.Office.Interop.Excel 
+ <-1> 17/05/2022 15:28:29.752     [Info   ] - Ends Loading Component : Microsoft.Office.Interop.Excel 
+ <-1> 17/05/2022 15:28:29.752     [Info   ] - Starts Loading Component : Microsoft.CSharp 
+ <-1> 17/05/2022 15:28:29.766     [Info   ] - Ends Loading Component : Microsoft.CSharp 
+ <-1> 17/05/2022 15:28:29.769     [Info   ] - Starts Loading Component : System.Core 
+ <-1> 17/05/2022 15:28:29.780     [Info   ] - Ends Loading Component : System.Core 
+ <-1> 17/05/2022 15:28:29.803     [Info   ] - Ends Loading Component : E:\Magic_XPA\XPA48\Add_On\UserFunctionality\UserFunctionality.ecf 
+ <-1> 17/05/2022 15:28:29.809     [Info   ] -   License file: "E:\Magic_XPA\XPA48\LICENSE.dat", License feature: 'MGCSTK'.
+ <-1> 17/05/2022 15:28:29.813     [Info   ] -   The project was successfully opened.
+ <295841827889460736> 17/05/2022 15:28:34.589     [Action ] -   >>Starts load Batch Task - 'Main Program (UserFunctionality)' in Query mode (Task Instance: 1)
+ <295841827889460736> 17/05/2022 15:28:34.589     [Action ] -   Ends Load Task
+ <295841827889460736> 17/05/2022 15:28:34.598     [Action ] -   Starts Task Prefix
+ <295841827889460736> 17/05/2022 15:28:34.604     [Action ] -     Flow - Update: 'V: gV:FunctionsList' <== exp #41
+ <295841827889460736> 17/05/2022 15:28:34.612     [Action ] -     Flow - Update: 'W: gV:FunctionsDescriptionList' <== exp #42
+ <295841827889460736> 17/05/2022 15:28:34.620     [Action ] -     Flow - Update: 'X: gV:DigitAndPunctuationList' <== exp #43
+ <295841827889460736> 17/05/2022 15:28:34.628     [Action ] -     Flow - Update: 'BB: gV:IsHebrewApp' <== exp #105
+ <295841827889460736> 17/05/2022 15:28:34.635     [Action ] -   Ends Task Prefix
+ <295841827889460736> 17/05/2022 15:28:34.644     [Action ] -   Load records
+ <295841827889460736> 17/05/2022 15:28:34.753     [Action ] -   >>Starts load Batch Task - 'Main Program (CrashDll)' in Query mode (Task Instance: 2)
+ <295841827889460736> 17/05/2022 15:28:34.754     [Action ] -   Ends Load Task
+ <295841827889460736> 17/05/2022 15:28:34.762     [Action ] -   Load records
+ <295841827889460736> 17/05/2022 15:28:34.865     [Action ] -     >>Starts load Batch Task - 'Lecture Buffer ZalixEcritPlan' in Modify mode (Task Instance: 3)
+ <295841827889460736> 17/05/2022 15:28:34.866     [Action ] -     Ends Load Task
+ <295841827889460736> 17/05/2022 15:28:34.878     [Action ] -     Task Mode Change - Modify
+ <295841827889460736> 17/05/2022 15:28:34.887     [Action ] -     Starts Task Prefix
+ <295841827889460736> 17/05/2022 15:28:34.897     [Action ] -       Flow - Update: 'D: v : IpServer' <== exp #3
+ <295841827889460736> 17/05/2022 15:28:34.905     [Action ] -       Flow - Update: 'C: v : RetourLog' <== exp #4
+ <295841827889460736> 17/05/2022 15:28:34.916     [Action ] -       Flow - Update: 'E: v : IdentReponse' <== exp #6
+ <295841827889460736> 17/05/2022 15:28:34.924     [Action ] -       Flow - Update: 'F: v : Jour' <== exp #4
+ <295841827889460736> 17/05/2022 15:28:34.934     [Action ] -       Flow - Update: 'G: v : Mois' <== exp #4
+ <295841827889460736> 17/05/2022 15:28:34.941     [Action ] -       Flow - Update: 'H: v : Annee' <== exp #4
+ <295841827889460736> 17/05/2022 15:28:34.949     [Action ] -       Flow - Update: 'I: v : Heure' <== exp #4
+ <295841827889460736> 17/05/2022 15:28:34.956     [Action ] -       Flow - Update: 'J: v : Minute' <== exp #4
+ <295841827889460736> 17/05/2022 15:28:34.965     [Action ] -       Flow - Update: 'K: v : Seconde' <== exp #4
+ <295841827889460736> 17/05/2022 15:28:34.973     [Action ] -       Flow - Update: 'L: v : ID' <== exp #5
+ <295841827889460736> 17/05/2022 15:28:34.981     [Action ] -       Flow - Update: 'A: v : SOCKET' <== exp #9
+ <295841827889460736> 17/05/2022 15:28:34.989     [Action ] -     Ends Task Prefix
+ <295841827889460736> 17/05/2022 15:28:34.997     [Action ] -     Load records
+ <295841827889460736> 17/05/2022 15:28:35.010     [Action ] -     Starts Record Suffix
+ <295841827889460736> 17/05/2022 15:28:35.014     [Action ] -       Flow - Invoke UDP :: '@Zalix._Lecture_Zalix@40'
+ <295841827889460736> 17/05/2022 15:28:35.047     [Action ] -       Flow - Update: 'M: v : DateLog' <== exp #7
+ <295841827889460736> 17/05/2022 15:28:35.047     [Action ] -       Flow - Update: 'N: v : HeureLog' <== exp #8
+ <295841827889460736> 17/05/2022 15:28:35.054     [Action ] -       Flow - Verify Warning: Default title, Message Exp #10
+ <295841827889460736> 17/05/2022 15:28:35.063     [Warning] -       Date returned = 22/17/05 Time returned = 12:15:45 Hand Id =        10, Program: "Lecture Buffer ZalixEcritPlan".
+ <295841827889460736> 17/05/2022 15:28:55.032     [Action ] -     Ends Record Suffix
+ <295841827889460736> 17/05/2022 15:28:55.033     [Action ] -     Starts Closing Batch Task - 'Lecture Buffer ZalixEcritPlan' (Task Instance: 3)
+ <295841827889460736> 17/05/2022 15:28:55.060     [Action ] -   <<Ends Close Task
+ <295841827889460736> 17/05/2022 15:28:55.061     [Action ] -   >>  Processing Event  [Context Got Focus]  Control Name :  [ N/A ] 
+ <295841827889460736> 17/05/2022 15:28:55.069     [Action ] -   >>  Processing Event  [Exit System]  Control Name :  [ N/A ] 
+ <295841827889460736> 17/05/2022 15:28:55.077     [Info   ] -   Context released : 
+ <295841827889460736> 17/05/2022 15:28:55.084     [Action ] -   Starts Closing Batch Task - 'Main Program (CrashDll)' (Task Instance: 2)
+ <295841827889460736> 17/05/2022 15:28:55.105     [Action ] -   <<Ends Close Task
+ <295841827889460736> 17/05/2022 15:28:55.106     [Action ] -   Starts Closing Batch Task - 'Main Program (UserFunctionality)' (Task Instance: 1)
+ <295841827889460736> 17/05/2022 15:28:55.117     [Action ] -   <<Ends Close Task
+ <382108141666339392> 17/05/2022 15:28:57.394     [Action ] -   >>Starts load Batch Task - 'Main Program (UserFunctionality)' in Query mode (Task Instance: 4)
+ <382108141666339392> 17/05/2022 15:28:57.395     [Action ] -   Ends Load Task
+ <382108141666339392> 17/05/2022 15:28:57.402     [Action ] -   Starts Task Prefix
+ <382108141666339392> 17/05/2022 15:28:57.409     [Action ] -     Flow - Update: 'V: gV:FunctionsList' <== exp #41
+ <382108141666339392> 17/05/2022 15:28:57.416     [Action ] -     Flow - Update: 'W: gV:FunctionsDescriptionList' <== exp #42
+ <382108141666339392> 17/05/2022 15:28:57.424     [Action ] -     Flow - Update: 'X: gV:DigitAndPunctuationList' <== exp #43
+ <382108141666339392> 17/05/2022 15:28:57.431     [Action ] -     Flow - Update: 'BB: gV:IsHebrewApp' <== exp #105
+ <382108141666339392> 17/05/2022 15:28:57.438     [Action ] -   Ends Task Prefix
+ <382108141666339392> 17/05/2022 15:28:57.445     [Action ] -   Load records
+ <382108141666339392> 17/05/2022 15:28:57.460     [Action ] -   >>Starts load Batch Task - 'Main Program (CrashDll)' in Query mode (Task Instance: 5)
+ <382108141666339392> 17/05/2022 15:28:57.461     [Action ] -   Ends Load Task
+ <382108141666339392> 17/05/2022 15:28:57.468     [Action ] -   Load records
+ <382108141666339392> 17/05/2022 15:28:57.500     [Action ] -     >>Starts load Batch Task - 'Lecture Buffer ZalixEcritPlan' in Modify mode (Task Instance: 6)
+ <382108141666339392> 17/05/2022 15:28:57.501     [Action ] -     Ends Load Task
+ <382108141666339392> 17/05/2022 15:28:57.512     [Action ] -     Starts Task Prefix
+ <382108141666339392> 17/05/2022 15:28:57.523     [Action ] -       Flow - Update: 'D: v : IpServer' <== exp #3
+ <382108141666339392> 17/05/2022 15:28:57.533     [Action ] -       Flow - Update: 'C: v : RetourLog' <== exp #4
+ <382108141666339392> 17/05/2022 15:28:57.541     [Action ] -       Flow - Update: 'E: v : IdentReponse' <== exp #6
+ <382108141666339392> 17/05/2022 15:28:57.549     [Action ] -       Flow - Update: 'F: v : Jour' <== exp #4
+ <382108141666339392> 17/05/2022 15:28:57.555     [Action ] -       Flow - Update: 'G: v : Mois' <== exp #4
+ <382108141666339392> 17/05/2022 15:28:57.565     [Action ] -       Flow - Update: 'H: v : Annee' <== exp #4
+ <382108141666339392> 17/05/2022 15:28:57.572     [Action ] -       Flow - Update: 'I: v : Heure' <== exp #4
+ <382108141666339392> 17/05/2022 15:28:57.580     [Action ] -       Flow - Update: 'J: v : Minute' <== exp #4
+ <382108141666339392> 17/05/2022 15:28:57.588     [Action ] -       Flow - Update: 'K: v : Seconde' <== exp #4
+ <382108141666339392> 17/05/2022 15:28:57.596     [Action ] -       Flow - Update: 'L: v : ID' <== exp #5
+ <382108141666339392> 17/05/2022 15:28:57.604     [Action ] -       Flow - Update: 'A: v : SOCKET' <== exp #9
+ <382108141666339392> 17/05/2022 15:28:57.613     [Action ] -     Ends Task Prefix
+ <382108141666339392> 17/05/2022 15:28:57.620     [Action ] -     Load records
+ <382108141666339392> 17/05/2022 15:28:57.630     [Action ] -     Starts Record Suffix
+ <382108141666339392> 17/05/2022 15:28:57.637     [Action ] -       Flow - Invoke UDP :: '@Zalix._Lecture_Zalix@40'
+ <382108141666339392> 17/05/2022 15:28:57.648     [Action ] -       Flow - Update: 'M: v : DateLog' <== exp #7
+ <382108141666339392> 17/05/2022 15:28:57.654     [Action ] -       Flow - Update: 'N: v : HeureLog' <== exp #8
+ <382108141666339392> 17/05/2022 15:28:57.663     [Action ] -       Flow - Verify Warning: Default title, Message Exp #10
+ <382108141666339392> 17/05/2022 15:28:57.670     [Warning] -       Date returned = 22/17/05 Time returned = 12:15:45 Hand Id =        10, Program: "Lecture Buffer ZalixEcritPlan".
+ <382108141666339392> 17/05/2022 15:29:02.656     [Action ] -     Ends Record Suffix
+ <382108141666339392> 17/05/2022 15:29:02.657     [Action ] -     Starts Closing Batch Task - 'Lecture Buffer ZalixEcritPlan' (Task Instance: 6)
+ <382108141666339392> 17/05/2022 15:29:02.691     [Action ] -   <<Ends Close Task
+ <382108141666339392> 17/05/2022 15:29:02.692     [Action ] -   >>  Processing Event  [Exit System]  Control Name :  [ N/A ] 
+ <382108141666339392> 17/05/2022 15:29:02.700     [Info   ] -   Context released : 
+ <382108141666339392> 17/05/2022 15:29:02.708     [Action ] -   Starts Closing Batch Task - 'Main Program (CrashDll)' (Task Instance: 5)
+ <382108141666339392> 17/05/2022 15:29:02.737     [Action ] -   <<Ends Close Task
+ <382108141666339392> 17/05/2022 15:29:02.738     [Action ] -   Starts Closing Batch Task - 'Main Program (UserFunctionality)' (Task Instance: 4)
+ <382108141666339392> 17/05/2022 15:29:02.749     [Action ] -   <<Ends Close Task
+ <-1> 17/05/2022 16:24:47.774     [Info   ] - Process 27988 - Exiting Magic xpa
+ <-1> 17/05/2022 16:24:47.774     [Info   ] - ------------------------------------------
+ *********************   Date: 19/05/2022  ********************
+ <-1> 19/05/2022 11:05:19.025     [Info   ] - The INI file ("E:\Magic_XPA\XPA48\MAGIC.INI") was successfully opened.
+ <-1> 19/05/2022 11:05:19.067     [Info   ] - ProcessID is 34512
+ <-1> 19/05/2022 11:05:19.078     [Info   ] - The current working directory is: "E:\Magic_XPA\XPA48".
+ <-1> 19/05/2022 11:05:19.195     [Info   ] - Starting Magic xpa Server. Maximum checked-out concurrent threads: 1. Maximum checked-out concurrent users: 1.
+ <-1> 19/05/2022 11:06:14.963     [Info   ] - Starts Loading Component : E:\Magic_XPA\XPA48\Add_On\UserFunctionality\UserFunctionality.ecf 
+ <-1> 19/05/2022 11:06:14.974     [Info   ] - Starts Loading Component : System.Windows.Forms 
+ <-1> 19/05/2022 11:06:15.032     [Info   ] - Ends Loading Component : System.Windows.Forms 
+ <-1> 19/05/2022 11:06:15.032     [Info   ] - Starts Loading Component : System.Drawing 
+ <-1> 19/05/2022 11:06:15.045     [Info   ] - Ends Loading Component : System.Drawing 
+ <-1> 19/05/2022 11:06:15.047     [Info   ] - Starts Loading Component : System 
+ <-1> 19/05/2022 11:06:15.063     [Info   ] - Ends Loading Component : System 
+ <-1> 19/05/2022 11:06:15.063     [Info   ] - Starts Loading Component : System.Data 
+ <-1> 19/05/2022 11:06:15.104     [Info   ] - Ends Loading Component : System.Data 
+ <-1> 19/05/2022 11:06:15.104     [Info   ] - Starts Loading Component : Microsoft.Office.Interop.Excel 
+ <-1> 19/05/2022 11:06:15.224     [Info   ] - Ends Loading Component : Microsoft.Office.Interop.Excel 
+ <-1> 19/05/2022 11:06:15.225     [Info   ] - Starts Loading Component : Microsoft.CSharp 
+ <-1> 19/05/2022 11:06:15.240     [Info   ] - Ends Loading Component : Microsoft.CSharp 
+ <-1> 19/05/2022 11:06:15.240     [Info   ] - Starts Loading Component : System.Core 
+ <-1> 19/05/2022 11:06:15.256     [Info   ] - Ends Loading Component : System.Core 
+ <-1> 19/05/2022 11:06:15.279     [Info   ] - Ends Loading Component : E:\Magic_XPA\XPA48\Add_On\UserFunctionality\UserFunctionality.ecf 
+ <-1> 19/05/2022 11:06:15.284     [Info   ] -   License file: "E:\Magic_XPA\XPA48\LICENSE.dat", License feature: 'MGCSTK'.
+ <-1> 19/05/2022 11:06:15.288     [Info   ] -   The project was successfully opened.
+ <-1> 19/05/2022 11:07:55.045     [Info   ] -   Starts Loading Component : E:\Magic_XPA\XPA48\Add_On\UserFunctionality\UserFunctionality.ecf 
+ <-1> 19/05/2022 11:07:55.053     [Info   ] -   Starts Loading Component : System.Windows.Forms 
+ <-1> 19/05/2022 11:07:55.062     [Info   ] -   Ends Loading Component : System.Windows.Forms 
+ <-1> 19/05/2022 11:07:55.065     [Info   ] -   Starts Loading Component : System.Drawing 
+ <-1> 19/05/2022 11:07:55.079     [Info   ] -   Ends Loading Component : System.Drawing 
+ <-1> 19/05/2022 11:07:55.088     [Info   ] -   Starts Loading Component : System 
+ <-1> 19/05/2022 11:07:55.109     [Info   ] -   Ends Loading Component : System 
+ <-1> 19/05/2022 11:07:55.112     [Info   ] -   Starts Loading Component : System.Data 
+ <-1> 19/05/2022 11:07:55.133     [Info   ] -   Ends Loading Component : System.Data 
+ <-1> 19/05/2022 11:07:55.137     [Info   ] -   Starts Loading Component : Microsoft.Office.Interop.Excel 
+ <-1> 19/05/2022 11:07:55.157     [Info   ] -   Ends Loading Component : Microsoft.Office.Interop.Excel 
+ <-1> 19/05/2022 11:07:55.161     [Info   ] -   Starts Loading Component : Microsoft.CSharp 
+ <-1> 19/05/2022 11:07:55.175     [Info   ] -   Ends Loading Component : Microsoft.CSharp 
+ <-1> 19/05/2022 11:07:55.180     [Info   ] -   Starts Loading Component : System.Core 
+ <-1> 19/05/2022 11:07:55.195     [Info   ] -   Ends Loading Component : System.Core 
+ <-1> 19/05/2022 11:07:55.224     [Info   ] -   Ends Loading Component : E:\Magic_XPA\XPA48\Add_On\UserFunctionality\UserFunctionality.ecf 
+ <-1> 19/05/2022 11:07:55.224     [Info   ] -   Starts Loading Component : E:\Magic_XPA\XPA48\Add_On\UserFunctionality\UserFunctionality.ecf 
+ <-1> 19/05/2022 11:07:55.233     [Info   ] -   Ends Loading Component : E:\Magic_XPA\XPA48\Add_On\UserFunctionality\UserFunctionality.ecf 
+ <371012666598782592> 19/05/2022 11:10:06.119     [Info   ] -   Context released : 
+ <-1> 19/05/2022 11:10:06.148     [Info   ] -   Execution stopped.
+ <-1> 19/05/2022 11:11:34.094     [Info   ] - Process 34512 - Exiting Magic xpa
+ <-1> 19/05/2022 11:11:34.094     [Info   ] - ------------------------------------------
+ *********************   Date: 19/05/2022  ********************
+ <-1> 19/05/2022 12:31:21.863     [Info   ] - The INI file ("E:\Magic_XPA\XPA48\MAGIC.INI") was successfully opened.
+ <-1> 19/05/2022 12:31:21.891     [Info   ] - ProcessID is 9288
+ <-1> 19/05/2022 12:31:21.910     [Info   ] - The current working directory is: "E:\Magic_XPA\XPA48".
+ <-1> 19/05/2022 12:31:22.000     [Info   ] - Starting Magic xpa Server. Maximum checked-out concurrent threads: 1. Maximum checked-out concurrent users: 1.
+ <-1> 19/05/2022 12:31:29.347     [Info   ] - Starts Loading Component : E:\Magic_XPA\XPA48\Add_On\UserFunctionality\UserFunctionality.ecf 
+ <-1> 19/05/2022 12:31:29.355     [Info   ] - Starts Loading Component : System.Windows.Forms 
+ <-1> 19/05/2022 12:31:29.397     [Info   ] - Ends Loading Component : System.Windows.Forms 
+ <-1> 19/05/2022 12:31:29.397     [Info   ] - Starts Loading Component : System.Drawing 
+ <-1> 19/05/2022 12:31:29.407     [Info   ] - Ends Loading Component : System.Drawing 
+ <-1> 19/05/2022 12:31:29.412     [Info   ] - Starts Loading Component : System 
+ <-1> 19/05/2022 12:31:29.427     [Info   ] - Ends Loading Component : System 
+ <-1> 19/05/2022 12:31:29.427     [Info   ] - Starts Loading Component : System.Data 
+ <-1> 19/05/2022 12:31:29.450     [Info   ] - Ends Loading Component : System.Data 
+ <-1> 19/05/2022 12:31:29.450     [Info   ] - Starts Loading Component : Microsoft.Office.Interop.Excel 
+ <-1> 19/05/2022 12:31:29.522     [Info   ] - Ends Loading Component : Microsoft.Office.Interop.Excel 
+ <-1> 19/05/2022 12:31:29.522     [Info   ] - Starts Loading Component : Microsoft.CSharp 
+ <-1> 19/05/2022 12:31:29.536     [Info   ] - Ends Loading Component : Microsoft.CSharp 
+ <-1> 19/05/2022 12:31:29.540     [Info   ] - Starts Loading Component : System.Core 
+ <-1> 19/05/2022 12:31:29.550     [Info   ] - Ends Loading Component : System.Core 
+ <-1> 19/05/2022 12:31:29.571     [Info   ] - Ends Loading Component : E:\Magic_XPA\XPA48\Add_On\UserFunctionality\UserFunctionality.ecf 
+ <-1> 19/05/2022 12:31:29.571     [Info   ] - Starts Loading Component : E:\Magic_XPA\XPA48\Add_On\UserFunctionality\UserFunctionality.ecf 
+ <-1> 19/05/2022 12:31:29.579     [Info   ] - Ends Loading Component : E:\Magic_XPA\XPA48\Add_On\UserFunctionality\UserFunctionality.ecf 
+ <-1> 19/05/2022 12:31:29.592     [Info   ] -   License file: "E:\Magic_XPA\XPA48\LICENSE.dat", License feature: 'MGCSTK'.
+ <-1> 19/05/2022 12:31:29.596     [Info   ] -   The project was successfully opened.
+ *********************   Date: 19/05/2022  ********************
+ <-1> 19/05/2022 14:34:30.888     [Error  ] -   Error: "Cannot connect to the middleware" (-150)
+ <-1> 19/05/2022 14:43:48.686     [Info   ] - Process 9288 - Exiting Magic xpa
+ <-1> 19/05/2022 14:43:48.686     [Info   ] - ------------------------------------------
+ *********************   Date: 19/05/2022  ********************
+ <-1> 19/05/2022 14:45:12.740     [Info   ] - The INI file ("E:\Magic_XPA\XPA48\MAGIC.INI") was successfully opened.
+ <-1> 19/05/2022 14:45:12.780     [Info   ] - ProcessID is 13228
+ <-1> 19/05/2022 14:45:12.817     [Info   ] - The current working directory is: "E:\Magic_XPA\XPA48".
+ <-1> 19/05/2022 14:45:12.906     [Info   ] - Starting Magic xpa Server. Maximum checked-out concurrent threads: 1. Maximum checked-out concurrent users: 1.
+ <-1> 19/05/2022 14:45:20.239     [Info   ] - Starts Loading Component : E:\Magic_XPA\XPA48\Add_On\UserFunctionality\UserFunctionality.ecf 
+ <-1> 19/05/2022 14:45:20.248     [Info   ] - Starts Loading Component : System.Windows.Forms 
+ <-1> 19/05/2022 14:45:20.293     [Info   ] - Ends Loading Component : System.Windows.Forms 
+ <-1> 19/05/2022 14:45:20.293     [Info   ] - Starts Loading Component : System.Drawing 
+ <-1> 19/05/2022 14:45:20.304     [Info   ] - Ends Loading Component : System.Drawing 
+ <-1> 19/05/2022 14:45:20.310     [Info   ] - Starts Loading Component : System 
+ <-1> 19/05/2022 14:45:20.329     [Info   ] - Ends Loading Component : System 
+ <-1> 19/05/2022 14:45:20.329     [Info   ] - Starts Loading Component : System.Data 
+ <-1> 19/05/2022 14:45:20.357     [Info   ] - Ends Loading Component : System.Data 
+ <-1> 19/05/2022 14:45:20.357     [Info   ] - Starts Loading Component : Microsoft.Office.Interop.Excel 
+ <-1> 19/05/2022 14:45:20.435     [Info   ] - Ends Loading Component : Microsoft.Office.Interop.Excel 
+ <-1> 19/05/2022 14:45:20.435     [Info   ] - Starts Loading Component : Microsoft.CSharp 
+ <-1> 19/05/2022 14:45:20.454     [Info   ] - Ends Loading Component : Microsoft.CSharp 
+ <-1> 19/05/2022 14:45:20.454     [Info   ] - Starts Loading Component : System.Core 
+ <-1> 19/05/2022 14:45:20.467     [Info   ] - Ends Loading Component : System.Core 
+ <-1> 19/05/2022 14:45:20.499     [Info   ] - Ends Loading Component : E:\Magic_XPA\XPA48\Add_On\UserFunctionality\UserFunctionality.ecf 
+ <-1> 19/05/2022 14:45:20.499     [Info   ] - Starts Loading Component : E:\Magic_XPA\XPA48\Add_On\UserFunctionality\UserFunctionality.ecf 
+ <-1> 19/05/2022 14:45:20.507     [Info   ] - Ends Loading Component : E:\Magic_XPA\XPA48\Add_On\UserFunctionality\UserFunctionality.ecf 
+ <-1> 19/05/2022 14:45:20.520     [Info   ] -   License file: "E:\Magic_XPA\XPA48\LICENSE.dat", License feature: 'MGCSTK'.
+ <-1> 19/05/2022 14:45:20.526     [Info   ] -   The project was successfully opened.
+ <-1> 19/05/2022 15:14:59.491     [Info   ] - Starts Loading Component : E:\Magic_XPA\XPA48\Add_On\UserFunctionality\UserFunctionality.ecf 
+ <-1> 19/05/2022 15:14:59.498     [Info   ] - Starts Loading Component : System.Windows.Forms 
+ <-1> 19/05/2022 15:14:59.504     [Info   ] - Ends Loading Component : System.Windows.Forms 
+ <-1> 19/05/2022 15:14:59.506     [Info   ] - Starts Loading Component : System.Drawing 
+ <-1> 19/05/2022 15:14:59.514     [Info   ] - Ends Loading Component : System.Drawing 
+ <-1> 19/05/2022 15:14:59.519     [Info   ] - Starts Loading Component : System 
+ <-1> 19/05/2022 15:14:59.530     [Info   ] - Ends Loading Component : System 
+ <-1> 19/05/2022 15:14:59.531     [Info   ] - Starts Loading Component : System.Data 
+ <-1> 19/05/2022 15:14:59.542     [Info   ] - Ends Loading Component : System.Data 
+ <-1> 19/05/2022 15:14:59.543     [Info   ] - Starts Loading Component : Microsoft.Office.Interop.Excel 
+ <-1> 19/05/2022 15:14:59.555     [Info   ] - Ends Loading Component : Microsoft.Office.Interop.Excel 
+ <-1> 19/05/2022 15:14:59.557     [Info   ] - Starts Loading Component : Microsoft.CSharp 
+ <-1> 19/05/2022 15:14:59.566     [Info   ] - Ends Loading Component : Microsoft.CSharp 
+ <-1> 19/05/2022 15:14:59.570     [Info   ] - Starts Loading Component : System.Core 
+ <-1> 19/05/2022 15:14:59.588     [Info   ] - Ends Loading Component : System.Core 
+ <-1> 19/05/2022 15:14:59.610     [Info   ] - Ends Loading Component : E:\Magic_XPA\XPA48\Add_On\UserFunctionality\UserFunctionality.ecf 
+ <-1> 19/05/2022 15:14:59.610     [Info   ] - Starts Loading Component : E:\Magic_XPA\XPA48\Add_On\UserFunctionality\UserFunctionality.ecf 
+ <-1> 19/05/2022 15:14:59.619     [Info   ] - Ends Loading Component : E:\Magic_XPA\XPA48\Add_On\UserFunctionality\UserFunctionality.ecf 
+ <-1> 19/05/2022 15:14:59.632     [Info   ] -   License file: "E:\Magic_XPA\XPA48\LICENSE.dat", License feature: 'MGCSTK'.
+ <-1> 19/05/2022 15:14:59.635     [Info   ] -   The project was successfully opened.
+ <-1> 19/05/2022 15:34:29.434     [Info   ] - Process 13228 - Exiting Magic xpa
+ <-1> 19/05/2022 15:34:29.435     [Info   ] - ------------------------------------------
+ *********************   Date: 19/05/2022  ********************
+ <-1> 19/05/2022 16:07:59.273     [Info   ] - The INI file ("E:\Magic_XPA\XPA48\MAGIC.INI") was successfully opened.
+ <-1> 19/05/2022 16:07:59.311     [Info   ] - ProcessID is 12504
+ <-1> 19/05/2022 16:07:59.322     [Info   ] - The current working directory is: "E:\Magic_XPA\XPA48".
+ <-1> 19/05/2022 16:07:59.393     [Info   ] - Starting Magic xpa Server. Maximum checked-out concurrent threads: 1. Maximum checked-out concurrent users: 1.
+ <-1> 19/05/2022 16:20:16.159     [Info   ] - Process 12504 - Exiting Magic xpa
+ <-1> 19/05/2022 16:20:16.160     [Info   ] - ------------------------------------------
+ *********************   Date: 19/05/2022  ********************
+ <-1> 19/05/2022 16:20:37.753     [Info   ] - The INI file ("E:\Magic_XPA\XPA48\MAGIC.INI") was successfully opened.
+ <-1> 19/05/2022 16:20:37.783     [Info   ] - ProcessID is 36292
+ <-1> 19/05/2022 16:20:37.816     [Info   ] - The current working directory is: "E:\Magic_XPA\XPA48".
+ <-1> 19/05/2022 16:20:37.923     [Info   ] - Starting Magic xpa Server. Maximum checked-out concurrent threads: 1. Maximum checked-out concurrent users: 1.
+ <-1> 19/05/2022 16:25:17.070     [Info   ] - Process 36292 - Exiting Magic xpa
+ <-1> 19/05/2022 16:25:17.070     [Info   ] - ------------------------------------------
+ *********************   Date: 19/05/2022  ********************
+ <-1> 19/05/2022 16:25:34.557     [Info   ] - The INI file ("E:\Magic_XPA\XPA48\MAGIC.INI") was successfully opened.
+ <-1> 19/05/2022 16:25:34.589     [Info   ] - ProcessID is 28008
+ <-1> 19/05/2022 16:25:34.619     [Info   ] - The current working directory is: "E:\Magic_XPA\XPA48".
+ <-1> 19/05/2022 16:25:34.739     [Info   ] - Starting Magic xpa Server. Maximum checked-out concurrent threads: 1. Maximum checked-out concurrent users: 1.
+ <-1> 19/05/2022 16:34:52.179     [Info   ] - Process 28008 - Exiting Magic xpa
+ <-1> 19/05/2022 16:34:52.179     [Info   ] - ------------------------------------------
+ *********************   Date: 19/05/2022  ********************
+ <-1> 19/05/2022 16:35:31.434     [Info   ] - The INI file ("E:\Magic_XPA\XPA48\MAGIC.INI") was successfully opened.
+ <-1> 19/05/2022 16:35:31.503     [Info   ] - ProcessID is 26196
+ <-1> 19/05/2022 16:35:31.526     [Info   ] - The current working directory is: "E:\Magic_XPA\XPA48".
+ <-1> 19/05/2022 16:35:31.619     [Info   ] - Starting Magic xpa Server. Maximum checked-out concurrent threads: 1. Maximum checked-out concurrent users: 1.
+ <-1> 19/05/2022 16:37:39.226     [Info   ] - Process 26196 - Exiting Magic xpa
+ <-1> 19/05/2022 16:37:39.226     [Info   ] - ------------------------------------------
+ *********************   Date: 19/05/2022  ********************
+ <-1> 19/05/2022 16:43:18.492     [Info   ] - The INI file ("E:\Magic_XPA\XPA48\MAGIC.INI") was successfully opened.
+ <-1> 19/05/2022 16:43:18.524     [Info   ] - ProcessID is 33164
+ <-1> 19/05/2022 16:43:18.550     [Info   ] - The current working directory is: "E:\Magic_XPA\XPA48".
+ <-1> 19/05/2022 16:43:18.658     [Info   ] - Starting Magic xpa Server. Maximum checked-out concurrent threads: 1. Maximum checked-out concurrent users: 1.
+ <-1> 19/05/2022 18:30:03.091     [Info   ] - Process 33164 - Exiting Magic xpa
+ <-1> 19/05/2022 18:30:03.091     [Info   ] - ------------------------------------------
+ *********************   Date: 19/05/2022  ********************
+ <-1> 19/05/2022 18:35:11.375     [Info   ] - The INI file ("E:\Magic_XPA\XPA48\MAGIC.INI") was successfully opened.
+ <-1> 19/05/2022 18:35:11.412     [Info   ] - ProcessID is 21712
+ <-1> 19/05/2022 18:35:11.440     [Info   ] - The current working directory is: "C:\Windows\system32".
+ <-1> 19/05/2022 18:35:11.553     [Info   ] - Starting Magic xpa Server. Maximum checked-out concurrent threads: 1. Maximum checked-out concurrent users: 1.
+ <-1> 19/05/2022 18:35:48.598     [Info   ] - Process 21712 - Exiting Magic xpa
+ <-1> 19/05/2022 18:35:48.598     [Info   ] - ------------------------------------------
+ *********************   Date: 24/05/2022  ********************
+ <-1> 24/05/2022 11:19:15.390     [Info   ] - The INI file ("E:\Magic_XPA\XPA48\MAGIC.INI") was successfully opened.
+ <-1> 24/05/2022 11:19:15.415     [Info   ] - ProcessID is 16224
+ <-1> 24/05/2022 11:19:15.425     [Info   ] - The current working directory is: "E:\Magic_XPA\XPA48".
+ <-1> 24/05/2022 11:19:15.523     [Info   ] - Starting Magic xpa Server. Maximum checked-out concurrent threads: 1. Maximum checked-out concurrent users: 1.
+ <-1> 24/05/2022 11:23:45.180     [Info   ] - Process 16224 - Exiting Magic xpa
+ <-1> 24/05/2022 11:23:45.180     [Info   ] - ------------------------------------------
+ *********************   Date: 24/05/2022  ********************
+ <-1> 24/05/2022 11:24:22.291     [Info   ] - The INI file ("E:\Magic_XPA\XPA48\MAGIC.INI") was successfully opened.
+ <-1> 24/05/2022 11:24:22.300     [Info   ] - ProcessID is 35856
+ <-1> 24/05/2022 11:24:22.309     [Info   ] - The current working directory is: "C:\Windows\System32".
+ <-1> 24/05/2022 11:24:22.387     [Info   ] - Starting Magic xpa Server. Maximum checked-out concurrent threads: 1. Maximum checked-out concurrent users: 1.
+ <-1> 24/05/2022 11:24:31.332     [Info   ] - Starts Loading Component : E:\Magic_XPA\XPA48\Add_On\UserFunctionality\UserFunctionality.ecf 
+ <-1> 24/05/2022 11:24:31.352     [Info   ] - Starts Loading Component : System.Windows.Forms 
+ <-1> 24/05/2022 11:24:31.464     [Info   ] - Ends Loading Component : System.Windows.Forms 
+ <-1> 24/05/2022 11:24:31.464     [Info   ] - Starts Loading Component : System.Drawing 
+ <-1> 24/05/2022 11:24:31.486     [Info   ] - Ends Loading Component : System.Drawing 
+ <-1> 24/05/2022 11:24:31.497     [Info   ] - Starts Loading Component : System 
+ <-1> 24/05/2022 11:24:31.535     [Info   ] - Ends Loading Component : System 
+ <-1> 24/05/2022 11:24:31.536     [Info   ] - Starts Loading Component : System.Data 
+ <-1> 24/05/2022 11:24:31.620     [Info   ] - Ends Loading Component : System.Data 
+ <-1> 24/05/2022 11:24:31.621     [Info   ] - Starts Loading Component : Microsoft.Office.Interop.Excel 
+ <-1> 24/05/2022 11:24:31.821     [Info   ] - Ends Loading Component : Microsoft.Office.Interop.Excel 
+ <-1> 24/05/2022 11:24:31.822     [Info   ] - Starts Loading Component : Microsoft.CSharp 
+ <-1> 24/05/2022 11:24:31.846     [Info   ] - Ends Loading Component : Microsoft.CSharp 
+ <-1> 24/05/2022 11:24:31.848     [Info   ] - Starts Loading Component : System.Core 
+ <-1> 24/05/2022 11:24:31.870     [Info   ] - Ends Loading Component : System.Core 
+ <-1> 24/05/2022 11:24:31.907     [Info   ] - Ends Loading Component : E:\Magic_XPA\XPA48\Add_On\UserFunctionality\UserFunctionality.ecf 
+ <-1> 24/05/2022 11:24:31.915     [Info   ] -   License file: "E:\Magic_XPA\XPA48\LICENSE.dat", License feature: 'MGCSTK'.
+ <-1> 24/05/2022 11:24:31.923     [Info   ] -   The project was successfully opened.
+ <58429244631980816> 24/05/2022 11:27:26.509     [Action ] -   >>Starts load Batch Task - 'Main Program (UserFunctionality)' in Query mode (Task Instance: 1)
+ <58429244631980816> 24/05/2022 11:27:26.510     [Action ] -   Ends Load Task
+ <58429244631980816> 24/05/2022 11:27:26.520     [Action ] -   Starts Task Prefix
+ <58429244631980816> 24/05/2022 11:27:26.525     [Action ] -     Flow - Update: 'V: gV:FunctionsList' <== exp #41
+ <58429244631980816> 24/05/2022 11:27:26.532     [Action ] -     Flow - Update: 'W: gV:FunctionsDescriptionList' <== exp #42
+ <58429244631980816> 24/05/2022 11:27:26.537     [Action ] -     Flow - Update: 'X: gV:DigitAndPunctuationList' <== exp #43
+ <58429244631980816> 24/05/2022 11:27:26.545     [Action ] -     Flow - Update: 'BB: gV:IsHebrewApp' <== exp #105
+ <58429244631980816> 24/05/2022 11:27:26.552     [Action ] -   Ends Task Prefix
+ <58429244631980816> 24/05/2022 11:27:26.560     [Action ] -   Load records
+ <58429244631980816> 24/05/2022 11:27:26.748     [Action ] -   >>Starts load Batch Task - 'Main Program (CrashDll)' in Query mode (Task Instance: 2)
+ <58429244631980816> 24/05/2022 11:27:26.748     [Action ] -   Ends Load Task
+ <58429244631980816> 24/05/2022 11:27:26.755     [Action ] -   Load records
+ <58429244631980816> 24/05/2022 11:27:26.872     [Action ] -     >>Starts load Batch Task - 'Lecture Buffer ZalixEcritPlan' in Modify mode (Task Instance: 3)
+ <58429244631980816> 24/05/2022 11:27:26.873     [Action ] -     Ends Load Task
+ <58429244631980816> 24/05/2022 11:27:26.885     [Action ] -     Task Mode Change - Modify
+ <58429244631980816> 24/05/2022 11:27:26.896     [Action ] -     Starts Task Prefix
+ <58429244631980816> 24/05/2022 11:27:26.905     [Action ] -       Flow - Update: 'D: v : IpServer' <== exp #3
+ <58429244631980816> 24/05/2022 11:27:26.916     [Action ] -       Flow - Update: 'C: v : RetourLog' <== exp #4
+ <58429244631980816> 24/05/2022 11:27:26.924     [Action ] -       Flow - Update: 'E: v : IdentReponse' <== exp #6
+ <58429244631980816> 24/05/2022 11:27:26.933     [Action ] -       Flow - Update: 'F: v : Jour' <== exp #4
+ <58429244631980816> 24/05/2022 11:27:26.940     [Action ] -       Flow - Update: 'G: v : Mois' <== exp #4
+ <58429244631980816> 24/05/2022 11:27:26.949     [Action ] -       Flow - Update: 'H: v : Annee' <== exp #4
+ <58429244631980816> 24/05/2022 11:27:26.955     [Action ] -       Flow - Update: 'I: v : Heure' <== exp #4
+ <58429244631980816> 24/05/2022 11:27:26.964     [Action ] -       Flow - Update: 'J: v : Minute' <== exp #4
+ <58429244631980816> 24/05/2022 11:27:26.970     [Action ] -       Flow - Update: 'K: v : Seconde' <== exp #4
+ <58429244631980816> 24/05/2022 11:27:26.979     [Action ] -       Flow - Update: 'L: v : ID' <== exp #5
+ <58429244631980816> 24/05/2022 11:27:26.986     [Action ] -       Flow - Update: 'A: v : SOCKET' <== exp #9
+ <58429244631980816> 24/05/2022 11:27:26.995     [Action ] -     Ends Task Prefix
+ <58429244631980816> 24/05/2022 11:27:27.003     [Action ] -     Load records
+ <58429244631980816> 24/05/2022 11:27:27.014     [Action ] -     Starts Record Suffix
+ <58429244631980816> 24/05/2022 11:27:27.018     [Action ] -       Flow - Invoke UDP :: '@Zalix._Lecture_Zalix@40'
+ <58429244631980816> 24/05/2022 11:27:27.054     [Action ] -       Flow - Update: 'M: v : DateLog' <== exp #7
+ <58429244631980816> 24/05/2022 11:27:27.054     [Action ] -       Flow - Update: 'N: v : HeureLog' <== exp #8
+ <58429244631980816> 24/05/2022 11:27:27.063     [Action ] -       Flow - Verify Warning: Default title, Message Exp #10
+ <58429244631980816> 24/05/2022 11:27:27.069     [Warning] -       Date returned = 22/17/05 Time returned = 12:15:45 Hand Id =        10, Program: "Lecture Buffer ZalixEcritPlan".
+ <58429244631980816> 24/05/2022 11:27:29.768     [Action ] -     Ends Record Suffix
+ <58429244631980816> 24/05/2022 11:27:29.769     [Action ] -     Starts Closing Batch Task - 'Lecture Buffer ZalixEcritPlan' (Task Instance: 3)
+ <58429244631980816> 24/05/2022 11:27:29.801     [Action ] -   <<Ends Close Task
+ <58429244631980816> 24/05/2022 11:27:29.802     [Action ] -   >>  Processing Event  [Context Got Focus]  Control Name :  [ N/A ] 
+ <58429244631980816> 24/05/2022 11:27:29.808     [Action ] -   >>  Processing Event  [Exit System]  Control Name :  [ N/A ] 
+ <58429244631980816> 24/05/2022 11:27:29.816     [Info   ] -   Context released : 
+ <58429244631980816> 24/05/2022 11:27:29.824     [Action ] -   Starts Closing Batch Task - 'Main Program (CrashDll)' (Task Instance: 2)
+ <58429244631980816> 24/05/2022 11:27:29.848     [Action ] -   <<Ends Close Task
+ <58429244631980816> 24/05/2022 11:27:29.848     [Action ] -   Starts Closing Batch Task - 'Main Program (UserFunctionality)' (Task Instance: 1)
+ <58429244631980816> 24/05/2022 11:27:29.856     [Action ] -   <<Ends Close Task
+ <-1> 24/05/2022 11:31:46.585     [Info   ] - Starts Loading Component : E:\Magic_XPA\XPA48\Add_On\UserFunctionality\UserFunctionality.ecf 
+ <-1> 24/05/2022 11:31:46.594     [Info   ] - Starts Loading Component : System.Windows.Forms 
+ <-1> 24/05/2022 11:31:46.602     [Info   ] - Ends Loading Component : System.Windows.Forms 
+ <-1> 24/05/2022 11:31:46.604     [Info   ] - Starts Loading Component : System.Drawing 
+ <-1> 24/05/2022 11:31:46.616     [Info   ] - Ends Loading Component : System.Drawing 
+ <-1> 24/05/2022 11:31:46.624     [Info   ] - Starts Loading Component : System 
+ <-1> 24/05/2022 11:31:46.639     [Info   ] - Ends Loading Component : System 
+ <-1> 24/05/2022 11:31:46.642     [Info   ] - Starts Loading Component : System.Data 
+ <-1> 24/05/2022 11:31:46.659     [Info   ] - Ends Loading Component : System.Data 
+ <-1> 24/05/2022 11:31:46.659     [Info   ] - Starts Loading Component : Microsoft.Office.Interop.Excel 
+ <-1> 24/05/2022 11:31:46.673     [Info   ] - Ends Loading Component : Microsoft.Office.Interop.Excel 
+ <-1> 24/05/2022 11:31:46.677     [Info   ] - Starts Loading Component : Microsoft.CSharp 
+ <-1> 24/05/2022 11:31:46.690     [Info   ] - Ends Loading Component : Microsoft.CSharp 
+ <-1> 24/05/2022 11:31:46.694     [Info   ] - Starts Loading Component : System.Core 
+ <-1> 24/05/2022 11:31:46.704     [Info   ] - Ends Loading Component : System.Core 
+ <-1> 24/05/2022 11:31:46.726     [Info   ] - Ends Loading Component : E:\Magic_XPA\XPA48\Add_On\UserFunctionality\UserFunctionality.ecf 
+ <-1> 24/05/2022 11:31:46.731     [Info   ] -   License file: "E:\Magic_XPA\XPA48\LICENSE.dat", License feature: 'MGCSTK'.
+ <-1> 24/05/2022 11:31:46.734     [Info   ] -   The project was successfully opened.
+ <-1> 24/05/2022 11:32:04.350     [Info   ] - Starts Loading Component : E:\Magic_XPA\XPA48\Add_On\UserFunctionality\UserFunctionality.ecf 
+ <-1> 24/05/2022 11:32:04.357     [Info   ] - Starts Loading Component : System.Windows.Forms 
+ <-1> 24/05/2022 11:32:04.363     [Info   ] - Ends Loading Component : System.Windows.Forms 
+ <-1> 24/05/2022 11:32:04.366     [Info   ] - Starts Loading Component : System.Drawing 
+ <-1> 24/05/2022 11:32:04.374     [Info   ] - Ends Loading Component : System.Drawing 
+ <-1> 24/05/2022 11:32:04.381     [Info   ] - Starts Loading Component : System 
+ <-1> 24/05/2022 11:32:04.398     [Info   ] - Ends Loading Component : System 
+ <-1> 24/05/2022 11:32:04.398     [Info   ] - Starts Loading Component : System.Data 
+ <-1> 24/05/2022 11:32:04.412     [Info   ] - Ends Loading Component : System.Data 
+ <-1> 24/05/2022 11:32:04.414     [Info   ] - Starts Loading Component : Microsoft.Office.Interop.Excel 
+ <-1> 24/05/2022 11:32:04.429     [Info   ] - Ends Loading Component : Microsoft.Office.Interop.Excel 
+ <-1> 24/05/2022 11:32:04.432     [Info   ] - Starts Loading Component : Microsoft.CSharp 
+ <-1> 24/05/2022 11:32:04.442     [Info   ] - Ends Loading Component : Microsoft.CSharp 
+ <-1> 24/05/2022 11:32:04.448     [Info   ] - Starts Loading Component : System.Core 
+ <-1> 24/05/2022 11:32:04.459     [Info   ] - Ends Loading Component : System.Core 
+ <-1> 24/05/2022 11:32:04.482     [Info   ] - Ends Loading Component : E:\Magic_XPA\XPA48\Add_On\UserFunctionality\UserFunctionality.ecf 
+ <-1> 24/05/2022 11:32:04.487     [Info   ] -   License file: "E:\Magic_XPA\XPA48\LICENSE.dat", License feature: 'MGCSTK'.
+ <-1> 24/05/2022 11:32:04.490     [Info   ] -   The project was successfully opened.
+ <277055568231727712> 24/05/2022 11:32:27.019     [Action ] -   >>Starts load Batch Task - 'Main Program (UserFunctionality)' in Query mode (Task Instance: 4)
+ <277055568231727712> 24/05/2022 11:32:27.019     [Action ] -   Ends Load Task
+ <277055568231727712> 24/05/2022 11:32:27.028     [Action ] -   Starts Task Prefix
+ <277055568231727712> 24/05/2022 11:32:27.034     [Action ] -     Flow - Update: 'V: gV:FunctionsList' <== exp #41
+ <277055568231727712> 24/05/2022 11:32:27.043     [Action ] -     Flow - Update: 'W: gV:FunctionsDescriptionList' <== exp #42
+ <277055568231727712> 24/05/2022 11:32:27.053     [Action ] -     Flow - Update: 'X: gV:DigitAndPunctuationList' <== exp #43
+ <277055568231727712> 24/05/2022 11:32:27.060     [Action ] -     Flow - Update: 'BB: gV:IsHebrewApp' <== exp #105
+ <277055568231727712> 24/05/2022 11:32:27.067     [Action ] -   Ends Task Prefix
+ <277055568231727712> 24/05/2022 11:32:27.075     [Action ] -   Load records
+ <277055568231727712> 24/05/2022 11:32:27.091     [Action ] -   >>Starts load Batch Task - 'Main Program (XPACrash)' in Query mode (Task Instance: 5)
+ <277055568231727712> 24/05/2022 11:32:27.092     [Action ] -   Ends Load Task
+ <277055568231727712> 24/05/2022 11:32:27.100     [Action ] -   Load records
+ <277055568231727712> 24/05/2022 11:32:27.146     [Action ] -     >>Starts load Online Task - 'Test Disk Space' in Modify mode (Task Instance: 6)
+ <277055568231727712> 24/05/2022 11:32:27.146     [Action ] -     Ends Load Task
+ <277055568231727712> 24/05/2022 11:32:27.156     [Action ] -     Starts Task Prefix
+ <277055568231727712> 24/05/2022 11:32:27.166     [Action ] -     Ends Task Prefix
+ <277055568231727712> 24/05/2022 11:32:27.177     [Action ] -     Load records
+ <277055568231727712> 24/05/2022 11:32:27.198     [Action ] -     Starts Record Prefix
+ <277055568231727712> 24/05/2022 11:32:27.198     [Action ] -     Ends Record Prefix
+ <277055568231727712> 24/05/2022 11:32:27.208     [Action ] -     Flow - Variable Virtual  'Directory Name' (Step Forward)  
+ <277055568231727712> 24/05/2022 11:32:30.733     [Action ] -     >>  Processing Event  [Ctrl+1]  Control Name :  [ N/A ] 
+ <277055568231727712> 24/05/2022 11:32:30.735     [Action ] -     >>Starts Handle System Event: Ctrl+1
+ <277055568231727712> 24/05/2022 11:32:30.744     [Action ] -       Flow - Invoke UDP :: '@kernel32.GetDiskFreeSpaceExA'
+ <277055568231727712> 24/05/2022 11:32:30.753     [Action ] -       Recomputes - 'Free Bytes For Caller'
+ <277055568231727712> 24/05/2022 11:32:30.765     [Action ] -       Recomputes - 'No Number of Bytes'
+ <277055568231727712> 24/05/2022 11:32:30.769     [Action ] -       Recomputes - 'Total Free bytes on disk'
+ <277055568231727712> 24/05/2022 11:32:30.775     [Action ] -     <<Ends Handle System Event: Ctrl+1
+ <277055568231727712> 24/05/2022 11:32:36.136     [Action ] -     >>  Processing Event  [Window Reposition]  Control Name :  [ N/A ] 
+ <277055568231727712> 24/05/2022 11:32:37.448     [Action ] -     >>  Processing Event  [Window Reposition]  Control Name :  [ N/A ] 
+ <277055568231727712> 24/05/2022 11:32:37.460     [Action ] -     >>  Processing Event  [Window Resize]  Control Name :  [ N/A ] 
+ <277055568231727712> 24/05/2022 11:32:38.400     [Action ] -     >>  Processing Event  [Window Hit]  Control Name :  [ N/A ] 
+ <277055568231727712> 24/05/2022 11:32:38.403     [Action ] -     Flow - Variable Virtual  'Directory Name' (Step Forward)  
+ <277055568231727712> 24/05/2022 11:32:38.908     [Action ] -     >>  Processing Event  [Control Hit]  Control Name :  [ N/A ] 
+ <277055568231727712> 24/05/2022 11:32:38.909     [Action ] -     Flow - Variable Virtual  'Free Bytes For Caller' (Step Forward)  
+ <277055568231727712> 24/05/2022 11:32:38.934     [Action ] -     >>  Processing Event  [Click]  Control Name :  [ N/A ] 
+ <277055568231727712> 24/05/2022 11:32:39.639     [Action ] -     >>  Processing Event  [Control Hit]  Control Name :  [ N/A ] 
+ <277055568231727712> 24/05/2022 11:32:39.640     [Action ] -     Flow - Variable Virtual  'Directory Name' (Step Backward)  
+ <277055568231727712> 24/05/2022 11:32:39.664     [Action ] -     >>  Processing Event  [Click]  Control Name :  [ N/A ] 
+ <277055568231727712> 24/05/2022 11:32:40.615     [Action ] -     >>  Processing Event  [Control Hit]  Control Name :  [ N/A ] 
+ <277055568231727712> 24/05/2022 11:32:40.616     [Action ] -     Flow - Variable Virtual  'Free Bytes For Caller' (Fast Forward)  [Not Executed]
+ <277055568231727712> 24/05/2022 11:32:40.625     [Action ] -     Flow - Variable Virtual  'No Number of Bytes' (Step Forward)  
+ <277055568231727712> 24/05/2022 11:32:40.641     [Action ] -     >>  Processing Event  [Click]  Control Name :  [ N/A ] 
+ <277055568231727712> 24/05/2022 11:32:41.047     [Action ] -     >>  Processing Event  [Control Hit]  Control Name :  [ N/A ] 
+ <277055568231727712> 24/05/2022 11:32:41.048     [Action ] -     Flow - Variable Virtual  'Total Free bytes on disk' (Step Forward)  
+ <277055568231727712> 24/05/2022 11:32:41.061     [Action ] -     >>  Processing Event  [Click]  Control Name :  [ N/A ] 
+ <277055568231727712> 24/05/2022 11:32:41.582     [Action ] -     >>  Processing Event  [Control Hit]  Control Name :  [ N/A ] 
+ <277055568231727712> 24/05/2022 11:32:41.584     [Action ] -     Flow - Variable Virtual  'return' (Step Forward)  
+ <277055568231727712> 24/05/2022 11:32:41.610     [Action ] -     >>  Processing Event  [Click]  Control Name :  [ N/A ] 
+ <277055568231727712> 24/05/2022 11:32:42.802     [Action ] -     >>  Processing Event  [Control Hit]  Control Name :  [ N/A ] 
+ <277055568231727712> 24/05/2022 11:32:42.803     [Action ] -     Flow - Variable Virtual  'CALLME' (Step Forward)  
+ <277055568231727712> 24/05/2022 11:32:42.816     [Action ] -     Flow - Variable Virtual  'CALLME' (Step Forward)  
+ <277055568231727712> 24/05/2022 11:32:42.827     [Action ] -     >>  Processing Event  [Ctrl+1]  Control Name :  [ N/A ] 
+ <277055568231727712> 24/05/2022 11:32:42.836     [Action ] -     >>Starts Handle System Event: Ctrl+1
+ <277055568231727712> 24/05/2022 11:32:42.844     [Action ] -       Flow - Invoke UDP :: '@kernel32.GetDiskFreeSpaceExA'
+ *********************   Date: 24/05/2022  ********************
+ <-1> 24/05/2022 11:33:06.080     [Info   ] - The INI file ("E:\Magic_XPA\XPA48\MAGIC.INI") was successfully opened.
+ <-1> 24/05/2022 11:33:06.091     [Info   ] - ProcessID is 23460
+ <-1> 24/05/2022 11:33:06.102     [Info   ] - The current working directory is: "C:\Windows\System32".
+ *********************   Date: 24/05/2022  ********************
+ <-1> 24/05/2022 11:33:54.923     [Info   ] - The INI file ("E:\Magic_XPA\XPA48\MAGIC.INI") was successfully opened.
+ <-1> 24/05/2022 11:33:54.948     [Info   ] - ProcessID is 23128
+ <-1> 24/05/2022 11:33:54.962     [Info   ] - The current working directory is: "C:\Windows\System32".
+ <-1> 24/05/2022 11:34:06.126     [Info   ] - Starting Magic xpa Server. Maximum checked-out concurrent threads: 1. Maximum checked-out concurrent users: 1.
+ <-1> 24/05/2022 11:34:11.508     [Info   ] - Process 23128 - Exiting Magic xpa
+ <-1> 24/05/2022 11:34:11.509     [Info   ] - ------------------------------------------
+ *********************   Date: 24/05/2022  ********************
+ <-1> 24/05/2022 11:51:42.723     [Info   ] - The INI file ("E:\Magic_XPA\XPA48\MAGIC.INI") was successfully opened.
+ <-1> 24/05/2022 11:51:42.731     [Info   ] - ProcessID is 21176
+ <-1> 24/05/2022 11:51:42.739     [Info   ] - The current working directory is: "E:\Magic_XPA\XPA48".
+ <-1> 24/05/2022 11:51:42.812     [Info   ] - Starting Magic xpa Server. Maximum checked-out concurrent threads: 1. Maximum checked-out concurrent users: 1.
+ <-1> 24/05/2022 11:51:47.936     [Info   ] - Starts Loading Component : E:\Magic_XPA\XPA48\Add_On\UserFunctionality\UserFunctionality.ecf 
+ <-1> 24/05/2022 11:51:47.944     [Info   ] - Starts Loading Component : System.Windows.Forms 
+ <-1> 24/05/2022 11:51:47.989     [Info   ] - Ends Loading Component : System.Windows.Forms 
+ <-1> 24/05/2022 11:51:47.989     [Info   ] - Starts Loading Component : System.Drawing 
+ <-1> 24/05/2022 11:51:48.000     [Info   ] - Ends Loading Component : System.Drawing 
+ <-1> 24/05/2022 11:51:48.006     [Info   ] - Starts Loading Component : System 
+ <-1> 24/05/2022 11:51:48.022     [Info   ] - Ends Loading Component : System 
+ <-1> 24/05/2022 11:51:48.022     [Info   ] - Starts Loading Component : System.Data 
+ <-1> 24/05/2022 11:51:48.049     [Info   ] - Ends Loading Component : System.Data 
+ <-1> 24/05/2022 11:51:48.049     [Info   ] - Starts Loading Component : Microsoft.Office.Interop.Excel 
+ <-1> 24/05/2022 11:51:48.123     [Info   ] - Ends Loading Component : Microsoft.Office.Interop.Excel 
+ <-1> 24/05/2022 11:51:48.123     [Info   ] - Starts Loading Component : Microsoft.CSharp 
+ <-1> 24/05/2022 11:51:48.135     [Info   ] - Ends Loading Component : Microsoft.CSharp 
+ <-1> 24/05/2022 11:51:48.138     [Info   ] - Starts Loading Component : System.Core 
+ <-1> 24/05/2022 11:51:48.149     [Info   ] - Ends Loading Component : System.Core 
+ <-1> 24/05/2022 11:51:48.171     [Info   ] - Ends Loading Component : E:\Magic_XPA\XPA48\Add_On\UserFunctionality\UserFunctionality.ecf 
+ <-1> 24/05/2022 11:51:48.176     [Info   ] -   License file: "E:\Magic_XPA\XPA48\LICENSE.dat", License feature: 'MGCSTK'.
+ <-1> 24/05/2022 11:51:48.180     [Info   ] -   The project was successfully opened.
+ <502557263972677504> 24/05/2022 11:53:13.787     [Action ] -   >>Starts load Batch Task - 'Main Program (UserFunctionality)' in Query mode (Task Instance: 1)
+ <502557263972677504> 24/05/2022 11:53:13.787     [Action ] -   Ends Load Task
+ <502557263972677504> 24/05/2022 11:53:13.797     [Action ] -   Starts Task Prefix
+ <502557263972677504> 24/05/2022 11:53:13.803     [Action ] -     Flow - Update: 'V: gV:FunctionsList' <== exp #41
+ <502557263972677504> 24/05/2022 11:53:13.812     [Action ] -     Flow - Update: 'W: gV:FunctionsDescriptionList' <== exp #42
+ <502557263972677504> 24/05/2022 11:53:13.819     [Action ] -     Flow - Update: 'X: gV:DigitAndPunctuationList' <== exp #43
+ <502557263972677504> 24/05/2022 11:53:13.828     [Action ] -     Flow - Update: 'BB: gV:IsHebrewApp' <== exp #105
+ <502557263972677504> 24/05/2022 11:53:13.837     [Action ] -   Ends Task Prefix
+ <502557263972677504> 24/05/2022 11:53:13.845     [Action ] -   Load records
+ <502557263972677504> 24/05/2022 11:53:13.952     [Action ] -   >>Starts load Batch Task - 'Main Program (XPACrash)' in Query mode (Task Instance: 2)
+ <502557263972677504> 24/05/2022 11:53:13.953     [Action ] -   Ends Load Task
+ <502557263972677504> 24/05/2022 11:53:13.960     [Action ] -   Load records
+ <502557263972677504> 24/05/2022 11:53:14.062     [Action ] -     >>Starts load Online Task - 'Test Disk Space' in Modify mode (Task Instance: 3)
+ <502557263972677504> 24/05/2022 11:53:14.063     [Action ] -     Ends Load Task
+ <502557263972677504> 24/05/2022 11:53:14.072     [Action ] -     Starts Task Prefix
+ <502557263972677504> 24/05/2022 11:53:14.079     [Action ] -     Ends Task Prefix
+ <502557263972677504> 24/05/2022 11:53:14.086     [Action ] -     Task Mode Change - Modify
+ <502557263972677504> 24/05/2022 11:53:14.097     [Action ] -     Load records
+ <502557263972677504> 24/05/2022 11:53:14.114     [Action ] -     Starts Record Prefix
+ <502557263972677504> 24/05/2022 11:53:14.115     [Action ] -     Ends Record Prefix
+ <502557263972677504> 24/05/2022 11:53:14.125     [Action ] -     Flow - Variable Virtual  'Directory Name' (Step Forward)  
+ <502557263972677504> 24/05/2022 11:53:14.167     [Action ] -     >>  Processing Event  [Context Got Focus]  Control Name :  [ N/A ] 
+ <502557263972677504> 24/05/2022 11:53:17.185     [Action ] -     >>  Processing Event  [Ctrl+1]  Control Name :  [ N/A ] 
+ <502557263972677504> 24/05/2022 11:53:17.187     [Action ] -     >>Starts Handle System Event: Ctrl+1
+ <502557263972677504> 24/05/2022 11:53:17.198     [Action ] -       Flow - Invoke UDP :: '@kernel32.GetDiskFreeSpaceExA'
+ <502557263972677504> 24/05/2022 11:53:17.208     [Action ] -       Recomputes - 'Free Bytes For Caller'
+ <502557263972677504> 24/05/2022 11:53:17.219     [Action ] -       Recomputes - 'No Number of Bytes'
+ <502557263972677504> 24/05/2022 11:53:17.223     [Action ] -       Recomputes - 'Total Free bytes on disk'
+ *********************   Date: 24/05/2022  ********************
+ <-1> 24/05/2022 11:53:39.424     [Info   ] - The INI file ("E:\Magic_XPA\XPA48\MAGIC.INI") was successfully opened.
+ <-1> 24/05/2022 11:53:39.458     [Info   ] - ProcessID is 9576
+ <-1> 24/05/2022 11:53:39.486     [Info   ] - The current working directory is: "E:\Magic_XPA\XPA48".
+ <-1> 24/05/2022 11:53:39.559     [Info   ] - Starting Magic xpa Server. Maximum checked-out concurrent threads: 1. Maximum checked-out concurrent users: 1.
+ <-1> 24/05/2022 11:53:39.707     [Info   ] - Starts Loading Component : E:\Magic_XPA\XPA48\Add_On\UserFunctionality\UserFunctionality.ecf 
+ <-1> 24/05/2022 11:53:39.715     [Info   ] - Starts Loading Component : System.Windows.Forms 
+ <-1> 24/05/2022 11:53:39.758     [Info   ] - Ends Loading Component : System.Windows.Forms 
+ <-1> 24/05/2022 11:53:39.758     [Info   ] - Starts Loading Component : System.Drawing 
+ <-1> 24/05/2022 11:53:39.768     [Info   ] - Ends Loading Component : System.Drawing 
+ <-1> 24/05/2022 11:53:39.774     [Info   ] - Starts Loading Component : System 
+ <-1> 24/05/2022 11:53:39.790     [Info   ] - Ends Loading Component : System 
+ <-1> 24/05/2022 11:53:39.790     [Info   ] - Starts Loading Component : System.Data 
+ <-1> 24/05/2022 11:53:39.814     [Info   ] - Ends Loading Component : System.Data 
+ <-1> 24/05/2022 11:53:39.814     [Info   ] - Starts Loading Component : Microsoft.Office.Interop.Excel 
+ <-1> 24/05/2022 11:53:39.882     [Info   ] - Ends Loading Component : Microsoft.Office.Interop.Excel 
+ <-1> 24/05/2022 11:53:39.883     [Info   ] - Starts Loading Component : Microsoft.CSharp 
+ <-1> 24/05/2022 11:53:39.896     [Info   ] - Ends Loading Component : Microsoft.CSharp 
+ <-1> 24/05/2022 11:53:39.899     [Info   ] - Starts Loading Component : System.Core 
+ <-1> 24/05/2022 11:53:39.912     [Info   ] - Ends Loading Component : System.Core 
+ <-1> 24/05/2022 11:53:39.934     [Info   ] - Ends Loading Component : E:\Magic_XPA\XPA48\Add_On\UserFunctionality\UserFunctionality.ecf 
+ <-1> 24/05/2022 11:53:39.938     [Info   ] -   License file: "E:\Magic_XPA\XPA48\LICENSE.dat", License feature: 'MGCSTK'.
+ <-1> 24/05/2022 11:53:39.943     [Info   ] -   The project was successfully opened.
+ <-1> 24/05/2022 14:03:01.049     [Info   ] - Starts Loading Component : E:\Magic_XPA\XPA48\Add_On\UserFunctionality\UserFunctionality.ecf 
+ <-1> 24/05/2022 14:03:01.057     [Info   ] - Starts Loading Component : System.Windows.Forms 
+ <-1> 24/05/2022 14:03:01.064     [Info   ] - Ends Loading Component : System.Windows.Forms 
+ <-1> 24/05/2022 14:03:01.067     [Info   ] - Starts Loading Component : System.Drawing 
+ <-1> 24/05/2022 14:03:01.077     [Info   ] - Ends Loading Component : System.Drawing 
+ <-1> 24/05/2022 14:03:01.083     [Info   ] - Starts Loading Component : System 
+ <-1> 24/05/2022 14:03:01.098     [Info   ] - Ends Loading Component : System 
+ <-1> 24/05/2022 14:03:01.100     [Info   ] - Starts Loading Component : System.Data 
+ <-1> 24/05/2022 14:03:01.115     [Info   ] - Ends Loading Component : System.Data 
+ <-1> 24/05/2022 14:03:01.118     [Info   ] - Starts Loading Component : Microsoft.Office.Interop.Excel 
+ <-1> 24/05/2022 14:03:01.131     [Info   ] - Ends Loading Component : Microsoft.Office.Interop.Excel 
+ <-1> 24/05/2022 14:03:01.133     [Info   ] - Starts Loading Component : Microsoft.CSharp 
+ <-1> 24/05/2022 14:03:01.144     [Info   ] - Ends Loading Component : Microsoft.CSharp 
+ <-1> 24/05/2022 14:03:01.148     [Info   ] - Starts Loading Component : System.Core 
+ <-1> 24/05/2022 14:03:01.159     [Info   ] - Ends Loading Component : System.Core 
+ <-1> 24/05/2022 14:03:01.182     [Info   ] - Ends Loading Component : E:\Magic_XPA\XPA48\Add_On\UserFunctionality\UserFunctionality.ecf 
+ <-1> 24/05/2022 14:03:01.186     [Info   ] -   License file: "E:\Magic_XPA\XPA48\LICENSE.dat", License feature: 'MGCSTK'.
+ <-1> 24/05/2022 14:03:01.189     [Info   ] -   The project was successfully opened.
+ <-1> 24/05/2022 14:03:22.386     [Info   ] - Starts Loading Component : E:\Magic_XPA\XPA48\Add_On\UserFunctionality\UserFunctionality.ecf 
+ <-1> 24/05/2022 14:03:22.393     [Info   ] - Starts Loading Component : System.Windows.Forms 
+ <-1> 24/05/2022 14:03:22.398     [Info   ] - Ends Loading Component : System.Windows.Forms 
+ <-1> 24/05/2022 14:03:22.401     [Info   ] - Starts Loading Component : System.Drawing 
+ <-1> 24/05/2022 14:03:22.410     [Info   ] - Ends Loading Component : System.Drawing 
+ <-1> 24/05/2022 14:03:22.416     [Info   ] - Starts Loading Component : System 
+ <-1> 24/05/2022 14:03:22.431     [Info   ] - Ends Loading Component : System 
+ <-1> 24/05/2022 14:03:22.432     [Info   ] - Starts Loading Component : System.Data 
+ <-1> 24/05/2022 14:03:22.447     [Info   ] - Ends Loading Component : System.Data 
+ <-1> 24/05/2022 14:03:22.449     [Info   ] - Starts Loading Component : Microsoft.Office.Interop.Excel 
+ <-1> 24/05/2022 14:03:22.470     [Info   ] - Ends Loading Component : Microsoft.Office.Interop.Excel 
+ <-1> 24/05/2022 14:03:22.470     [Info   ] - Starts Loading Component : Microsoft.CSharp 
+ <-1> 24/05/2022 14:03:22.480     [Info   ] - Ends Loading Component : Microsoft.CSharp 
+ <-1> 24/05/2022 14:03:22.484     [Info   ] - Starts Loading Component : System.Core 
+ <-1> 24/05/2022 14:03:22.495     [Info   ] - Ends Loading Component : System.Core 
+ <-1> 24/05/2022 14:03:22.516     [Info   ] - Ends Loading Component : E:\Magic_XPA\XPA48\Add_On\UserFunctionality\UserFunctionality.ecf 
+ <-1> 24/05/2022 14:03:22.522     [Info   ] -   License file: "E:\Magic_XPA\XPA48\LICENSE.dat", License feature: 'MGCSTK'.
+ <-1> 24/05/2022 14:03:22.526     [Info   ] -   The project was successfully opened.
+ <-1> 24/05/2022 14:13:34.698     [Info   ] - Starts Loading Component : System 
+ <-1> 24/05/2022 14:13:34.704     [Info   ] - Ends Loading Component : System 
+ <-1> 24/05/2022 14:13:34.707     [Info   ] - Starts Loading Component : System.Data 
+ <-1> 24/05/2022 14:13:34.721     [Info   ] - Ends Loading Component : System.Data 
+ <-1> 24/05/2022 14:13:34.726     [Info   ] - Starts Loading Component : System.Drawing 
+ <-1> 24/05/2022 14:13:34.736     [Info   ] - Ends Loading Component : System.Drawing 
+ <-1> 24/05/2022 14:13:34.742     [Info   ] - Starts Loading Component : System.Windows.Forms 
+ <-1> 24/05/2022 14:13:34.758     [Info   ] - Ends Loading Component : System.Windows.Forms 
+ <-1> 24/05/2022 14:13:34.759     [Info   ] - Starts Loading Component : System.Xml 
+ <-1> 24/05/2022 14:13:34.770     [Info   ] - Ends Loading Component : System.Xml 
+ <-1> 24/05/2022 14:13:34.774     [Info   ] - Starts Loading Component : System.Xml.Linq 
+ <-1> 24/05/2022 14:13:34.793     [Info   ] - Ends Loading Component : System.Xml.Linq 
+ <-1> 24/05/2022 14:13:34.793     [Info   ] - Starts Loading Component : System.Runtime.Serialization 
+ <-1> 24/05/2022 14:13:34.804     [Info   ] - Ends Loading Component : System.Runtime.Serialization 
+ <-1> 24/05/2022 14:13:34.808     [Info   ] - Starts Loading Component : System.ServiceModel.Web 
+ <-1> 24/05/2022 14:13:34.833     [Info   ] - Ends Loading Component : System.ServiceModel.Web 
+ <-1> 24/05/2022 14:13:34.833     [Info   ] - Starts Loading Component : System.Web 
+ <-1> 24/05/2022 14:13:34.848     [Info   ] - Ends Loading Component : System.Web 
+ <-1> 24/05/2022 14:13:34.848     [Info   ] - Starts Loading Component : System.Web.Extensions 
+ <-1> 24/05/2022 14:13:34.860     [Info   ] - Ends Loading Component : System.Web.Extensions 
+ <-1> 24/05/2022 14:13:34.863     [Info   ] - Starts Loading Component : Microsoft.Office.Interop.Word 
+ <-1> 24/05/2022 14:13:34.908     [Info   ] - Ends Loading Component : Microsoft.Office.Interop.Word 
+ <-1> 24/05/2022 14:13:34.908     [Info   ] - Starts Loading Component : TwitterVB 
+ <-1> 24/05/2022 14:13:34.929     [Info   ] - Ends Loading Component : TwitterVB 
+ <-1> 24/05/2022 14:13:34.929     [Info   ] - Starts Loading Component : Microsoft.mshtml 
+ <-1> 24/05/2022 14:13:36.207     [Info   ] - Ends Loading Component : Microsoft.mshtml 
+ <-1> 24/05/2022 14:13:36.208     [Info   ] - Starts Loading Component : Newtonsoft.Json 
+ <-1> 24/05/2022 14:13:36.233     [Info   ] - Ends Loading Component : Newtonsoft.Json 
+ <-1> 24/05/2022 14:13:36.233     [Info   ] - Starts Loading Component : PushSharp.Core 
+ <-1> 24/05/2022 14:13:36.244     [Info   ] - Ends Loading Component : PushSharp.Core 
+ <-1> 24/05/2022 14:13:36.248     [Info   ] - Starts Loading Component : PushSharp.Google 
+ <-1> 24/05/2022 14:13:36.263     [Info   ] - Ends Loading Component : PushSharp.Google 
+ <-1> 24/05/2022 14:13:36.265     [Info   ] - Starts Loading Component : PushSharp.Apple 
+ <-1> 24/05/2022 14:13:36.280     [Info   ] - Ends Loading Component : PushSharp.Apple 
+ <-1> 24/05/2022 14:13:36.281     [Info   ] - Starts Loading Component : PushSharp.Windows 
+ <-1> 24/05/2022 14:13:36.297     [Info   ] - Ends Loading Component : PushSharp.Windows 
+ <-1> 24/05/2022 14:13:36.298     [Info   ] - Starts Loading Component : System.Collections 
+ <-1> 24/05/2022 14:13:36.311     [Info   ] - Ends Loading Component : System.Collections 
+ <-1> 24/05/2022 14:13:36.317     [Info   ] - Starts Loading Component : System.Core 
+ <-1> 24/05/2022 14:13:36.329     [Info   ] - Ends Loading Component : System.Core 
+ <-1> 24/05/2022 14:13:36.332     [Info   ] - Starts Loading Component : E:\Magic_XPA\XPA48\Add_On\UserFunctionality\UserFunctionality.ecf 
+ <-1> 24/05/2022 14:13:36.348     [Info   ] - Starts Loading Component : System.Windows.Forms 
+ <-1> 24/05/2022 14:13:36.350     [Info   ] - Assembly : System.Windows.Forms is already loaded
+ <-1> 24/05/2022 14:13:36.356     [Info   ] - Starts Loading Component : System.Drawing 
+ <-1> 24/05/2022 14:13:36.365     [Info   ] - Assembly : System.Drawing is already loaded
+ <-1> 24/05/2022 14:13:36.372     [Info   ] - Starts Loading Component : System 
+ <-1> 24/05/2022 14:13:36.381     [Info   ] - Assembly : System is already loaded
+ <-1> 24/05/2022 14:13:36.388     [Info   ] - Starts Loading Component : System.Data 
+ <-1> 24/05/2022 14:13:36.397     [Info   ] - Assembly : System.Data is already loaded
+ <-1> 24/05/2022 14:13:36.405     [Info   ] - Starts Loading Component : Microsoft.Office.Interop.Excel 
+ <-1> 24/05/2022 14:13:36.423     [Info   ] - Ends Loading Component : Microsoft.Office.Interop.Excel 
+ <-1> 24/05/2022 14:13:36.424     [Info   ] - Starts Loading Component : Microsoft.CSharp 
+ <-1> 24/05/2022 14:13:36.435     [Info   ] - Ends Loading Component : Microsoft.CSharp 
+ <-1> 24/05/2022 14:13:36.440     [Info   ] - Starts Loading Component : System.Core 
+ <-1> 24/05/2022 14:13:36.449     [Info   ] - Assembly : System.Core is already loaded
+ <-1> 24/05/2022 14:13:36.455     [Info   ] - Starts Loading Component : System.Windows.Forms 
+ <-1> 24/05/2022 14:13:36.465     [Info   ] - Assembly : System.Windows.Forms is already loaded
+ <-1> 24/05/2022 14:13:36.472     [Info   ] - Starts Loading Component : System.Drawing 
+ <-1> 24/05/2022 14:13:36.483     [Info   ] - Assembly : System.Drawing is already loaded
+ <-1> 24/05/2022 14:13:36.490     [Info   ] - Starts Loading Component : System 
+ <-1> 24/05/2022 14:13:36.499     [Info   ] - Assembly : System is already loaded
+ <-1> 24/05/2022 14:13:36.506     [Info   ] - Starts Loading Component : System.Data 
+ <-1> 24/05/2022 14:13:36.515     [Info   ] - Assembly : System.Data is already loaded
+ <-1> 24/05/2022 14:13:36.522     [Info   ] - Starts Loading Component : System.Core 
+ <-1> 24/05/2022 14:13:36.531     [Info   ] - Assembly : System.Core is already loaded
+ <-1> 24/05/2022 14:13:36.555     [Info   ] - Ends Loading Component : E:\Magic_XPA\XPA48\Add_On\UserFunctionality\UserFunctionality.ecf 
+ <-1> 24/05/2022 14:13:36.572     [Info   ] -   License file: "E:\Magic_XPA\XPA48\LICENSE.dat", License feature: 'MGCSTK'.
+ <-1> 24/05/2022 14:13:36.573     [Info   ] -   The project was successfully opened.
+ *********************   Date: 24/05/2022  ********************
+ <-1> 24/05/2022 14:15:02.483     [Info   ] - The INI file ("E:\Magic_XPA\XPA48\MAGIC.INI") was successfully opened.
+ <-1> 24/05/2022 14:15:02.503     [Info   ] - ProcessID is 18140
+ <-1> 24/05/2022 14:15:02.521     [Info   ] - The current working directory is: "C:\Windows\System32".
+ <-1> 24/05/2022 14:15:02.597     [Info   ] - Starting Magic xpa Server. Maximum checked-out concurrent threads: 1. Maximum checked-out concurrent users: 1.
+ <-1> 24/05/2022 14:15:03.677     [Info   ] - Process 18140 - Exiting Magic xpa
+ <-1> 24/05/2022 14:15:03.677     [Info   ] - ------------------------------------------
+ <-1> 24/05/2022 14:15:06.991     [Info   ] - Process 9576 - Exiting Magic xpa
+ <-1> 24/05/2022 14:15:06.991     [Info   ] - ------------------------------------------
+ *********************   Date: 24/05/2022  ********************
+ <-1> 24/05/2022 14:15:16.917     [Info   ] - The INI file ("E:\Magic_XPA\XPA48\MAGIC.INI") was successfully opened.
+ <-1> 24/05/2022 14:15:16.932     [Info   ] - ProcessID is 33812
+ <-1> 24/05/2022 14:15:16.947     [Info   ] - The current working directory is: "C:\Windows\System32".
+ <-1> 24/05/2022 14:15:17.020     [Info   ] - Starting Magic xpa Server. Maximum checked-out concurrent threads: 1. Maximum checked-out concurrent users: 1.
+ <-1> 24/05/2022 14:15:31.027     [Info   ] - Starts Loading Component : System 
+ <-1> 24/05/2022 14:15:31.051     [Info   ] - Ends Loading Component : System 
+ <-1> 24/05/2022 14:15:31.051     [Info   ] - Starts Loading Component : System.Data 
+ <-1> 24/05/2022 14:15:31.076     [Info   ] - Ends Loading Component : System.Data 
+ <-1> 24/05/2022 14:15:31.076     [Info   ] - Starts Loading Component : System.Drawing 
+ <-1> 24/05/2022 14:15:31.086     [Info   ] - Ends Loading Component : System.Drawing 
+ <-1> 24/05/2022 14:15:31.091     [Info   ] - Starts Loading Component : System.Windows.Forms 
+ <-1> 24/05/2022 14:15:31.108     [Info   ] - Ends Loading Component : System.Windows.Forms 
+ <-1> 24/05/2022 14:15:31.108     [Info   ] - Starts Loading Component : System.Xml 
+ <-1> 24/05/2022 14:15:31.120     [Info   ] - Ends Loading Component : System.Xml 
+ <-1> 24/05/2022 14:15:31.123     [Info   ] - Starts Loading Component : System.Xml.Linq 
+ <-1> 24/05/2022 14:15:31.138     [Info   ] - Ends Loading Component : System.Xml.Linq 
+ <-1> 24/05/2022 14:15:31.139     [Info   ] - Starts Loading Component : System.Runtime.Serialization 
+ <-1> 24/05/2022 14:15:31.149     [Info   ] - Ends Loading Component : System.Runtime.Serialization 
+ <-1> 24/05/2022 14:15:31.152     [Info   ] - Starts Loading Component : System.ServiceModel.Web 
+ <-1> 24/05/2022 14:15:31.177     [Info   ] - Ends Loading Component : System.ServiceModel.Web 
+ <-1> 24/05/2022 14:15:31.177     [Info   ] - Starts Loading Component : System.Web 
+ <-1> 24/05/2022 14:15:31.193     [Info   ] - Ends Loading Component : System.Web 
+ <-1> 24/05/2022 14:15:31.193     [Info   ] - Starts Loading Component : System.Web.Extensions 
+ <-1> 24/05/2022 14:15:31.206     [Info   ] - Ends Loading Component : System.Web.Extensions 
+ <-1> 24/05/2022 14:15:31.209     [Info   ] - Starts Loading Component : Microsoft.Office.Interop.Word 
+ <-1> 24/05/2022 14:15:31.262     [Info   ] - Ends Loading Component : Microsoft.Office.Interop.Word 
+ <-1> 24/05/2022 14:15:31.263     [Info   ] - Starts Loading Component : TwitterVB 
+ <-1> 24/05/2022 14:15:31.308     [Info   ] - Ends Loading Component : TwitterVB 
+ <-1> 24/05/2022 14:15:31.309     [Info   ] - Starts Loading Component : Microsoft.mshtml 
+ <-1> 24/05/2022 14:15:32.589     [Info   ] - Ends Loading Component : Microsoft.mshtml 
+ <-1> 24/05/2022 14:15:32.589     [Info   ] - Starts Loading Component : Newtonsoft.Json 
+ <-1> 24/05/2022 14:15:32.611     [Info   ] - Ends Loading Component : Newtonsoft.Json 
+ <-1> 24/05/2022 14:15:32.611     [Info   ] - Starts Loading Component : PushSharp.Core 
+ <-1> 24/05/2022 14:15:32.622     [Info   ] - Ends Loading Component : PushSharp.Core 
+ <-1> 24/05/2022 14:15:32.626     [Info   ] - Starts Loading Component : PushSharp.Google 
+ <-1> 24/05/2022 14:15:32.640     [Info   ] - Ends Loading Component : PushSharp.Google 
+ <-1> 24/05/2022 14:15:32.640     [Info   ] - Starts Loading Component : PushSharp.Apple 
+ <-1> 24/05/2022 14:15:32.654     [Info   ] - Ends Loading Component : PushSharp.Apple 
+ <-1> 24/05/2022 14:15:32.654     [Info   ] - Starts Loading Component : PushSharp.Windows 
+ <-1> 24/05/2022 14:15:32.670     [Info   ] - Ends Loading Component : PushSharp.Windows 
+ <-1> 24/05/2022 14:15:32.670     [Info   ] - Starts Loading Component : System.Collections 
+ <-1> 24/05/2022 14:15:32.684     [Info   ] - Ends Loading Component : System.Collections 
+ <-1> 24/05/2022 14:15:32.688     [Info   ] - Starts Loading Component : System.Core 
+ <-1> 24/05/2022 14:15:32.700     [Info   ] - Ends Loading Component : System.Core 
+ <-1> 24/05/2022 14:15:32.703     [Info   ] - Starts Loading Component : E:\Magic_XPA\XPA48\Add_On\UserFunctionality\UserFunctionality.ecf 
+ <-1> 24/05/2022 14:15:32.717     [Info   ] - Starts Loading Component : System.Windows.Forms 
+ <-1> 24/05/2022 14:15:32.718     [Info   ] - Assembly : System.Windows.Forms is already loaded
+ <-1> 24/05/2022 14:15:32.724     [Info   ] - Starts Loading Component : System.Drawing 
+ <-1> 24/05/2022 14:15:32.732     [Info   ] - Assembly : System.Drawing is already loaded
+ <-1> 24/05/2022 14:15:32.739     [Info   ] - Starts Loading Component : System 
+ <-1> 24/05/2022 14:15:32.747     [Info   ] - Assembly : System is already loaded
+ <-1> 24/05/2022 14:15:32.753     [Info   ] - Starts Loading Component : System.Data 
+ <-1> 24/05/2022 14:15:32.762     [Info   ] - Assembly : System.Data is already loaded
+ <-1> 24/05/2022 14:15:32.768     [Info   ] - Starts Loading Component : Microsoft.Office.Interop.Excel 
+ <-1> 24/05/2022 14:15:32.841     [Info   ] - Ends Loading Component : Microsoft.Office.Interop.Excel 
+ <-1> 24/05/2022 14:15:32.841     [Info   ] - Starts Loading Component : Microsoft.CSharp 
+ <-1> 24/05/2022 14:15:32.852     [Info   ] - Ends Loading Component : Microsoft.CSharp 
+ <-1> 24/05/2022 14:15:32.855     [Info   ] - Starts Loading Component : System.Core 
+ <-1> 24/05/2022 14:15:32.863     [Info   ] - Assembly : System.Core is already loaded
+ <-1> 24/05/2022 14:15:32.868     [Info   ] - Starts Loading Component : System.Windows.Forms 
+ <-1> 24/05/2022 14:15:32.877     [Info   ] - Assembly : System.Windows.Forms is already loaded
+ <-1> 24/05/2022 14:15:32.883     [Info   ] - Starts Loading Component : System.Drawing 
+ <-1> 24/05/2022 14:15:32.892     [Info   ] - Assembly : System.Drawing is already loaded
+ <-1> 24/05/2022 14:15:32.899     [Info   ] - Starts Loading Component : System 
+ <-1> 24/05/2022 14:15:32.907     [Info   ] - Assembly : System is already loaded
+ <-1> 24/05/2022 14:15:32.913     [Info   ] - Starts Loading Component : System.Data 
+ <-1> 24/05/2022 14:15:32.921     [Info   ] - Assembly : System.Data is already loaded
+ <-1> 24/05/2022 14:15:32.928     [Info   ] - Starts Loading Component : System.Core 
+ <-1> 24/05/2022 14:15:32.937     [Info   ] - Assembly : System.Core is already loaded
+ <-1> 24/05/2022 14:15:32.966     [Info   ] - Ends Loading Component : E:\Magic_XPA\XPA48\Add_On\UserFunctionality\UserFunctionality.ecf 
+ <-1> 24/05/2022 14:15:32.979     [Info   ] -   License file: "E:\Magic_XPA\XPA48\LICENSE.dat", License feature: 'MGCSTK'.
+ <-1> 24/05/2022 14:15:32.981     [Info   ] -   The project was successfully opened.
+ *********************   Date: 24/05/2022  ********************
+ <-1> 24/05/2022 14:16:47.188     [Info   ] - The INI file ("E:\Magic_XPA\XPA48\MAGIC.INI") was successfully opened.
+ <-1> 24/05/2022 14:16:47.208     [Info   ] - ProcessID is 37176
+ <-1> 24/05/2022 14:16:47.220     [Info   ] - The current working directory is: "C:\Windows\System32".
+ <-1> 24/05/2022 14:16:47.301     [Info   ] - Starting Magic xpa Server. Maximum checked-out concurrent threads: 1. Maximum checked-out concurrent users: 1.
+ <-1> 24/05/2022 14:16:54.103     [Info   ] - Process 37176 - Exiting Magic xpa
+ <-1> 24/05/2022 14:16:54.103     [Info   ] - ------------------------------------------
+ <-1> 24/05/2022 14:17:14.052     [Info   ] - Starts Loading Component : System 
+ <-1> 24/05/2022 14:17:14.060     [Info   ] - Ends Loading Component : System 
+ <-1> 24/05/2022 14:17:14.066     [Info   ] - Starts Loading Component : System.Data 
+ <-1> 24/05/2022 14:17:14.083     [Info   ] - Ends Loading Component : System.Data 
+ <-1> 24/05/2022 14:17:14.086     [Info   ] - Starts Loading Component : System.Drawing 
+ <-1> 24/05/2022 14:17:14.099     [Info   ] - Ends Loading Component : System.Drawing 
+ <-1> 24/05/2022 14:17:14.107     [Info   ] - Starts Loading Component : System.Windows.Forms 
+ <-1> 24/05/2022 14:17:14.121     [Info   ] - Ends Loading Component : System.Windows.Forms 
+ <-1> 24/05/2022 14:17:14.123     [Info   ] - Starts Loading Component : System.Xml 
+ <-1> 24/05/2022 14:17:14.136     [Info   ] - Ends Loading Component : System.Xml 
+ <-1> 24/05/2022 14:17:14.142     [Info   ] - Starts Loading Component : System.Xml.Linq 
+ <-1> 24/05/2022 14:17:14.155     [Info   ] - Ends Loading Component : System.Xml.Linq 
+ <-1> 24/05/2022 14:17:14.162     [Info   ] - Starts Loading Component : System.Runtime.Serialization 
+ <-1> 24/05/2022 14:17:14.174     [Info   ] - Ends Loading Component : System.Runtime.Serialization 
+ <-1> 24/05/2022 14:17:14.180     [Info   ] - Starts Loading Component : System.ServiceModel.Web 
+ <-1> 24/05/2022 14:17:14.203     [Info   ] - Ends Loading Component : System.ServiceModel.Web 
+ <-1> 24/05/2022 14:17:14.203     [Info   ] - Starts Loading Component : System.Web 
+ <-1> 24/05/2022 14:17:14.218     [Info   ] - Ends Loading Component : System.Web 
+ <-1> 24/05/2022 14:17:14.221     [Info   ] - Starts Loading Component : System.Web.Extensions 
+ <-1> 24/05/2022 14:17:14.232     [Info   ] - Ends Loading Component : System.Web.Extensions 
+ <-1> 24/05/2022 14:17:14.240     [Info   ] - Starts Loading Component : Microsoft.Office.Interop.Word 
+ <-1> 24/05/2022 14:17:14.252     [Info   ] - Ends Loading Component : Microsoft.Office.Interop.Word 
+ <-1> 24/05/2022 14:17:14.259     [Info   ] - Starts Loading Component : TwitterVB 
+ <-1> 24/05/2022 14:17:14.274     [Info   ] - Ends Loading Component : TwitterVB 
+ <-1> 24/05/2022 14:17:14.277     [Info   ] - Starts Loading Component : Microsoft.mshtml 
+ <-1> 24/05/2022 14:17:14.291     [Info   ] - Ends Loading Component : Microsoft.mshtml 
+ <-1> 24/05/2022 14:17:14.296     [Info   ] - Starts Loading Component : PushSharp.Core 
+ <-1> 24/05/2022 14:17:14.309     [Info   ] - Ends Loading Component : PushSharp.Core 
+ <-1> 24/05/2022 14:17:14.315     [Info   ] - Starts Loading Component : PushSharp.Google 
+ <-1> 24/05/2022 14:17:14.329     [Info   ] - Ends Loading Component : PushSharp.Google 
+ <-1> 24/05/2022 14:17:14.334     [Info   ] - Starts Loading Component : PushSharp.Apple 
+ <-1> 24/05/2022 14:17:14.349     [Info   ] - Ends Loading Component : PushSharp.Apple 
+ <-1> 24/05/2022 14:17:14.352     [Info   ] - Starts Loading Component : PushSharp.Windows 
+ <-1> 24/05/2022 14:17:14.369     [Info   ] - Ends Loading Component : PushSharp.Windows 
+ <-1> 24/05/2022 14:17:14.371     [Info   ] - Starts Loading Component : System.Collections 
+ <-1> 24/05/2022 14:17:14.382     [Info   ] - Ends Loading Component : System.Collections 
+ <-1> 24/05/2022 14:17:14.389     [Info   ] - Starts Loading Component : System.Core 
+ <-1> 24/05/2022 14:17:14.402     [Info   ] - Ends Loading Component : System.Core 
+ <-1> 24/05/2022 14:17:14.408     [Info   ] - Starts Loading Component : System.Xml.ReaderWriter 
+ <-1> 24/05/2022 14:17:14.419     [Info   ] - Ends Loading Component : System.Xml.ReaderWriter 
+ <-1> 24/05/2022 14:17:14.424     [Info   ] - Starts Loading Component : System.Security.Cryptography.X509Certificates 
+ <-1> 24/05/2022 14:17:14.435     [Info   ] - Ends Loading Component : System.Security.Cryptography.X509Certificates 
+ <-1> 24/05/2022 14:17:14.441     [Info   ] - Starts Loading Component : System.Security.Cryptography.Primitives 
+ <-1> 24/05/2022 14:17:14.452     [Info   ] - Ends Loading Component : System.Security.Cryptography.Primitives 
+ <-1> 24/05/2022 14:17:14.460     [Info   ] - Starts Loading Component : System.Security.Cryptography.Encoding 
+ <-1> 24/05/2022 14:17:14.475     [Info   ] - Ends Loading Component : System.Security.Cryptography.Encoding 
+ <-1> 24/05/2022 14:17:14.480     [Info   ] - Starts Loading Component : System.Security.Cryptography.Algorithms 
+ <-1> 24/05/2022 14:17:14.492     [Info   ] - Ends Loading Component : System.Security.Cryptography.Algorithms 
+ <-1> 24/05/2022 14:17:14.497     [Info   ] - Starts Loading Component : System.Runtime.InteropServices.RuntimeInformation 
+ <-1> 24/05/2022 14:17:14.506     [Info   ] - Ends Loading Component : System.Runtime.InteropServices.RuntimeInformation 
+ <-1> 24/05/2022 14:17:14.511     [Info   ] - Starts Loading Component : System.Runtime.CompilerServices.Unsafe 
+ <-1> 24/05/2022 14:17:14.523     [Info   ] - Ends Loading Component : System.Runtime.CompilerServices.Unsafe 
+ <-1> 24/05/2022 14:17:14.527     [Info   ] - Starts Loading Component : System.Net.Sockets 
+ <-1> 24/05/2022 14:17:14.541     [Info   ] - Ends Loading Component : System.Net.Sockets 
+ <-1> 24/05/2022 14:17:14.547     [Info   ] - Starts Loading Component : System.Net.Http.WinHttpHandler 
+ <-1> 24/05/2022 14:17:14.564     [Info   ] - Ends Loading Component : System.Net.Http.WinHttpHandler 
+ <-1> 24/05/2022 14:17:14.569     [Info   ] - Starts Loading Component : System.Net.Http 
+ <-1> 24/05/2022 14:17:14.581     [Info   ] - Ends Loading Component : System.Net.Http 
+ <-1> 24/05/2022 14:17:14.586     [Info   ] - Starts Loading Component : System.Memory 
+ <-1> 24/05/2022 14:17:14.600     [Info   ] - Ends Loading Component : System.Memory 
+ <-1> 24/05/2022 14:17:14.602     [Info   ] - Starts Loading Component : System.IO.FileSystem.Primitives 
+ <-1> 24/05/2022 14:17:14.612     [Info   ] - Ends Loading Component : System.IO.FileSystem.Primitives 
+ <-1> 24/05/2022 14:17:14.618     [Info   ] - Starts Loading Component : System.IO.FileSystem 
+ <-1> 24/05/2022 14:17:14.629     [Info   ] - Ends Loading Component : System.IO.FileSystem 
+ <-1> 24/05/2022 14:17:14.636     [Info   ] - Starts Loading Component : System.IO.Compression.ZipFile 
+ <-1> 24/05/2022 14:17:14.650     [Info   ] - Ends Loading Component : System.IO.Compression.ZipFile 
+ <-1> 24/05/2022 14:17:14.654     [Info   ] - Starts Loading Component : System.IO.Compression 
+ <-1> 24/05/2022 14:17:14.665     [Info   ] - Ends Loading Component : System.IO.Compression 
+ <-1> 24/05/2022 14:17:14.670     [Info   ] - Starts Loading Component : System.Globalization.Calendars 
+ <-1> 24/05/2022 14:17:14.679     [Info   ] - Ends Loading Component : System.Globalization.Calendars 
+ <-1> 24/05/2022 14:17:14.685     [Info   ] - Starts Loading Component : System.Diagnostics.DiagnosticSource 
+ <-1> 24/05/2022 14:17:14.698     [Info   ] - Ends Loading Component : System.Diagnostics.DiagnosticSource 
+ <-1> 24/05/2022 14:17:14.701     [Info   ] - Starts Loading Component : System.Console 
+ <-1> 24/05/2022 14:17:14.711     [Info   ] - Ends Loading Component : System.Console 
+ <-1> 24/05/2022 14:17:14.717     [Info   ] - Starts Loading Component : System.Buffers 
+ <-1> 24/05/2022 14:17:14.729     [Info   ] - Ends Loading Component : System.Buffers 
+ <-1> 24/05/2022 14:17:14.734     [Info   ] - Starts Loading Component : System.AppContext 
+ <-1> 24/05/2022 14:17:14.744     [Info   ] - Ends Loading Component : System.AppContext 
+ <-1> 24/05/2022 14:17:14.750     [Info   ] - Starts Loading Component : Newtonsoft.Json 
+ <-1> 24/05/2022 14:17:14.775     [Info   ] - Ends Loading Component : Newtonsoft.Json 
+ <-1> 24/05/2022 14:17:14.775     [Info   ] - Starts Loading Component : Microsoft.Win32.Primitives 
+ <-1> 24/05/2022 14:17:14.786     [Info   ] - Ends Loading Component : Microsoft.Win32.Primitives 
+ <-1> 24/05/2022 14:17:14.791     [Info   ] - Starts Loading Component : dotAPNS 
+ <-1> 24/05/2022 14:17:14.807     [Info   ] - Ends Loading Component : dotAPNS 
+ <-1> 24/05/2022 14:17:14.808     [Info   ] - Starts Loading Component : E:\Magic_XPA\XPA48\Add_On\UserFunctionality\UserFunctionality.ecf 
+ <-1> 24/05/2022 14:17:14.822     [Info   ] - Starts Loading Component : System.Windows.Forms 
+ <-1> 24/05/2022 14:17:14.825     [Info   ] - Assembly : System.Windows.Forms is already loaded
+ <-1> 24/05/2022 14:17:14.832     [Info   ] - Starts Loading Component : System.Drawing 
+ <-1> 24/05/2022 14:17:14.842     [Info   ] - Assembly : System.Drawing is already loaded
+ <-1> 24/05/2022 14:17:14.850     [Info   ] - Starts Loading Component : System 
+ <-1> 24/05/2022 14:17:14.861     [Info   ] - Assembly : System is already loaded
+ <-1> 24/05/2022 14:17:14.869     [Info   ] - Starts Loading Component : System.Data 
+ <-1> 24/05/2022 14:17:14.880     [Info   ] - Assembly : System.Data is already loaded
+ <-1> 24/05/2022 14:17:14.889     [Info   ] - Starts Loading Component : Microsoft.Office.Interop.Excel 
+ <-1> 24/05/2022 14:17:14.906     [Info   ] - Ends Loading Component : Microsoft.Office.Interop.Excel 
+ <-1> 24/05/2022 14:17:14.912     [Info   ] - Starts Loading Component : Microsoft.CSharp 
+ <-1> 24/05/2022 14:17:14.927     [Info   ] - Ends Loading Component : Microsoft.CSharp 
+ <-1> 24/05/2022 14:17:14.932     [Info   ] - Starts Loading Component : System.Core 
+ <-1> 24/05/2022 14:17:14.942     [Info   ] - Assembly : System.Core is already loaded
+ <-1> 24/05/2022 14:17:14.948     [Info   ] - Starts Loading Component : System.Windows.Forms 
+ <-1> 24/05/2022 14:17:14.959     [Info   ] - Assembly : System.Windows.Forms is already loaded
+ <-1> 24/05/2022 14:17:14.965     [Info   ] - Starts Loading Component : System.Drawing 
+ <-1> 24/05/2022 14:17:14.973     [Info   ] - Assembly : System.Drawing is already loaded
+ <-1> 24/05/2022 14:17:14.979     [Info   ] - Starts Loading Component : System 
+ <-1> 24/05/2022 14:17:14.988     [Info   ] - Assembly : System is already loaded
+ <-1> 24/05/2022 14:17:14.994     [Info   ] - Starts Loading Component : System.Data 
+ <-1> 24/05/2022 14:17:15.002     [Info   ] - Assembly : System.Data is already loaded
+ <-1> 24/05/2022 14:17:15.009     [Info   ] - Starts Loading Component : System.Core 
+ <-1> 24/05/2022 14:17:15.020     [Info   ] - Assembly : System.Core is already loaded
+ <-1> 24/05/2022 14:17:15.045     [Info   ] - Ends Loading Component : E:\Magic_XPA\XPA48\Add_On\UserFunctionality\UserFunctionality.ecf 
+ <-1> 24/05/2022 14:17:15.055     [Info   ] -   License file: "E:\Magic_XPA\XPA48\LICENSE.dat", License feature: 'MGCSTK'.
+ <-1> 24/05/2022 14:17:15.055     [Info   ] -   The project was successfully opened.
+ <-1> 24/05/2022 14:37:35.606     [Info   ] - Starts Loading Component : System 
+ <-1> 24/05/2022 14:37:35.613     [Info   ] - Ends Loading Component : System 
+ <-1> 24/05/2022 14:37:35.617     [Info   ] - Starts Loading Component : System.Data 
+ <-1> 24/05/2022 14:37:35.636     [Info   ] - Ends Loading Component : System.Data 
+ <-1> 24/05/2022 14:37:35.638     [Info   ] - Starts Loading Component : System.Drawing 
+ <-1> 24/05/2022 14:37:35.652     [Info   ] - Ends Loading Component : System.Drawing 
+ <-1> 24/05/2022 14:37:35.664     [Info   ] - Starts Loading Component : System.Windows.Forms 
+ <-1> 24/05/2022 14:37:35.678     [Info   ] - Ends Loading Component : System.Windows.Forms 
+ <-1> 24/05/2022 14:37:35.681     [Info   ] - Starts Loading Component : System.Xml 
+ <-1> 24/05/2022 14:37:35.691     [Info   ] - Ends Loading Component : System.Xml 
+ <-1> 24/05/2022 14:37:35.695     [Info   ] - Starts Loading Component : System.Xml.Linq 
+ <-1> 24/05/2022 14:37:35.706     [Info   ] - Ends Loading Component : System.Xml.Linq 
+ <-1> 24/05/2022 14:37:35.709     [Info   ] - Starts Loading Component : System.Runtime.Serialization 
+ <-1> 24/05/2022 14:37:35.721     [Info   ] - Ends Loading Component : System.Runtime.Serialization 
+ <-1> 24/05/2022 14:37:35.731     [Info   ] - Starts Loading Component : System.ServiceModel.Web 
+ <-1> 24/05/2022 14:37:35.750     [Info   ] - Ends Loading Component : System.ServiceModel.Web 
+ <-1> 24/05/2022 14:37:35.751     [Info   ] - Starts Loading Component : System.Web 
+ <-1> 24/05/2022 14:37:35.765     [Info   ] - Ends Loading Component : System.Web 
+ <-1> 24/05/2022 14:37:35.768     [Info   ] - Starts Loading Component : System.Web.Extensions 
+ <-1> 24/05/2022 14:37:35.777     [Info   ] - Ends Loading Component : System.Web.Extensions 
+ <-1> 24/05/2022 14:37:35.783     [Info   ] - Starts Loading Component : Microsoft.Office.Interop.Word 
+ <-1> 24/05/2022 14:37:35.800     [Info   ] - Ends Loading Component : Microsoft.Office.Interop.Word 
+ <-1> 24/05/2022 14:37:35.801     [Info   ] - Starts Loading Component : TwitterVB 
+ <-1> 24/05/2022 14:37:35.809     [Info   ] - Ends Loading Component : TwitterVB 
+ <-1> 24/05/2022 14:37:35.815     [Info   ] - Starts Loading Component : Microsoft.mshtml 
+ <-1> 24/05/2022 14:37:35.827     [Info   ] - Ends Loading Component : Microsoft.mshtml 
+ <-1> 24/05/2022 14:37:35.830     [Info   ] - Starts Loading Component : PushSharp.Core 
+ <-1> 24/05/2022 14:37:35.842     [Info   ] - Ends Loading Component : PushSharp.Core 
+ <-1> 24/05/2022 14:37:35.846     [Info   ] - Starts Loading Component : PushSharp.Google 
+ <-1> 24/05/2022 14:37:35.857     [Info   ] - Ends Loading Component : PushSharp.Google 
+ <-1> 24/05/2022 14:37:35.860     [Info   ] - Starts Loading Component : PushSharp.Apple 
+ <-1> 24/05/2022 14:37:35.872     [Info   ] - Ends Loading Component : PushSharp.Apple 
+ <-1> 24/05/2022 14:37:35.875     [Info   ] - Starts Loading Component : PushSharp.Windows 
+ <-1> 24/05/2022 14:37:35.890     [Info   ] - Ends Loading Component : PushSharp.Windows 
+ <-1> 24/05/2022 14:37:35.891     [Info   ] - Starts Loading Component : System.Collections 
+ <-1> 24/05/2022 14:37:35.900     [Info   ] - Ends Loading Component : System.Collections 
+ <-1> 24/05/2022 14:37:35.905     [Info   ] - Starts Loading Component : System.Core 
+ <-1> 24/05/2022 14:37:35.917     [Info   ] - Ends Loading Component : System.Core 
+ <-1> 24/05/2022 14:37:35.920     [Info   ] - Starts Loading Component : System.Xml.ReaderWriter 
+ <-1> 24/05/2022 14:37:35.932     [Info   ] - Ends Loading Component : System.Xml.ReaderWriter 
+ <-1> 24/05/2022 14:37:35.937     [Info   ] - Starts Loading Component : System.Security.Cryptography.X509Certificates 
+ <-1> 24/05/2022 14:37:35.949     [Info   ] - Ends Loading Component : System.Security.Cryptography.X509Certificates 
+ <-1> 24/05/2022 14:37:35.954     [Info   ] - Starts Loading Component : System.Security.Cryptography.Primitives 
+ <-1> 24/05/2022 14:37:35.964     [Info   ] - Ends Loading Component : System.Security.Cryptography.Primitives 
+ <-1> 24/05/2022 14:37:35.970     [Info   ] - Starts Loading Component : System.Security.Cryptography.Encoding 
+ <-1> 24/05/2022 14:37:35.980     [Info   ] - Ends Loading Component : System.Security.Cryptography.Encoding 
+ <-1> 24/05/2022 14:37:35.985     [Info   ] - Starts Loading Component : System.Security.Cryptography.Algorithms 
+ <-1> 24/05/2022 14:37:35.998     [Info   ] - Ends Loading Component : System.Security.Cryptography.Algorithms 
+ <-1> 24/05/2022 14:37:36.005     [Info   ] - Starts Loading Component : System.Runtime.InteropServices.RuntimeInformation 
+ <-1> 24/05/2022 14:37:36.014     [Info   ] - Ends Loading Component : System.Runtime.InteropServices.RuntimeInformation 
+ <-1> 24/05/2022 14:37:36.023     [Info   ] - Starts Loading Component : System.Runtime.CompilerServices.Unsafe 
+ <-1> 24/05/2022 14:37:36.032     [Info   ] - Ends Loading Component : System.Runtime.CompilerServices.Unsafe 
+ <-1> 24/05/2022 14:37:36.039     [Info   ] - Starts Loading Component : System.Net.Sockets 
+ <-1> 24/05/2022 14:37:36.050     [Info   ] - Ends Loading Component : System.Net.Sockets 
+ <-1> 24/05/2022 14:37:36.055     [Info   ] - Starts Loading Component : System.Net.Http.WinHttpHandler 
+ <-1> 24/05/2022 14:37:36.069     [Info   ] - Ends Loading Component : System.Net.Http.WinHttpHandler 
+ <-1> 24/05/2022 14:37:36.075     [Info   ] - Starts Loading Component : System.Net.Http 
+ <-1> 24/05/2022 14:37:36.085     [Info   ] - Ends Loading Component : System.Net.Http 
+ <-1> 24/05/2022 14:37:36.090     [Info   ] - Starts Loading Component : System.Memory 
+ <-1> 24/05/2022 14:37:36.102     [Info   ] - Ends Loading Component : System.Memory 
+ <-1> 24/05/2022 14:37:36.107     [Info   ] - Starts Loading Component : System.IO.FileSystem.Primitives 
+ <-1> 24/05/2022 14:37:36.116     [Info   ] - Ends Loading Component : System.IO.FileSystem.Primitives 
+ <-1> 24/05/2022 14:37:36.122     [Info   ] - Starts Loading Component : System.IO.FileSystem 
+ <-1> 24/05/2022 14:37:36.133     [Info   ] - Ends Loading Component : System.IO.FileSystem 
+ <-1> 24/05/2022 14:37:36.139     [Info   ] - Starts Loading Component : System.IO.Compression.ZipFile 
+ <-1> 24/05/2022 14:37:36.151     [Info   ] - Ends Loading Component : System.IO.Compression.ZipFile 
+ <-1> 24/05/2022 14:37:36.156     [Info   ] - Starts Loading Component : System.IO.Compression 
+ <-1> 24/05/2022 14:37:36.167     [Info   ] - Ends Loading Component : System.IO.Compression 
+ <-1> 24/05/2022 14:37:36.172     [Info   ] - Starts Loading Component : System.Globalization.Calendars 
+ <-1> 24/05/2022 14:37:36.181     [Info   ] - Ends Loading Component : System.Globalization.Calendars 
+ <-1> 24/05/2022 14:37:36.187     [Info   ] - Starts Loading Component : System.Diagnostics.DiagnosticSource 
+ <-1> 24/05/2022 14:37:36.200     [Info   ] - Ends Loading Component : System.Diagnostics.DiagnosticSource 
+ <-1> 24/05/2022 14:37:36.205     [Info   ] - Starts Loading Component : System.Console 
+ <-1> 24/05/2022 14:37:36.214     [Info   ] - Ends Loading Component : System.Console 
+ <-1> 24/05/2022 14:37:36.221     [Info   ] - Starts Loading Component : System.Buffers 
+ <-1> 24/05/2022 14:37:36.230     [Info   ] - Ends Loading Component : System.Buffers 
+ <-1> 24/05/2022 14:37:36.236     [Info   ] - Starts Loading Component : System.AppContext 
+ <-1> 24/05/2022 14:37:36.244     [Info   ] - Ends Loading Component : System.AppContext 
+ <-1> 24/05/2022 14:37:36.251     [Info   ] - Starts Loading Component : Newtonsoft.Json 
+ <-1> 24/05/2022 14:37:36.266     [Info   ] - Ends Loading Component : Newtonsoft.Json 
+ <-1> 24/05/2022 14:37:36.272     [Info   ] - Starts Loading Component : Microsoft.Win32.Primitives 
+ <-1> 24/05/2022 14:37:36.283     [Info   ] - Ends Loading Component : Microsoft.Win32.Primitives 
+ <-1> 24/05/2022 14:37:36.288     [Info   ] - Starts Loading Component : dotAPNS 
+ <-1> 24/05/2022 14:37:36.300     [Info   ] - Ends Loading Component : dotAPNS 
+ <-1> 24/05/2022 14:37:36.303     [Info   ] - Starts Loading Component : E:\Magic_XPA\XPA48\Add_On\UserFunctionality\UserFunctionality.ecf 
+ <-1> 24/05/2022 14:37:36.316     [Info   ] - Starts Loading Component : System.Windows.Forms 
+ <-1> 24/05/2022 14:37:36.319     [Info   ] - Assembly : System.Windows.Forms is already loaded
+ <-1> 24/05/2022 14:37:36.326     [Info   ] - Starts Loading Component : System.Drawing 
+ <-1> 24/05/2022 14:37:36.336     [Info   ] - Assembly : System.Drawing is already loaded
+ <-1> 24/05/2022 14:37:36.343     [Info   ] - Starts Loading Component : System 
+ <-1> 24/05/2022 14:37:36.352     [Info   ] - Assembly : System is already loaded
+ <-1> 24/05/2022 14:37:36.358     [Info   ] - Starts Loading Component : System.Data 
+ <-1> 24/05/2022 14:37:36.367     [Info   ] - Assembly : System.Data is already loaded
+ <-1> 24/05/2022 14:37:36.374     [Info   ] - Starts Loading Component : Microsoft.Office.Interop.Excel 
+ <-1> 24/05/2022 14:37:36.390     [Info   ] - Ends Loading Component : Microsoft.Office.Interop.Excel 
+ <-1> 24/05/2022 14:37:36.391     [Info   ] - Starts Loading Component : Microsoft.CSharp 
+ <-1> 24/05/2022 14:37:36.407     [Info   ] - Ends Loading Component : Microsoft.CSharp 
+ <-1> 24/05/2022 14:37:36.409     [Info   ] - Starts Loading Component : System.Core 
+ <-1> 24/05/2022 14:37:36.418     [Info   ] - Assembly : System.Core is already loaded
+ <-1> 24/05/2022 14:37:36.425     [Info   ] - Starts Loading Component : System.Windows.Forms 
+ <-1> 24/05/2022 14:37:36.434     [Info   ] - Assembly : System.Windows.Forms is already loaded
+ <-1> 24/05/2022 14:37:36.441     [Info   ] - Starts Loading Component : System.Drawing 
+ <-1> 24/05/2022 14:37:36.450     [Info   ] - Assembly : System.Drawing is already loaded
+ <-1> 24/05/2022 14:37:36.456     [Info   ] - Starts Loading Component : System 
+ <-1> 24/05/2022 14:37:36.467     [Info   ] - Assembly : System is already loaded
+ <-1> 24/05/2022 14:37:36.473     [Info   ] - Starts Loading Component : System.Data 
+ <-1> 24/05/2022 14:37:36.481     [Info   ] - Assembly : System.Data is already loaded
+ <-1> 24/05/2022 14:37:36.487     [Info   ] - Starts Loading Component : System.Core 
+ <-1> 24/05/2022 14:37:36.495     [Info   ] - Assembly : System.Core is already loaded
+ <-1> 24/05/2022 14:37:36.518     [Info   ] - Ends Loading Component : E:\Magic_XPA\XPA48\Add_On\UserFunctionality\UserFunctionality.ecf 
+ <-1> 24/05/2022 14:37:36.531     [Info   ] -   License file: "E:\Magic_XPA\XPA48\LICENSE.dat", License feature: 'MGCSTK'.
+ <-1> 24/05/2022 14:37:36.532     [Info   ] -   The project was successfully opened.
+ <286042271600285728> 24/05/2022 14:38:05.246     [Action ] -   Starts request ID '3': Session Counter #3, task 'RNC03' ("Rich Internet Samples")
+ <286042271600285728> 24/05/2022 14:38:05.279     [Action ] -     >>Starts load Batch Task - 'Main Program (UserFunctionality)' in Query mode (Task Instance: 1)
+ <286042271600285728> 24/05/2022 14:38:05.281     [Action ] -     Ends Load Task
+ <286042271600285728> 24/05/2022 14:38:05.299     [Action ] -     Starts Task Prefix
+ <286042271600285728> 24/05/2022 14:38:05.300     [Action ] -       Flow - Update: 'V: gV:FunctionsList' <== exp #41
+ <286042271600285728> 24/05/2022 14:38:05.309     [Action ] -       Flow - Update: 'W: gV:FunctionsDescriptionList' <== exp #42
+ <286042271600285728> 24/05/2022 14:38:05.314     [Action ] -       Flow - Update: 'X: gV:DigitAndPunctuationList' <== exp #43
+ <286042271600285728> 24/05/2022 14:38:05.322     [Action ] -       Flow - Update: 'BB: gV:IsHebrewApp' <== exp #105
+ <286042271600285728> 24/05/2022 14:38:05.329     [Action ] -     Ends Task Prefix
+ <286042271600285728> 24/05/2022 14:38:05.339     [Action ] -     Load records
+ <286042271600285728> 24/05/2022 14:38:05.348     [Action ] -     >>Starts load Batch Task - 'Main Program (Rich Internet Samples)' in Query mode (Task Instance: 2)
+ <286042271600285728> 24/05/2022 14:38:05.354     [Action ] -     Ends Load Task
+ <286042271600285728> 24/05/2022 14:38:05.361     [Action ] -     Starts Task Prefix
+ <286042271600285728> 24/05/2022 14:38:05.369     [Action ] -       Flow - Remark: 
+ <286042271600285728> 24/05/2022 14:38:05.377     [Action ] -       Flow - Update: 'A: Start Time' <== exp #1
+ <286042271600285728> 24/05/2022 14:38:05.385     [Action ] -       Flow - Update: 'B: Context Name' <== exp #2
+ <286042271600285728> 24/05/2022 14:38:05.392     [Action ] -       Flow - Update: 'C: Field 1' <== exp #3
+ <286042271600285728> 24/05/2022 14:38:05.400     [Action ] -       Flow - Remark: 
+ <286042271600285728> 24/05/2022 14:38:05.409     [Action ] -     Ends Task Prefix
+ <286042271600285728> 24/05/2022 14:38:05.416     [Action ] -     Load records
+ <286042271600285728> 24/05/2022 14:38:05.427     [Action ] -       >>Starts load Rich Client Task - 'NC03 Toast (Android)' in Modify mode (Task Instance: 3)
+ <286042271600285728> 24/05/2022 14:38:05.431     [Action ] -       Ends Load Task
+ <286042271600285728> 24/05/2022 14:38:05.439     [Action ] -       Load records
+ <286042271600285728> 24/05/2022 14:38:05.447     [Action ] -       Write Nested Transaction 3
+ <286042271600285728> 24/05/2022 14:38:05.814     [Action ] -   Ends request ID '3': Session Counter #3, task 'RNC03' ("Rich Internet Samples") (0.567 sec.)
+ <286042271600285728> 24/05/2022 14:38:05.848     [Action ] -   Starts request ID '4': Session Counter #4, task '[Caching]' ("[-]")
+ <286042271600285728> 24/05/2022 14:38:05.849     [Action ] -   Ends request ID '4': Session Counter #4, task '[Caching]' ("[-]") (0.000 sec.)
+ <286042271600285728> 24/05/2022 14:38:05.879     [Action ] -   Starts request ID '5': Session Counter #5, task '[Caching]' ("[-]")
+ <286042271600285728> 24/05/2022 14:38:05.880     [Action ] -   Ends request ID '5': Session Counter #5, task '[Caching]' ("[-]") (0.001 sec.)
+ <286042271600285728> 24/05/2022 14:38:05.903     [Action ] -   Starts request ID '6': Session Counter #6, task '[Caching]' ("[-]")
+ <286042271600285728> 24/05/2022 14:38:05.904     [Action ] -   Ends request ID '6': Session Counter #6, task '[Caching]' ("[-]") (0.000 sec.)
+ <286042271600285728> 24/05/2022 14:38:05.925     [Action ] -   Starts request ID '7': Session Counter #7, task '[Caching]' ("[-]")
+ <286042271600285728> 24/05/2022 14:38:05.925     [Action ] -   Ends request ID '7': Session Counter #7, task '[Caching]' ("[-]") (0.000 sec.)
+ <286042271600285728> 24/05/2022 14:38:05.940     [Action ] -   Starts request ID '8': Session Counter #8, task '[Caching]' ("[-]")
+ <286042271600285728> 24/05/2022 14:38:05.944     [Action ] -   Ends request ID '8': Session Counter #8, task '[Caching]' ("[-]") (0.000 sec.)
+ <286042271600285728> 24/05/2022 14:38:05.961     [Action ] -   Starts request ID '9': Session Counter #9, task '[Caching]' ("[-]")
+ <286042271600285728> 24/05/2022 14:38:05.962     [Action ] -   Ends request ID '9': Session Counter #9, task '[Caching]' ("[-]") (0.000 sec.)
+ <286042271600285728> 24/05/2022 14:38:05.977     [Action ] -   Starts request ID '10': Session Counter #10, task '[Caching]' ("[-]")
+ <286042271600285728> 24/05/2022 14:38:05.996     [Action ] -   Ends request ID '10': Session Counter #10, task '[Caching]' ("[-]") (0.000 sec.)
+ <286042271600285728> 24/05/2022 14:38:06.013     [Action ] -   Starts request ID '11': Session Counter #11, task '[Caching]' ("[-]")
+ <286042271600285728> 24/05/2022 14:38:06.015     [Action ] -   Ends request ID '11': Session Counter #11, task '[Caching]' ("[-]") (0.001 sec.)
+ <286042271600285728> 24/05/2022 14:38:06.034     [Action ] -   Starts request ID '12': Session Counter #12, task '[Caching]' ("[-]")
+ <286042271600285728> 24/05/2022 14:38:06.035     [Action ] -   Ends request ID '12': Session Counter #12, task '[Caching]' ("[-]") (0.000 sec.)
+ <286042271600285728> 24/05/2022 14:38:06.049     [Action ] -   Starts request ID '13': Session Counter #13, task '[Caching]' ("[-]")
+ <286042271600285728> 24/05/2022 14:38:06.050     [Action ] -   Ends request ID '13': Session Counter #13, task '[Caching]' ("[-]") (0.000 sec.)
+ <286042271600285728> 24/05/2022 14:38:06.070     [Action ] -   Starts request ID '14': Session Counter #14, task '[Caching]' ("[-]")
+ <286042271600285728> 24/05/2022 14:38:06.071     [Action ] -   Ends request ID '14': Session Counter #14, task '[Caching]' ("[-]") (0.000 sec.)
+ <286042271600285728> 24/05/2022 14:38:06.087     [Action ] -   Starts request ID '15': Session Counter #15, task '[Caching]' ("[-]")
+ <286042271600285728> 24/05/2022 14:38:06.088     [Action ] -   Ends request ID '15': Session Counter #15, task '[Caching]' ("[-]") (0.001 sec.)
+ <286042271600285728> 24/05/2022 14:38:06.106     [Action ] -   Starts request ID '16': Session Counter #16, task '[Caching]' ("[-]")
+ <286042271600285728> 24/05/2022 14:38:06.106     [Action ] -   Ends request ID '16': Session Counter #16, task '[Caching]' ("[-]") (0.000 sec.)
+ <286042271600285728> 24/05/2022 14:38:06.121     [Action ] -   Starts request ID '17': Session Counter #17, task '[Caching]' ("[-]")
+ <286042271600285728> 24/05/2022 14:38:06.121     [Action ] -   Ends request ID '17': Session Counter #17, task '[Caching]' ("[-]") (0.000 sec.)
+ <286042271600285728> 24/05/2022 14:38:06.136     [Action ] -   Starts request ID '18': Session Counter #18, task '[Caching]' ("[-]")
+ <286042271600285728> 24/05/2022 14:38:06.138     [Action ] -   Ends request ID '18': Session Counter #18, task '[Caching]' ("[-]") (0.000 sec.)
+ <286042271600285728> 24/05/2022 14:38:06.151     [Action ] -   Starts request ID '19': Session Counter #19, task '[Caching]' ("[-]")
+ <286042271600285728> 24/05/2022 14:38:06.153     [Action ] -   Ends request ID '19': Session Counter #19, task '[Caching]' ("[-]") (0.000 sec.)
+ <286042271600285728> 24/05/2022 14:38:06.169     [Action ] -   Starts request ID '20': Session Counter #20, task '[Caching]' ("[-]")
+ <286042271600285728> 24/05/2022 14:38:06.170     [Action ] -   Ends request ID '20': Session Counter #20, task '[Caching]' ("[-]") (0.001 sec.)
+ <286042271600285728> 24/05/2022 14:38:06.184     [Action ] -   Starts request ID '21': Session Counter #21, task '[Caching]' ("[-]")
+ <286042271600285728> 24/05/2022 14:38:06.192     [Action ] -   Ends request ID '21': Session Counter #21, task '[Caching]' ("[-]") (0.001 sec.)
+ <286042271600285728> 24/05/2022 14:38:06.206     [Action ] -   Starts request ID '22': Session Counter #22, task '[Caching]' ("[-]")
+ <286042271600285728> 24/05/2022 14:38:06.209     [Action ] -   Ends request ID '22': Session Counter #22, task '[Caching]' ("[-]") (0.001 sec.)
+ <286042271600285728> 24/05/2022 14:38:06.223     [Action ] -   Starts request ID '23': Session Counter #23, task '[Caching]' ("[-]")
+ <286042271600285728> 24/05/2022 14:38:06.224     [Action ] -   Ends request ID '23': Session Counter #23, task '[Caching]' ("[-]") (0.001 sec.)
+ <286042271600285728> 24/05/2022 14:38:06.236     [Action ] -   Starts request ID '24': Session Counter #24, task '[Caching]' ("[-]")
+ <286042271600285728> 24/05/2022 14:38:06.237     [Action ] -   Ends request ID '24': Session Counter #24, task '[Caching]' ("[-]") (0.000 sec.)
+ <286042271600285728> 24/05/2022 14:38:06.251     [Action ] -   Starts request ID '25': Session Counter #25, task '[Caching]' ("[-]")
+ <286042271600285728> 24/05/2022 14:38:06.251     [Action ] -   Ends request ID '25': Session Counter #25, task '[Caching]' ("[-]") (0.000 sec.)
+ <286042271600285728> 24/05/2022 14:38:06.263     [Action ] -   Starts request ID '26': Session Counter #26, task '[Caching]' ("[-]")
+ <286042271600285728> 24/05/2022 14:38:06.265     [Action ] -   Ends request ID '26': Session Counter #26, task '[Caching]' ("[-]") (0.001 sec.)
+ <286042271600285728> 24/05/2022 14:38:06.277     [Action ] -   Starts request ID '27': Session Counter #27, task '[Caching]' ("[-]")
+ <286042271600285728> 24/05/2022 14:38:06.280     [Action ] -   Ends request ID '27': Session Counter #27, task '[Caching]' ("[-]") (0.001 sec.)
+ <286042271600285728> 24/05/2022 14:38:06.293     [Action ] -   Starts request ID '28': Session Counter #28, task '[Caching]' ("[-]")
+ <286042271600285728> 24/05/2022 14:38:06.298     [Action ] -   Ends request ID '28': Session Counter #28, task '[Caching]' ("[-]") (0.001 sec.)
+ <286042271600285728> 24/05/2022 14:38:06.310     [Action ] -   Starts request ID '29': Session Counter #29, task '[Caching]' ("[-]")
+ <286042271600285728> 24/05/2022 14:38:06.314     [Action ] -   Ends request ID '29': Session Counter #29, task '[Caching]' ("[-]") (0.000 sec.)
+ <286042271600285728> 24/05/2022 14:38:06.327     [Action ] -   Starts request ID '30': Session Counter #30, task '[Caching]' ("[-]")
+ <286042271600285728> 24/05/2022 14:38:06.328     [Action ] -   Ends request ID '30': Session Counter #30, task '[Caching]' ("[-]") (0.000 sec.)
+ <286042271600285728> 24/05/2022 14:38:06.343     [Action ] -   Starts request ID '31': Session Counter #31, task '[Caching]' ("[-]")
+ <286042271600285728> 24/05/2022 14:38:06.345     [Action ] -   Ends request ID '31': Session Counter #31, task '[Caching]' ("[-]") (0.000 sec.)
+ <286042271600285728> 24/05/2022 14:38:06.360     [Action ] -   Starts request ID '32': Session Counter #32, task '[Caching]' ("[-]")
+ <286042271600285728> 24/05/2022 14:38:06.361     [Action ] -   Ends request ID '32': Session Counter #32, task '[Caching]' ("[-]") (0.000 sec.)
+ <286042271600285728> 24/05/2022 14:38:06.380     [Action ] -   Starts request ID '33': Session Counter #33, task '[Caching]' ("[-]")
+ <286042271600285728> 24/05/2022 14:38:06.381     [Action ] -   Ends request ID '33': Session Counter #33, task '[Caching]' ("[-]") (0.001 sec.)
+ <286042271600285728> 24/05/2022 14:38:06.394     [Action ] -   Starts request ID '34': Session Counter #34, task '[Caching]' ("[-]")
+ <286042271600285728> 24/05/2022 14:38:06.396     [Action ] -   Ends request ID '34': Session Counter #34, task '[Caching]' ("[-]") (0.000 sec.)
+ <286042271600285728> 24/05/2022 14:38:06.410     [Action ] -   Starts request ID '35': Session Counter #35, task '[Caching]' ("[-]")
+ <286042271600285728> 24/05/2022 14:38:06.413     [Action ] -   Ends request ID '35': Session Counter #35, task '[Caching]' ("[-]") (0.000 sec.)
+ <286042271600285728> 24/05/2022 14:38:06.428     [Action ] -   Starts request ID '36': Session Counter #36, task '[Caching]' ("[-]")
+ <286042271600285728> 24/05/2022 14:38:06.428     [Action ] -   Ends request ID '36': Session Counter #36, task '[Caching]' ("[-]") (0.000 sec.)
+ <286042271600285728> 24/05/2022 14:38:06.528     [Action ] -   Starts request ID '37': Session Counter #37, task '[Caching]' ("[-]")
+ <286042271600285728> 24/05/2022 14:38:06.529     [Action ] -   Ends request ID '37': Session Counter #37, task '[Caching]' ("[-]") (0.001 sec.)
+ <286042271600285728> 24/05/2022 14:38:06.545     [Action ] -   Starts request ID '38': Session Counter #38, task '[Caching]' ("[-]")
+ <286042271600285728> 24/05/2022 14:38:06.545     [Action ] -   Ends request ID '38': Session Counter #38, task '[Caching]' ("[-]") (0.000 sec.)
+ <286042271600285728> 24/05/2022 14:38:06.619     [Action ] -   Starts request ID '39': Session Counter #39, task '[Caching]' ("[-]")
+ <286042271600285728> 24/05/2022 14:38:06.619     [Action ] -   Ends request ID '39': Session Counter #39, task '[Caching]' ("[-]") (0.000 sec.)
+ <286042271600285728> 24/05/2022 14:38:06.639     [Action ] -   Starts request ID '40': Session Counter #40, task '[Caching]' ("[-]")
+ <286042271600285728> 24/05/2022 14:38:06.640     [Action ] -   Ends request ID '40': Session Counter #40, task '[Caching]' ("[-]") (0.001 sec.)
+ <286042271600285728> 24/05/2022 14:38:11.053     [Action ] -   Starts request ID '41': Session Counter #41, application "Rich Internet Samples"
+ <286042271600285728> 24/05/2022 14:38:11.010(c)  [Info   ] -     Starts handling event User: send
+ <286042271600285728> 24/05/2022 14:38:11.015(c)  [Info   ] -     Flow - Evaluate Exp #2 (Step Forward)
+ <286042271600285728> 24/05/2022 14:38:11.045(c)  [Info   ] -     Starts handling event User Defined Function:Toast
+ <286042271600285728> 24/05/2022 14:38:11.047(c)  [Info   ] -     Flow - Evaluate Exp #1 (Step Forward)
+ <286042271600285728> 24/05/2022 14:38:11.048(c)  [Info   ] -     Ends handling event User Defined Function:Toast
+ <286042271600285728> 24/05/2022 14:38:11.049(c)  [Info   ] -     Ends handling event User: send
+ <286042271600285728> 24/05/2022 14:38:11.101     [Action ] -   Ends request ID '41': Session Counter #41, application "Rich Internet Samples" (0.048 sec.)
+ <286042271600285728> 24/05/2022 14:38:12.894     [Action ] -   Starts request ID '42': Session Counter #42, task 'NC03 Toast (Android)' ("Rich Internet Samples")
+ <286042271600285728> 24/05/2022 14:38:12.896     [Action ] -       Commit Transaction 3
+ <286042271600285728> 24/05/2022 14:38:12.903     [Action ] -       Write Nested Transaction 3
+ <286042271600285728> 24/05/2022 14:38:12.912     [Action ] -   Ends request ID '42': Session Counter #42, task 'NC03 Toast (Android)' ("Rich Internet Samples") (0.017 sec.)
+ <286042271600285728> 24/05/2022 14:38:12.961     [Action ] -   Starts request ID '43': Session Counter #43, task 'NC03 Toast (Android)' ("Rich Internet Samples")
+ <286042271600285728> 24/05/2022 14:38:12.955(c)  [Info   ] -      >> INFORMATION >> -----------------------------------------------------------------------------
+ <286042271600285728> 24/05/2022 14:38:12.956(c)  [Info   ] -      >> INFORMATION >> Server     : http://ravindraclpt.magicsoftware.co.in:80/MagicScripts48/MGrqispi.dll
+ <286042271600285728> 24/05/2022 14:38:12.956(c)  [Info   ] -      >> INFORMATION >> Application: Rich Internet Samples
+ <286042271600285728> 24/05/2022 14:38:12.956(c)  [Info   ] -      >> INFORMATION >> Program    : RNC03
+ <286042271600285728> 24/05/2022 14:38:12.956(c)  [Info   ] -      >> INFORMATION >> Log Level  : 
+ <286042271600285728> 24/05/2022 14:38:12.956(c)  [Info   ] -      >> INFORMATION >> -----------------------------------------------------------------------------
+ <286042271600285728> 24/05/2022 14:38:12.956(c)  [Info   ] -      >> INFORMATION >> Requests: 42
+ <286042271600285728> 24/05/2022 14:38:12.956(c)  [Info   ] -      >> INFORMATION >> -----------------------------------------------------------------------------
+ <286042271600285728> 24/05/2022 14:38:12.956(c)  [Info   ] -      >> INFORMATION >> Session   : 000:00:09.622
+ <286042271600285728> 24/05/2022 14:38:12.956(c)  [Info   ] -      >> INFORMATION >> External  : 000:00:01.639    17% out of Session time
+ <286042271600285728> 24/05/2022 14:38:12.956(c)  [Info   ] -      >> INFORMATION >> Network   : 000:00:00.871    54% out of External time
+ <286042271600285728> 24/05/2022 14:38:12.956(c)  [Info   ] -      >> INFORMATION >> Middleware: 000:00:00.000     0% out of External time
+ <286042271600285728> 24/05/2022 14:38:12.956(c)  [Info   ] -      >> INFORMATION >> Server    : 000:00:00.768    46% out of External time
+ <286042271600285728> 24/05/2022 14:38:12.956(c)  [Info   ] -      >> INFORMATION >> -----------------------------------------------------------------------------
+ <286042271600285728> 24/05/2022 14:38:12.956(c)  [Info   ] -      >> INFORMATION >> Uploaded         : 2 KB
+ <286042271600285728> 24/05/2022 14:38:12.956(c)  [Info   ] -      >> INFORMATION >> Compression Ratio: 0%
+ <286042271600285728> 24/05/2022 14:38:12.956(c)  [Info   ] -      >> INFORMATION >> Downloaded       : 441 KB
+ <286042271600285728> 24/05/2022 14:38:12.956(c)  [Info   ] -      >> INFORMATION >> Compression Ratio: 0%
+ <286042271600285728> 24/05/2022 14:38:12.956(c)  [Info   ] -      >> INFORMATION >> -----------------------------------------------------------------------------
+ <286042271600285728> 24/05/2022 14:38:13.107     [Action ] -       Commit Transaction 3
+ <286042271600285728> 24/05/2022 14:38:13.115     [Action ] -       Starts Closing Rich Client Task - 'NC03 Toast (Android)' (Task Instance: 3)
+ <286042271600285728> 24/05/2022 14:38:13.123     [Action ] -     <<Ends Close Task
+ <286042271600285728> 24/05/2022 14:38:13.130     [Action ] -   Ends request ID '43': Session Counter #43, task 'NC03 Toast (Android)' ("Rich Internet Samples") (0.168 sec.)
+ <286042271600285728> 24/05/2022 14:38:13.417     [Info   ] -   Context released : 
+ <286042271600285728> 24/05/2022 14:38:13.417     [Action ] -   Starts Closing Batch Task - 'Main Program (Rich Internet Samples)' (Task Instance: 2)
+ <286042271600285728> 24/05/2022 14:38:13.427     [Action ] -   <<Ends Close Task
+ <286042271600285728> 24/05/2022 14:38:13.436     [Action ] -   Starts Closing Batch Task - 'Main Program (UserFunctionality)' (Task Instance: 1)
+ <286042271600285728> 24/05/2022 14:38:13.444     [Action ] -   <<Ends Close Task
+ <-1> 24/05/2022 14:39:50.075     [Info   ] - Starts Loading Component : System 
+ <-1> 24/05/2022 14:39:50.080     [Info   ] - Ends Loading Component : System 
+ <-1> 24/05/2022 14:39:50.085     [Info   ] - Starts Loading Component : System.Data 
+ <-1> 24/05/2022 14:39:50.098     [Info   ] - Ends Loading Component : System.Data 
+ <-1> 24/05/2022 14:39:50.102     [Info   ] - Starts Loading Component : System.Drawing 
+ <-1> 24/05/2022 14:39:50.113     [Info   ] - Ends Loading Component : System.Drawing 
+ <-1> 24/05/2022 14:39:50.126     [Info   ] - Starts Loading Component : System.Windows.Forms 
+ <-1> 24/05/2022 14:39:50.141     [Info   ] - Ends Loading Component : System.Windows.Forms 
+ <-1> 24/05/2022 14:39:50.145     [Info   ] - Starts Loading Component : System.Xml 
+ <-1> 24/05/2022 14:39:50.157     [Info   ] - Ends Loading Component : System.Xml 
+ <-1> 24/05/2022 14:39:50.161     [Info   ] - Starts Loading Component : System.Xml.Linq 
+ <-1> 24/05/2022 14:39:50.174     [Info   ] - Ends Loading Component : System.Xml.Linq 
+ <-1> 24/05/2022 14:39:50.177     [Info   ] - Starts Loading Component : System.Runtime.Serialization 
+ <-1> 24/05/2022 14:39:50.192     [Info   ] - Ends Loading Component : System.Runtime.Serialization 
+ <-1> 24/05/2022 14:39:50.198     [Info   ] - Starts Loading Component : System.ServiceModel.Web 
+ <-1> 24/05/2022 14:39:50.215     [Info   ] - Ends Loading Component : System.ServiceModel.Web 
+ <-1> 24/05/2022 14:39:50.217     [Info   ] - Starts Loading Component : System.Web 
+ <-1> 24/05/2022 14:39:50.233     [Info   ] - Ends Loading Component : System.Web 
+ <-1> 24/05/2022 14:39:50.236     [Info   ] - Starts Loading Component : System.Web.Extensions 
+ <-1> 24/05/2022 14:39:50.246     [Info   ] - Ends Loading Component : System.Web.Extensions 
+ <-1> 24/05/2022 14:39:50.253     [Info   ] - Starts Loading Component : Microsoft.Office.Interop.Word 
+ <-1> 24/05/2022 14:39:50.267     [Info   ] - Ends Loading Component : Microsoft.Office.Interop.Word 
+ <-1> 24/05/2022 14:39:50.271     [Info   ] - Starts Loading Component : TwitterVB 
+ <-1> 24/05/2022 14:39:50.283     [Info   ] - Ends Loading Component : TwitterVB 
+ <-1> 24/05/2022 14:39:50.291     [Info   ] - Starts Loading Component : Microsoft.mshtml 
+ <-1> 24/05/2022 14:39:50.305     [Info   ] - Ends Loading Component : Microsoft.mshtml 
+ <-1> 24/05/2022 14:39:50.310     [Info   ] - Starts Loading Component : PushSharp.Core 
+ <-1> 24/05/2022 14:39:50.325     [Info   ] - Ends Loading Component : PushSharp.Core 
+ <-1> 24/05/2022 14:39:50.332     [Info   ] - Starts Loading Component : PushSharp.Google 
+ <-1> 24/05/2022 14:39:50.349     [Info   ] - Ends Loading Component : PushSharp.Google 
+ <-1> 24/05/2022 14:39:50.353     [Info   ] - Starts Loading Component : PushSharp.Apple 
+ <-1> 24/05/2022 14:39:50.368     [Info   ] - Ends Loading Component : PushSharp.Apple 
+ <-1> 24/05/2022 14:39:50.373     [Info   ] - Starts Loading Component : PushSharp.Windows 
+ <-1> 24/05/2022 14:39:50.392     [Info   ] - Ends Loading Component : PushSharp.Windows 
+ <-1> 24/05/2022 14:39:50.396     [Info   ] - Starts Loading Component : System.Collections 
+ <-1> 24/05/2022 14:39:50.408     [Info   ] - Ends Loading Component : System.Collections 
+ <-1> 24/05/2022 14:39:50.413     [Info   ] - Starts Loading Component : System.Core 
+ <-1> 24/05/2022 14:39:50.427     [Info   ] - Ends Loading Component : System.Core 
+ <-1> 24/05/2022 14:39:50.432     [Info   ] - Starts Loading Component : System.Xml.ReaderWriter 
+ <-1> 24/05/2022 14:39:50.455     [Info   ] - Ends Loading Component : System.Xml.ReaderWriter 
+ <-1> 24/05/2022 14:39:50.455     [Info   ] - Starts Loading Component : System.Security.Cryptography.X509Certificates 
+ <-1> 24/05/2022 14:39:50.471     [Info   ] - Ends Loading Component : System.Security.Cryptography.X509Certificates 
+ <-1> 24/05/2022 14:39:50.479     [Info   ] - Starts Loading Component : System.Security.Cryptography.Primitives 
+ <-1> 24/05/2022 14:39:50.492     [Info   ] - Ends Loading Component : System.Security.Cryptography.Primitives 
+ <-1> 24/05/2022 14:39:50.500     [Info   ] - Starts Loading Component : System.Security.Cryptography.Encoding 
+ <-1> 24/05/2022 14:39:50.515     [Info   ] - Ends Loading Component : System.Security.Cryptography.Encoding 
+ <-1> 24/05/2022 14:39:50.524     [Info   ] - Starts Loading Component : System.Security.Cryptography.Algorithms 
+ <-1> 24/05/2022 14:39:50.538     [Info   ] - Ends Loading Component : System.Security.Cryptography.Algorithms 
+ <-1> 24/05/2022 14:39:50.545     [Info   ] - Starts Loading Component : System.Runtime.InteropServices.RuntimeInformation 
+ <-1> 24/05/2022 14:39:50.553     [Info   ] - Ends Loading Component : System.Runtime.InteropServices.RuntimeInformation 
+ <-1> 24/05/2022 14:39:50.561     [Info   ] - Starts Loading Component : System.Runtime.CompilerServices.Unsafe 
+ <-1> 24/05/2022 14:39:50.572     [Info   ] - Ends Loading Component : System.Runtime.CompilerServices.Unsafe 
+ <-1> 24/05/2022 14:39:50.580     [Info   ] - Starts Loading Component : System.Net.Sockets 
+ <-1> 24/05/2022 14:39:50.594     [Info   ] - Ends Loading Component : System.Net.Sockets 
+ <-1> 24/05/2022 14:39:50.601     [Info   ] - Starts Loading Component : System.Net.Http.WinHttpHandler 
+ <-1> 24/05/2022 14:39:50.616     [Info   ] - Ends Loading Component : System.Net.Http.WinHttpHandler 
+ <-1> 24/05/2022 14:39:50.624     [Info   ] - Starts Loading Component : System.Net.Http 
+ <-1> 24/05/2022 14:39:50.636     [Info   ] - Ends Loading Component : System.Net.Http 
+ <-1> 24/05/2022 14:39:50.643     [Info   ] - Starts Loading Component : System.Memory 
+ <-1> 24/05/2022 14:39:50.658     [Info   ] - Ends Loading Component : System.Memory 
+ <-1> 24/05/2022 14:39:50.665     [Info   ] - Starts Loading Component : System.IO.FileSystem.Primitives 
+ <-1> 24/05/2022 14:39:50.677     [Info   ] - Ends Loading Component : System.IO.FileSystem.Primitives 
+ <-1> 24/05/2022 14:39:50.685     [Info   ] - Starts Loading Component : System.IO.FileSystem 
+ <-1> 24/05/2022 14:39:50.698     [Info   ] - Ends Loading Component : System.IO.FileSystem 
+ <-1> 24/05/2022 14:39:50.707     [Info   ] - Starts Loading Component : System.IO.Compression.ZipFile 
+ <-1> 24/05/2022 14:39:50.724     [Info   ] - Ends Loading Component : System.IO.Compression.ZipFile 
+ <-1> 24/05/2022 14:39:50.734     [Info   ] - Starts Loading Component : System.IO.Compression 
+ <-1> 24/05/2022 14:39:50.749     [Info   ] - Ends Loading Component : System.IO.Compression 
+ <-1> 24/05/2022 14:39:50.756     [Info   ] - Starts Loading Component : System.Globalization.Calendars 
+ <-1> 24/05/2022 14:39:50.768     [Info   ] - Ends Loading Component : System.Globalization.Calendars 
+ <-1> 24/05/2022 14:39:50.775     [Info   ] - Starts Loading Component : System.Diagnostics.DiagnosticSource 
+ <-1> 24/05/2022 14:39:50.790     [Info   ] - Ends Loading Component : System.Diagnostics.DiagnosticSource 
+ <-1> 24/05/2022 14:39:50.796     [Info   ] - Starts Loading Component : System.Console 
+ <-1> 24/05/2022 14:39:50.805     [Info   ] - Ends Loading Component : System.Console 
+ <-1> 24/05/2022 14:39:50.812     [Info   ] - Starts Loading Component : System.Buffers 
+ <-1> 24/05/2022 14:39:50.821     [Info   ] - Ends Loading Component : System.Buffers 
+ <-1> 24/05/2022 14:39:50.827     [Info   ] - Starts Loading Component : System.AppContext 
+ <-1> 24/05/2022 14:39:50.836     [Info   ] - Ends Loading Component : System.AppContext 
+ <-1> 24/05/2022 14:39:50.842     [Info   ] - Starts Loading Component : Newtonsoft.Json 
+ <-1> 24/05/2022 14:39:50.858     [Info   ] - Ends Loading Component : Newtonsoft.Json 
+ <-1> 24/05/2022 14:39:50.861     [Info   ] - Starts Loading Component : Microsoft.Win32.Primitives 
+ <-1> 24/05/2022 14:39:50.873     [Info   ] - Ends Loading Component : Microsoft.Win32.Primitives 
+ <-1> 24/05/2022 14:39:50.877     [Info   ] - Starts Loading Component : dotAPNS 
+ <-1> 24/05/2022 14:39:50.890     [Info   ] - Ends Loading Component : dotAPNS 
+ <-1> 24/05/2022 14:39:50.893     [Info   ] - Starts Loading Component : E:\Magic_XPA\XPA48\Add_On\UserFunctionality\UserFunctionality.ecf 
+ <-1> 24/05/2022 14:39:50.908     [Info   ] - Starts Loading Component : System.Windows.Forms 
+ <-1> 24/05/2022 14:39:50.910     [Info   ] - Assembly : System.Windows.Forms is already loaded
+ <-1> 24/05/2022 14:39:50.917     [Info   ] - Starts Loading Component : System.Drawing 
+ <-1> 24/05/2022 14:39:50.928     [Info   ] - Assembly : System.Drawing is already loaded
+ <-1> 24/05/2022 14:39:50.934     [Info   ] - Starts Loading Component : System 
+ <-1> 24/05/2022 14:39:50.943     [Info   ] - Assembly : System is already loaded
+ <-1> 24/05/2022 14:39:50.949     [Info   ] - Starts Loading Component : System.Data 
+ <-1> 24/05/2022 14:39:50.957     [Info   ] - Assembly : System.Data is already loaded
+ <-1> 24/05/2022 14:39:50.964     [Info   ] - Starts Loading Component : Microsoft.Office.Interop.Excel 
+ <-1> 24/05/2022 14:39:50.977     [Info   ] - Ends Loading Component : Microsoft.Office.Interop.Excel 
+ <-1> 24/05/2022 14:39:50.980     [Info   ] - Starts Loading Component : Microsoft.CSharp 
+ <-1> 24/05/2022 14:39:50.992     [Info   ] - Ends Loading Component : Microsoft.CSharp 
+ <-1> 24/05/2022 14:39:50.997     [Info   ] - Starts Loading Component : System.Core 
+ <-1> 24/05/2022 14:39:51.007     [Info   ] - Assembly : System.Core is already loaded
+ <-1> 24/05/2022 14:39:51.013     [Info   ] - Starts Loading Component : System.Windows.Forms 
+ <-1> 24/05/2022 14:39:51.023     [Info   ] - Assembly : System.Windows.Forms is already loaded
+ <-1> 24/05/2022 14:39:51.030     [Info   ] - Starts Loading Component : System.Drawing 
+ <-1> 24/05/2022 14:39:51.040     [Info   ] - Assembly : System.Drawing is already loaded
+ <-1> 24/05/2022 14:39:51.047     [Info   ] - Starts Loading Component : System 
+ <-1> 24/05/2022 14:39:51.057     [Info   ] - Assembly : System is already loaded
+ <-1> 24/05/2022 14:39:51.064     [Info   ] - Starts Loading Component : System.Data 
+ <-1> 24/05/2022 14:39:51.072     [Info   ] - Assembly : System.Data is already loaded
+ <-1> 24/05/2022 14:39:51.079     [Info   ] - Starts Loading Component : System.Core 
+ <-1> 24/05/2022 14:39:51.089     [Info   ] - Assembly : System.Core is already loaded
+ <-1> 24/05/2022 14:39:51.114     [Info   ] - Ends Loading Component : E:\Magic_XPA\XPA48\Add_On\UserFunctionality\UserFunctionality.ecf 
+ <-1> 24/05/2022 14:39:51.127     [Info   ] -   License file: "E:\Magic_XPA\XPA48\LICENSE.dat", License feature: 'MGCSTK'.
+ <-1> 24/05/2022 14:39:51.128     [Info   ] -   The project was successfully opened.
+ *********************   Date: 24/05/2022  ********************
+ <-1> 24/05/2022 14:56:52.276     [Info   ] - The INI file ("E:\Magic_XPA\XPA48\MAGIC.INI") was successfully opened.
+ <-1> 24/05/2022 14:56:52.286     [Info   ] - ProcessID is 21660
+ <-1> 24/05/2022 14:56:52.294     [Info   ] - The current working directory is: "E:\Magic_XPA\XPA48".
+ <-1> 24/05/2022 14:56:52.376     [Info   ] - Starting Magic xpa Server. Maximum checked-out concurrent threads: 1. Maximum checked-out concurrent users: 1.
+ <-1> 24/05/2022 14:57:11.413     [Info   ] - Starts Loading Component : System 
+ <-1> 24/05/2022 14:57:11.446     [Info   ] - Ends Loading Component : System 
+ <-1> 24/05/2022 14:57:11.446     [Info   ] - Starts Loading Component : System.Data 
+ <-1> 24/05/2022 14:57:11.487     [Info   ] - Ends Loading Component : System.Data 
+ <-1> 24/05/2022 14:57:11.488     [Info   ] - Starts Loading Component : System.Drawing 
+ <-1> 24/05/2022 14:57:11.505     [Info   ] - Ends Loading Component : System.Drawing 
+ <-1> 24/05/2022 14:57:11.515     [Info   ] - Starts Loading Component : System.Windows.Forms 
+ <-1> 24/05/2022 14:57:11.545     [Info   ] - Ends Loading Component : System.Windows.Forms 
+ <-1> 24/05/2022 14:57:11.545     [Info   ] - Starts Loading Component : System.Xml 
+ <-1> 24/05/2022 14:57:11.563     [Info   ] - Ends Loading Component : System.Xml 
+ <-1> 24/05/2022 14:57:11.571     [Info   ] - Starts Loading Component : System.Xml.Linq 
+ <-1> 24/05/2022 14:57:11.596     [Info   ] - Ends Loading Component : System.Xml.Linq 
+ <-1> 24/05/2022 14:57:11.599     [Info   ] - Starts Loading Component : System.Runtime.Serialization 
+ <-1> 24/05/2022 14:57:11.616     [Info   ] - Ends Loading Component : System.Runtime.Serialization 
+ <-1> 24/05/2022 14:57:11.622     [Info   ] - Starts Loading Component : System.ServiceModel.Web 
+ <-1> 24/05/2022 14:57:11.661     [Info   ] - Ends Loading Component : System.ServiceModel.Web 
+ <-1> 24/05/2022 14:57:11.661     [Info   ] - Starts Loading Component : System.Web 
+ <-1> 24/05/2022 14:57:11.687     [Info   ] - Ends Loading Component : System.Web 
+ <-1> 24/05/2022 14:57:11.688     [Info   ] - Starts Loading Component : System.Web.Extensions 
+ <-1> 24/05/2022 14:57:11.707     [Info   ] - Ends Loading Component : System.Web.Extensions 
+ <-1> 24/05/2022 14:57:11.715     [Info   ] - Starts Loading Component : Microsoft.Office.Interop.Word 
+ <-1> 24/05/2022 14:57:11.794     [Info   ] - Ends Loading Component : Microsoft.Office.Interop.Word 
+ <-1> 24/05/2022 14:57:11.795     [Info   ] - Starts Loading Component : TwitterVB 
+ <-1> 24/05/2022 14:57:11.868     [Info   ] - Ends Loading Component : TwitterVB 
+ <-1> 24/05/2022 14:57:11.869     [Info   ] - Starts Loading Component : Microsoft.mshtml 
+ <-1> 24/05/2022 14:57:13.827     [Info   ] - Ends Loading Component : Microsoft.mshtml 
+ <-1> 24/05/2022 14:57:13.828     [Info   ] - Starts Loading Component : PushSharp.Core 
+ <-1> 24/05/2022 14:57:13.849     [Info   ] - Ends Loading Component : PushSharp.Core 
+ <-1> 24/05/2022 14:57:13.858     [Info   ] - Starts Loading Component : PushSharp.Google 
+ <-1> 24/05/2022 14:57:13.880     [Info   ] - Ends Loading Component : PushSharp.Google 
+ <-1> 24/05/2022 14:57:13.881     [Info   ] - Starts Loading Component : PushSharp.Apple 
+ <-1> 24/05/2022 14:57:13.900     [Info   ] - Ends Loading Component : PushSharp.Apple 
+ <-1> 24/05/2022 14:57:13.908     [Info   ] - Starts Loading Component : PushSharp.Windows 
+ <-1> 24/05/2022 14:57:13.927     [Info   ] - Ends Loading Component : PushSharp.Windows 
+ <-1> 24/05/2022 14:57:13.933     [Info   ] - Starts Loading Component : System.Collections 
+ <-1> 24/05/2022 14:57:13.949     [Info   ] - Ends Loading Component : System.Collections 
+ <-1> 24/05/2022 14:57:13.956     [Info   ] - Starts Loading Component : System.Core 
+ <-1> 24/05/2022 14:57:13.975     [Info   ] - Ends Loading Component : System.Core 
+ <-1> 24/05/2022 14:57:13.982     [Info   ] - Starts Loading Component : System.Xml.ReaderWriter 
+ <-1> 24/05/2022 14:57:13.999     [Info   ] - Ends Loading Component : System.Xml.ReaderWriter 
+ <-1> 24/05/2022 14:57:14.007     [Info   ] - Starts Loading Component : System.Security.Cryptography.X509Certificates 
+ <-1> 24/05/2022 14:57:14.023     [Info   ] - Ends Loading Component : System.Security.Cryptography.X509Certificates 
+ <-1> 24/05/2022 14:57:14.029     [Info   ] - Starts Loading Component : System.Security.Cryptography.Primitives 
+ <-1> 24/05/2022 14:57:14.049     [Info   ] - Ends Loading Component : System.Security.Cryptography.Primitives 
+ <-1> 24/05/2022 14:57:14.057     [Info   ] - Starts Loading Component : System.Security.Cryptography.Encoding 
+ <-1> 24/05/2022 14:57:14.073     [Info   ] - Ends Loading Component : System.Security.Cryptography.Encoding 
+ <-1> 24/05/2022 14:57:14.081     [Info   ] - Starts Loading Component : System.Security.Cryptography.Algorithms 
+ <-1> 24/05/2022 14:57:14.096     [Info   ] - Ends Loading Component : System.Security.Cryptography.Algorithms 
+ <-1> 24/05/2022 14:57:14.104     [Info   ] - Starts Loading Component : System.Runtime.InteropServices.RuntimeInformation 
+ <-1> 24/05/2022 14:57:14.121     [Info   ] - Ends Loading Component : System.Runtime.InteropServices.RuntimeInformation 
+ <-1> 24/05/2022 14:57:14.129     [Info   ] - Starts Loading Component : System.Runtime.CompilerServices.Unsafe 
+ <-1> 24/05/2022 14:57:14.145     [Info   ] - Ends Loading Component : System.Runtime.CompilerServices.Unsafe 
+ <-1> 24/05/2022 14:57:14.154     [Info   ] - Starts Loading Component : System.Net.Sockets 
+ <-1> 24/05/2022 14:57:14.171     [Info   ] - Ends Loading Component : System.Net.Sockets 
+ <-1> 24/05/2022 14:57:14.181     [Info   ] - Starts Loading Component : System.Net.Http.WinHttpHandler 
+ <-1> 24/05/2022 14:57:14.202     [Info   ] - Ends Loading Component : System.Net.Http.WinHttpHandler 
+ <-1> 24/05/2022 14:57:14.206     [Info   ] - Starts Loading Component : System.Net.Http 
+ <-1> 24/05/2022 14:57:14.222     [Info   ] - Ends Loading Component : System.Net.Http 
+ <-1> 24/05/2022 14:57:14.230     [Info   ] - Starts Loading Component : System.Memory 
+ <-1> 24/05/2022 14:57:14.253     [Info   ] - Ends Loading Component : System.Memory 
+ <-1> 24/05/2022 14:57:14.257     [Info   ] - Starts Loading Component : System.IO.FileSystem.Primitives 
+ <-1> 24/05/2022 14:57:14.278     [Info   ] - Ends Loading Component : System.IO.FileSystem.Primitives 
+ <-1> 24/05/2022 14:57:14.280     [Info   ] - Starts Loading Component : System.IO.FileSystem 
+ <-1> 24/05/2022 14:57:14.295     [Info   ] - Ends Loading Component : System.IO.FileSystem 
+ <-1> 24/05/2022 14:57:14.305     [Info   ] - Starts Loading Component : System.IO.Compression.ZipFile 
+ <-1> 24/05/2022 14:57:14.324     [Info   ] - Ends Loading Component : System.IO.Compression.ZipFile 
+ <-1> 24/05/2022 14:57:14.330     [Info   ] - Starts Loading Component : System.IO.Compression 
+ <-1> 24/05/2022 14:57:14.345     [Info   ] - Ends Loading Component : System.IO.Compression 
+ <-1> 24/05/2022 14:57:14.354     [Info   ] - Starts Loading Component : System.Globalization.Calendars 
+ <-1> 24/05/2022 14:57:14.369     [Info   ] - Ends Loading Component : System.Globalization.Calendars 
+ <-1> 24/05/2022 14:57:14.379     [Info   ] - Starts Loading Component : System.Diagnostics.DiagnosticSource 
+ <-1> 24/05/2022 14:57:14.398     [Info   ] - Ends Loading Component : System.Diagnostics.DiagnosticSource 
+ <-1> 24/05/2022 14:57:14.404     [Info   ] - Starts Loading Component : System.Console 
+ <-1> 24/05/2022 14:57:14.419     [Info   ] - Ends Loading Component : System.Console 
+ <-1> 24/05/2022 14:57:14.428     [Info   ] - Starts Loading Component : System.Buffers 
+ <-1> 24/05/2022 14:57:14.443     [Info   ] - Ends Loading Component : System.Buffers 
+ <-1> 24/05/2022 14:57:14.452     [Info   ] - Starts Loading Component : System.AppContext 
+ <-1> 24/05/2022 14:57:14.467     [Info   ] - Ends Loading Component : System.AppContext 
+ <-1> 24/05/2022 14:57:14.475     [Info   ] - Starts Loading Component : Newtonsoft.Json 
+ <-1> 24/05/2022 14:57:14.510     [Info   ] - Ends Loading Component : Newtonsoft.Json 
+ <-1> 24/05/2022 14:57:14.510     [Info   ] - Starts Loading Component : Microsoft.Win32.Primitives 
+ <-1> 24/05/2022 14:57:14.528     [Info   ] - Ends Loading Component : Microsoft.Win32.Primitives 
+ <-1> 24/05/2022 14:57:14.535     [Info   ] - Starts Loading Component : dotAPNS 
+ <-1> 24/05/2022 14:57:14.554     [Info   ] - Ends Loading Component : dotAPNS 
+ <-1> 24/05/2022 14:57:14.559     [Info   ] - Starts Loading Component : E:\Magic_XPA\XPA48\Add_On\UserFunctionality\UserFunctionality.ecf 
+ <-1> 24/05/2022 14:57:14.583     [Info   ] - Starts Loading Component : System.Windows.Forms 
+ <-1> 24/05/2022 14:57:14.589     [Info   ] - Assembly : System.Windows.Forms is already loaded
+ <-1> 24/05/2022 14:57:14.600     [Info   ] - Starts Loading Component : System.Drawing 
+ <-1> 24/05/2022 14:57:14.611     [Info   ] - Assembly : System.Drawing is already loaded
+ <-1> 24/05/2022 14:57:14.622     [Info   ] - Starts Loading Component : System 
+ <-1> 24/05/2022 14:57:14.635     [Info   ] - Assembly : System is already loaded
+ <-1> 24/05/2022 14:57:14.649     [Info   ] - Starts Loading Component : System.Data 
+ <-1> 24/05/2022 14:57:14.659     [Info   ] - Assembly : System.Data is already loaded
+ <-1> 24/05/2022 14:57:14.668     [Info   ] - Starts Loading Component : Microsoft.Office.Interop.Excel 
+ <-1> 24/05/2022 14:57:14.754     [Info   ] - Ends Loading Component : Microsoft.Office.Interop.Excel 
+ <-1> 24/05/2022 14:57:14.754     [Info   ] - Starts Loading Component : Microsoft.CSharp 
+ <-1> 24/05/2022 14:57:14.772     [Info   ] - Ends Loading Component : Microsoft.CSharp 
+ <-1> 24/05/2022 14:57:14.777     [Info   ] - Starts Loading Component : System.Core 
+ <-1> 24/05/2022 14:57:14.792     [Info   ] - Assembly : System.Core is already loaded
+ <-1> 24/05/2022 14:57:14.802     [Info   ] - Starts Loading Component : System.Windows.Forms 
+ <-1> 24/05/2022 14:57:14.815     [Info   ] - Assembly : System.Windows.Forms is already loaded
+ <-1> 24/05/2022 14:57:14.824     [Info   ] - Starts Loading Component : System.Drawing 
+ <-1> 24/05/2022 14:57:14.839     [Info   ] - Assembly : System.Drawing is already loaded
+ <-1> 24/05/2022 14:57:14.849     [Info   ] - Starts Loading Component : System 
+ <-1> 24/05/2022 14:57:14.863     [Info   ] - Assembly : System is already loaded
+ <-1> 24/05/2022 14:57:14.874     [Info   ] - Starts Loading Component : System.Data 
+ <-1> 24/05/2022 14:57:14.887     [Info   ] - Assembly : System.Data is already loaded
+ <-1> 24/05/2022 14:57:14.897     [Info   ] - Starts Loading Component : System.Core 
+ <-1> 24/05/2022 14:57:14.913     [Info   ] - Assembly : System.Core is already loaded
+ <-1> 24/05/2022 14:57:14.945     [Info   ] - Ends Loading Component : E:\Magic_XPA\XPA48\Add_On\UserFunctionality\UserFunctionality.ecf 
+ <-1> 24/05/2022 14:57:14.961     [Info   ] -   License file: "E:\Magic_XPA\XPA48\LICENSE.dat", License feature: 'MGCSTK'.
+ <-1> 24/05/2022 14:57:14.963     [Info   ] -   The project was successfully opened.
+ *********************   Date: 24/05/2022  ********************
+ <-1> 24/05/2022 14:59:14.863     [Info   ] - The INI file ("E:\Magic_XPA\XPA48\MAGIC.INI") was successfully opened.
+ <-1> 24/05/2022 14:59:14.891     [Info   ] - ProcessID is 16324
+ <-1> 24/05/2022 14:59:14.910     [Info   ] - The current working directory is: "E:\Magic_XPA\XPA48".
+ <-1> 24/05/2022 14:59:14.971     [Info   ] - Starting Magic xpa Server. Maximum checked-out concurrent threads: 1. Maximum checked-out concurrent users: 1.
+ <-1> 24/05/2022 14:59:26.216     [Info   ] - Starts Loading Component : System 
+ <-1> 24/05/2022 14:59:26.244     [Info   ] - Ends Loading Component : System 
+ <-1> 24/05/2022 14:59:26.244     [Info   ] - Starts Loading Component : System.Data 
+ <-1> 24/05/2022 14:59:26.268     [Info   ] - Ends Loading Component : System.Data 
+ <-1> 24/05/2022 14:59:26.268     [Info   ] - Starts Loading Component : System.Drawing 
+ <-1> 24/05/2022 14:59:26.277     [Info   ] - Ends Loading Component : System.Drawing 
+ <-1> 24/05/2022 14:59:26.282     [Info   ] - Starts Loading Component : System.Windows.Forms 
+ <-1> 24/05/2022 14:59:26.308     [Info   ] - Ends Loading Component : System.Windows.Forms 
+ <-1> 24/05/2022 14:59:26.308     [Info   ] - Starts Loading Component : System.Xml 
+ <-1> 24/05/2022 14:59:26.321     [Info   ] - Ends Loading Component : System.Xml 
+ <-1> 24/05/2022 14:59:26.323     [Info   ] - Starts Loading Component : System.Xml.Linq 
+ <-1> 24/05/2022 14:59:26.337     [Info   ] - Ends Loading Component : System.Xml.Linq 
+ <-1> 24/05/2022 14:59:26.338     [Info   ] - Starts Loading Component : System.Runtime.Serialization 
+ <-1> 24/05/2022 14:59:26.348     [Info   ] - Ends Loading Component : System.Runtime.Serialization 
+ <-1> 24/05/2022 14:59:26.353     [Info   ] - Starts Loading Component : System.ServiceModel.Web 
+ <-1> 24/05/2022 14:59:26.381     [Info   ] - Ends Loading Component : System.ServiceModel.Web 
+ <-1> 24/05/2022 14:59:26.381     [Info   ] - Starts Loading Component : System.Web 
+ <-1> 24/05/2022 14:59:26.400     [Info   ] - Ends Loading Component : System.Web 
+ <-1> 24/05/2022 14:59:26.400     [Info   ] - Starts Loading Component : System.Web.Extensions 
+ <-1> 24/05/2022 14:59:26.414     [Info   ] - Ends Loading Component : System.Web.Extensions 
+ <-1> 24/05/2022 14:59:26.417     [Info   ] - Starts Loading Component : Microsoft.Office.Interop.Word 
+ <-1> 24/05/2022 14:59:26.471     [Info   ] - Ends Loading Component : Microsoft.Office.Interop.Word 
+ <-1> 24/05/2022 14:59:26.471     [Info   ] - Starts Loading Component : TwitterVB 
+ <-1> 24/05/2022 14:59:26.512     [Info   ] - Ends Loading Component : TwitterVB 
+ <-1> 24/05/2022 14:59:26.512     [Info   ] - Starts Loading Component : Microsoft.mshtml 
+ <-1> 24/05/2022 14:59:27.826     [Info   ] - Ends Loading Component : Microsoft.mshtml 
+ <-1> 24/05/2022 14:59:27.826     [Info   ] - Starts Loading Component : PushSharp.Core 
+ <-1> 24/05/2022 14:59:27.841     [Info   ] - Ends Loading Component : PushSharp.Core 
+ <-1> 24/05/2022 14:59:27.845     [Info   ] - Starts Loading Component : PushSharp.Google 
+ <-1> 24/05/2022 14:59:27.860     [Info   ] - Ends Loading Component : PushSharp.Google 
+ <-1> 24/05/2022 14:59:27.860     [Info   ] - Starts Loading Component : PushSharp.Apple 
+ <-1> 24/05/2022 14:59:27.871     [Info   ] - Ends Loading Component : PushSharp.Apple 
+ <-1> 24/05/2022 14:59:27.874     [Info   ] - Starts Loading Component : PushSharp.Windows 
+ <-1> 24/05/2022 14:59:27.887     [Info   ] - Ends Loading Component : PushSharp.Windows 
+ <-1> 24/05/2022 14:59:27.890     [Info   ] - Starts Loading Component : System.Collections 
+ <-1> 24/05/2022 14:59:27.903     [Info   ] - Ends Loading Component : System.Collections 
+ <-1> 24/05/2022 14:59:27.907     [Info   ] - Starts Loading Component : System.Core 
+ <-1> 24/05/2022 14:59:27.921     [Info   ] - Ends Loading Component : System.Core 
+ <-1> 24/05/2022 14:59:27.925     [Info   ] - Starts Loading Component : System.Xml.ReaderWriter 
+ <-1> 24/05/2022 14:59:27.935     [Info   ] - Ends Loading Component : System.Xml.ReaderWriter 
+ <-1> 24/05/2022 14:59:27.940     [Info   ] - Starts Loading Component : System.Security.Cryptography.X509Certificates 
+ <-1> 24/05/2022 14:59:27.951     [Info   ] - Ends Loading Component : System.Security.Cryptography.X509Certificates 
+ <-1> 24/05/2022 14:59:27.956     [Info   ] - Starts Loading Component : System.Security.Cryptography.Primitives 
+ <-1> 24/05/2022 14:59:27.968     [Info   ] - Ends Loading Component : System.Security.Cryptography.Primitives 
+ <-1> 24/05/2022 14:59:27.974     [Info   ] - Starts Loading Component : System.Security.Cryptography.Encoding 
+ <-1> 24/05/2022 14:59:27.986     [Info   ] - Ends Loading Component : System.Security.Cryptography.Encoding 
+ <-1> 24/05/2022 14:59:27.992     [Info   ] - Starts Loading Component : System.Security.Cryptography.Algorithms 
+ <-1> 24/05/2022 14:59:28.003     [Info   ] - Ends Loading Component : System.Security.Cryptography.Algorithms 
+ <-1> 24/05/2022 14:59:28.008     [Info   ] - Starts Loading Component : System.Runtime.InteropServices.RuntimeInformation 
+ <-1> 24/05/2022 14:59:28.018     [Info   ] - Ends Loading Component : System.Runtime.InteropServices.RuntimeInformation 
+ <-1> 24/05/2022 14:59:28.025     [Info   ] - Starts Loading Component : System.Runtime.CompilerServices.Unsafe 
+ <-1> 24/05/2022 14:59:28.041     [Info   ] - Ends Loading Component : System.Runtime.CompilerServices.Unsafe 
+ <-1> 24/05/2022 14:59:28.046     [Info   ] - Starts Loading Component : System.Net.Sockets 
+ <-1> 24/05/2022 14:59:28.059     [Info   ] - Ends Loading Component : System.Net.Sockets 
+ <-1> 24/05/2022 14:59:28.063     [Info   ] - Starts Loading Component : System.Net.Http.WinHttpHandler 
+ <-1> 24/05/2022 14:59:28.079     [Info   ] - Ends Loading Component : System.Net.Http.WinHttpHandler 
+ <-1> 24/05/2022 14:59:28.081     [Info   ] - Starts Loading Component : System.Net.Http 
+ <-1> 24/05/2022 14:59:28.093     [Info   ] - Ends Loading Component : System.Net.Http 
+ <-1> 24/05/2022 14:59:28.101     [Info   ] - Starts Loading Component : System.Memory 
+ <-1> 24/05/2022 14:59:28.116     [Info   ] - Ends Loading Component : System.Memory 
+ <-1> 24/05/2022 14:59:28.117     [Info   ] - Starts Loading Component : System.IO.FileSystem.Primitives 
+ <-1> 24/05/2022 14:59:28.128     [Info   ] - Ends Loading Component : System.IO.FileSystem.Primitives 
+ <-1> 24/05/2022 14:59:28.135     [Info   ] - Starts Loading Component : System.IO.FileSystem 
+ <-1> 24/05/2022 14:59:28.150     [Info   ] - Ends Loading Component : System.IO.FileSystem 
+ <-1> 24/05/2022 14:59:28.153     [Info   ] - Starts Loading Component : System.IO.Compression.ZipFile 
+ <-1> 24/05/2022 14:59:28.169     [Info   ] - Ends Loading Component : System.IO.Compression.ZipFile 
+ <-1> 24/05/2022 14:59:28.172     [Info   ] - Starts Loading Component : System.IO.Compression 
+ <-1> 24/05/2022 14:59:28.181     [Info   ] - Ends Loading Component : System.IO.Compression 
+ <-1> 24/05/2022 14:59:28.186     [Info   ] - Starts Loading Component : System.Globalization.Calendars 
+ <-1> 24/05/2022 14:59:28.196     [Info   ] - Ends Loading Component : System.Globalization.Calendars 
+ <-1> 24/05/2022 14:59:28.201     [Info   ] - Starts Loading Component : System.Diagnostics.DiagnosticSource 
+ <-1> 24/05/2022 14:59:28.215     [Info   ] - Ends Loading Component : System.Diagnostics.DiagnosticSource 
+ <-1> 24/05/2022 14:59:28.218     [Info   ] - Starts Loading Component : System.Console 
+ <-1> 24/05/2022 14:59:28.231     [Info   ] - Ends Loading Component : System.Console 
+ <-1> 24/05/2022 14:59:28.238     [Info   ] - Starts Loading Component : System.Buffers 
+ <-1> 24/05/2022 14:59:28.249     [Info   ] - Ends Loading Component : System.Buffers 
+ <-1> 24/05/2022 14:59:28.254     [Info   ] - Starts Loading Component : System.AppContext 
+ <-1> 24/05/2022 14:59:28.263     [Info   ] - Ends Loading Component : System.AppContext 
+ <-1> 24/05/2022 14:59:28.270     [Info   ] - Starts Loading Component : Newtonsoft.Json 
+ <-1> 24/05/2022 14:59:28.297     [Info   ] - Ends Loading Component : Newtonsoft.Json 
+ <-1> 24/05/2022 14:59:28.297     [Info   ] - Starts Loading Component : Microsoft.Win32.Primitives 
+ <-1> 24/05/2022 14:59:28.310     [Info   ] - Ends Loading Component : Microsoft.Win32.Primitives 
+ <-1> 24/05/2022 14:59:28.314     [Info   ] - Starts Loading Component : dotAPNS 
+ <-1> 24/05/2022 14:59:28.328     [Info   ] - Ends Loading Component : dotAPNS 
+ <-1> 24/05/2022 14:59:28.331     [Info   ] - Starts Loading Component : E:\Magic_XPA\XPA48\Add_On\UserFunctionality\UserFunctionality.ecf 
+ <-1> 24/05/2022 14:59:28.347     [Info   ] - Starts Loading Component : System.Windows.Forms 
+ <-1> 24/05/2022 14:59:28.349     [Info   ] - Assembly : System.Windows.Forms is already loaded
+ <-1> 24/05/2022 14:59:28.356     [Info   ] - Starts Loading Component : System.Drawing 
+ <-1> 24/05/2022 14:59:28.368     [Info   ] - Assembly : System.Drawing is already loaded
+ <-1> 24/05/2022 14:59:28.375     [Info   ] - Starts Loading Component : System 
+ <-1> 24/05/2022 14:59:28.384     [Info   ] - Assembly : System is already loaded
+ <-1> 24/05/2022 14:59:28.390     [Info   ] - Starts Loading Component : System.Data 
+ <-1> 24/05/2022 14:59:28.399     [Info   ] - Assembly : System.Data is already loaded
+ <-1> 24/05/2022 14:59:28.406     [Info   ] - Starts Loading Component : Microsoft.Office.Interop.Excel 
+ <-1> 24/05/2022 14:59:28.468     [Info   ] - Ends Loading Component : Microsoft.Office.Interop.Excel 
+ <-1> 24/05/2022 14:59:28.468     [Info   ] - Starts Loading Component : Microsoft.CSharp 
+ <-1> 24/05/2022 14:59:28.481     [Info   ] - Ends Loading Component : Microsoft.CSharp 
+ <-1> 24/05/2022 14:59:28.483     [Info   ] - Starts Loading Component : System.Core 
+ <-1> 24/05/2022 14:59:28.494     [Info   ] - Assembly : System.Core is already loaded
+ <-1> 24/05/2022 14:59:28.501     [Info   ] - Starts Loading Component : System.Windows.Forms 
+ <-1> 24/05/2022 14:59:28.510     [Info   ] - Assembly : System.Windows.Forms is already loaded
+ <-1> 24/05/2022 14:59:28.516     [Info   ] - Starts Loading Component : System.Drawing 
+ <-1> 24/05/2022 14:59:28.525     [Info   ] - Assembly : System.Drawing is already loaded
+ <-1> 24/05/2022 14:59:28.532     [Info   ] - Starts Loading Component : System 
+ <-1> 24/05/2022 14:59:28.542     [Info   ] - Assembly : System is already loaded
+ <-1> 24/05/2022 14:59:28.549     [Info   ] - Starts Loading Component : System.Data 
+ <-1> 24/05/2022 14:59:28.559     [Info   ] - Assembly : System.Data is already loaded
+ <-1> 24/05/2022 14:59:28.567     [Info   ] - Starts Loading Component : System.Core 
+ <-1> 24/05/2022 14:59:28.576     [Info   ] - Assembly : System.Core is already loaded
+ <-1> 24/05/2022 14:59:28.602     [Info   ] - Ends Loading Component : E:\Magic_XPA\XPA48\Add_On\UserFunctionality\UserFunctionality.ecf 
+ <-1> 24/05/2022 14:59:28.613     [Info   ] -   License file: "E:\Magic_XPA\XPA48\LICENSE.dat", License feature: 'MGCSTK'.
+ <-1> 24/05/2022 14:59:28.614     [Info   ] -   The project was successfully opened.
+ <190013060497918176> 24/05/2022 14:59:34.438     [Action ] -   >>Starts load Batch Task - 'Main Program (UserFunctionality)' in Query mode (Task Instance: 1)
+ <190013060497918176> 24/05/2022 14:59:34.439     [Action ] -   Ends Load Task
+ <190013060497918176> 24/05/2022 14:59:34.447     [Action ] -   Starts Task Prefix
+ <190013060497918176> 24/05/2022 14:59:34.453     [Action ] -     Flow - Update: 'V: gV:FunctionsList' <== exp #41
+ <190013060497918176> 24/05/2022 14:59:34.460     [Action ] -     Flow - Update: 'W: gV:FunctionsDescriptionList' <== exp #42
+ <190013060497918176> 24/05/2022 14:59:34.468     [Action ] -     Flow - Update: 'X: gV:DigitAndPunctuationList' <== exp #43
+ <190013060497918176> 24/05/2022 14:59:34.477     [Action ] -     Flow - Update: 'BB: gV:IsHebrewApp' <== exp #105
+ <190013060497918176> 24/05/2022 14:59:34.484     [Action ] -   Ends Task Prefix
+ <190013060497918176> 24/05/2022 14:59:34.493     [Action ] -   Load records
+ <190013060497918176> 24/05/2022 14:59:34.622     [Action ] -   >>Starts load Batch Task - 'Main Program (Rich Internet Samples)' in Query mode (Task Instance: 2)
+ <190013060497918176> 24/05/2022 14:59:34.623     [Action ] -   Ends Load Task
+ <190013060497918176> 24/05/2022 14:59:34.637     [Action ] -   Starts Task Prefix
+ <190013060497918176> 24/05/2022 14:59:34.646     [Action ] -     Flow - Remark: 
+ <190013060497918176> 24/05/2022 14:59:34.655     [Action ] -     Flow - Update: 'A: Start Time' <== exp #1
+ <190013060497918176> 24/05/2022 14:59:34.663     [Action ] -     Flow - Update: 'B: Context Name' <== exp #2
+ <190013060497918176> 24/05/2022 14:59:34.672     [Action ] -     Flow - Update: 'C: Field 1' <== exp #3
+ <190013060497918176> 24/05/2022 14:59:34.680     [Action ] -     Flow - Remark: 
+ <190013060497918176> 24/05/2022 14:59:34.688     [Action ] -   Ends Task Prefix
+ <190013060497918176> 24/05/2022 14:59:34.699     [Action ] -   Load records
+ <190013060497918176> 24/05/2022 14:59:34.816     [Action ] -   >>  Processing Event  [Context Got Focus]  Control Name :  [ N/A ] 
+ <190013060497918176> 24/05/2022 15:01:59.530     [Action ] -   >>  Processing Event  [Exit]  Control Name :  [ N/A ] 
+ <190013060497918176> 24/05/2022 15:01:59.530     [Action ] -   >>  Processing Event  [Exit System]  Control Name :  [ N/A ] 
+ <190013060497918176> 24/05/2022 15:01:59.543     [Info   ] -   Context released : 
+ <190013060497918176> 24/05/2022 15:01:59.559     [Action ] -   Starts Closing Batch Task - 'Main Program (Rich Internet Samples)' (Task Instance: 2)
+ <190013060497918176> 24/05/2022 15:01:59.593     [Action ] -   <<Ends Close Task
+ <190013060497918176> 24/05/2022 15:01:59.594     [Action ] -   Starts Closing Batch Task - 'Main Program (UserFunctionality)' (Task Instance: 1)
+ <190013060497918176> 24/05/2022 15:01:59.603     [Action ] -   <<Ends Close Task
+ <-1> 24/05/2022 15:01:59.715     [Info   ] - Execution stopped.
+ <196321875024536480> 24/05/2022 15:06:20.226     [Action ] -   >>Starts load Batch Task - 'Main Program (UserFunctionality)' in Query mode (Task Instance: 3)
+ <196321875024536480> 24/05/2022 15:06:20.227     [Action ] -   Ends Load Task
+ <196321875024536480> 24/05/2022 15:06:20.238     [Action ] -   Starts Task Prefix
+ <196321875024536480> 24/05/2022 15:06:20.246     [Action ] -     Flow - Update: 'V: gV:FunctionsList' <== exp #41
+ <196321875024536480> 24/05/2022 15:06:20.255     [Action ] -     Flow - Update: 'W: gV:FunctionsDescriptionList' <== exp #42
+ <196321875024536480> 24/05/2022 15:06:20.261     [Action ] -     Flow - Update: 'X: gV:DigitAndPunctuationList' <== exp #43
+ <196321875024536480> 24/05/2022 15:06:20.269     [Action ] -     Flow - Update: 'BB: gV:IsHebrewApp' <== exp #105
+ <196321875024536480> 24/05/2022 15:06:20.276     [Action ] -   Ends Task Prefix
+ <196321875024536480> 24/05/2022 15:06:20.284     [Action ] -   Load records
+ <196321875024536480> 24/05/2022 15:06:20.302     [Action ] -   >>Starts load Batch Task - 'Main Program (Rich Internet Samples)' in Query mode (Task Instance: 4)
+ <196321875024536480> 24/05/2022 15:06:20.302     [Action ] -   Ends Load Task
+ <196321875024536480> 24/05/2022 15:06:20.313     [Action ] -   Starts Task Prefix
+ <196321875024536480> 24/05/2022 15:06:20.320     [Action ] -     Flow - Remark: 
+ <196321875024536480> 24/05/2022 15:06:20.329     [Action ] -     Flow - Update: 'A: Start Time' <== exp #1
+ <196321875024536480> 24/05/2022 15:06:20.336     [Action ] -     Flow - Update: 'B: Context Name' <== exp #2
+ <196321875024536480> 24/05/2022 15:06:20.343     [Action ] -     Flow - Update: 'C: Field 1' <== exp #3
+ <196321875024536480> 24/05/2022 15:06:20.352     [Action ] -     Flow - Remark: 
+ <196321875024536480> 24/05/2022 15:06:20.360     [Action ] -   Ends Task Prefix
+ <196321875024536480> 24/05/2022 15:06:20.372     [Action ] -   Load records
+ <196321875024536480> 24/05/2022 15:09:57.079     [Action ] -   >>  Processing Event  [Exit]  Control Name :  [ N/A ] 
+ <196321875024536480> 24/05/2022 15:09:57.080     [Action ] -   >>  Processing Event  [Exit System]  Control Name :  [ N/A ] 
+ <196321875024536480> 24/05/2022 15:09:57.097     [Info   ] -   Context released : 
+ <196321875024536480> 24/05/2022 15:09:57.108     [Action ] -   Starts Closing Batch Task - 'Main Program (Rich Internet Samples)' (Task Instance: 4)
+ <196321875024536480> 24/05/2022 15:09:57.142     [Action ] -   <<Ends Close Task
+ <196321875024536480> 24/05/2022 15:09:57.142     [Action ] -   Starts Closing Batch Task - 'Main Program (UserFunctionality)' (Task Instance: 3)
+ <196321875024536480> 24/05/2022 15:09:57.155     [Action ] -   <<Ends Close Task
+ <-1> 24/05/2022 15:09:57.263     [Info   ] - Execution stopped.
+ <-1> 24/05/2022 15:13:06.563     [Info   ] - Process 16324 - Exiting Magic xpa
+ <-1> 24/05/2022 15:13:06.563     [Info   ] - ------------------------------------------

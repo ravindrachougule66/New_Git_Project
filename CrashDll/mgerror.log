@@ -1,0 +1,7 @@
+﻿ <238026720524373440> 17/05/2022 10:33:20.365     [Error  ] - Failed to load driver ZALIX.DLL:
+(126)The specified module could not be found.
+, Program: "Lecture Buffer ZalixEcritPlan".
+ <238026720524373440> 17/05/2022 10:33:20.366     [Error  ] - User module not found/loaded: Zalix._connexionC@4, Program: "Lecture Buffer ZalixEcritPlan".
+ <-1> 17/05/2022 10:46:38.496     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <-1> 17/05/2022 10:46:53.636     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <-1> 17/05/2022 10:53:56.724     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application

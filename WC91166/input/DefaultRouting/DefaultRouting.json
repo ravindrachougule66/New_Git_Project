@@ -1,0 +1,123 @@
+{
+	"style":	null,
+	"props":	{
+		"id":	"DefaultRouting",
+		"component_path":	"DefaultRouting/",
+		"component_uniquename":	"DefaultRouting_DefaultRouting"
+	},
+	"coordinates":	{
+		"x":	0,
+		"y":	0,
+		"width":	691,
+		"height":	552
+	},
+	"hint":	null,
+	"controlType":	null,
+	"children":	[
+		{
+			"style":	null,
+			"props":	{
+				"id":	"App1",
+				"format":	"App1",
+				"common_line_id":	"line26"
+			},
+			"coordinates":	{
+				"x":	60,
+				"y":	26,
+				"width":	120,
+				"height":	34
+			},
+			"hint":	null,
+			"controlType":	"B",
+			"children":	null
+		},
+		{
+			"style":	null,
+			"props":	{
+				"id":	"btn_App2",
+				"format":	"App2",
+				"common_line_id":	"line26"
+			},
+			"coordinates":	{
+				"x":	220,
+				"y":	26,
+				"width":	120,
+				"height":	34
+			},
+			"hint":	null,
+			"controlType":	"B",
+			"children":	null
+		},
+		{
+			"style":	null,
+			"props":	{
+				"id":	"btn_App3",
+				"format":	"App3",
+				"common_line_id":	"line26"
+			},
+			"coordinates":	{
+				"x":	387,
+				"y":	26,
+				"width":	120,
+				"height":	34
+			},
+			"hint":	null,
+			"controlType":	"B",
+			"children":	null
+		},
+		{
+			"style":	null,
+			"props":	{
+				"id":	"RouterOutlet1",
+				"is_router_outlet":	true,
+				"default_outlet":	true,
+				"common_line_id":	"line97"
+			},
+			"coordinates":	{
+				"x":	12,
+				"y":	97,
+				"width":	465,
+				"height":	98
+			},
+			"hint":	null,
+			"controlType":	"F",
+			"children":	null
+		},
+		{
+			"style":	null,
+			"props":	{
+				"id":	"RouterOutlet2",
+				"is_router_outlet":	true,
+				"default_outlet":	false,
+				"common_line_id":	"line211"
+			},
+			"coordinates":	{
+				"x":	12,
+				"y":	211,
+				"width":	465,
+				"height":	98
+			},
+			"hint":	null,
+			"controlType":	"F",
+			"children":	null
+		},
+		{
+			"style":	null,
+			"props":	{
+				"id":	"RouterOutlet3",
+				"is_router_outlet":	true,
+				"default_outlet":	false,
+				"common_line_id":	"line341"
+			},
+			"coordinates":	{
+				"x":	12,
+				"y":	341,
+				"width":	465,
+				"height":	98
+			},
+			"hint":	null,
+			"controlType":	"F",
+			"children":	null
+		}
+	]
+}

@@ -1,0 +1,12 @@
+﻿ <343437829558149696> 21/04/2022 14:35:14.297     [Error  ] - EndTaskRequest(): Error: "Web client requests cannot be handled when the online MDI is open" (-276) : " [WebC session started.]" ("WC91166")  (msgid "84"), Program: "????????".
+ <495705787712137088> 21/04/2022 14:35:18.560     [Error  ] - EndTaskRequest(): Error: "Web client requests cannot be handled when the online MDI is open" (-276) : " [WebC session started.]" ("WC91166")  (msgid "87"), Program: "????????".
+ <68394579570125944> 21/04/2022 14:38:27.456     [Error  ] - Aborting context 68394579570125944, Program: "????????".
+ <405008724687459712> 21/04/2022 14:40:04.698     [Error  ] - Aborting context 405008724687459712, Program: "????????".
+ <240971836704966656> 21/04/2022 14:41:37.390     [Error  ] - Aborting context 240971836704966656, Program: "????????".
+ <294693396258758848> 21/04/2022 14:44:57.925     [Error  ] - Aborting context 294693396258758848, Program: "????????".
+ <338410677507483072> 21/04/2022 14:58:11.767     [Error  ] - Aborting context 338410677507483072, Program: "????????".
+ <488801374606023232> 02/05/2022 17:08:52.328     [Error  ] - EndTaskRequest(): Error: "Web client requests cannot be handled when the online MDI is open" (-276) : " [WebC session started.]" ("WC91166")  (msgid "4"), Program: "????????".
+ <-1> 02/05/2022 17:09:40.716     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <-1> 02/05/2022 17:09:40.716     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <-1> 02/05/2022 17:11:07.631     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <195552060252755712> 02/05/2022 17:18:23.627     [Error  ] - Aborting context 195552060252755712, Program: "????????".

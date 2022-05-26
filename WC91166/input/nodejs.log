@@ -1,0 +1,69 @@
+Generation output:
+Generate Route Map
+
+E:\Magic_XPA\XPA48\Projects\WC91166\output\WC91166>echo off 
+generating routes map
+    routes length: 1
+genRouteFile : []  createRootRoute = true
+    generating 3 root routes
+UPDATE src/app/app.routes.ts (725 bytes)
+
+
+ Generate Modules
+
+E:\Magic_XPA\XPA48\Projects\WC91166\output\WC91166>echo off 
+copying files
+
+
+
+E:\Magic_XPA\XPA48\Projects\WC91166\output\WC91166>echo off 
+generating modules
+[V-CLI] cmd.exe /c ng g @magic-xpa/cli:modules
+   Number of modules to be check for generate: 1
+Nothing to be done.
+
+Generate Components
+
+E:\Magic_XPA\XPA48\Projects\WC91166\output\WC91166>echo off 
+copying files
+
+
+
+E:\Magic_XPA\XPA48\Projects\WC91166\output\WC91166>echo off 
+generating components
+[V-CLI] cmd.exe /c ng g @magic-xpa/cli:magic
+[>]  ********************************* START    GENERATE *********************************
+   Number of modules to be check for generate: 1
+[>]           ******    Start Web Module name : []    *******
+*** Step 1: Loading JSON files ***
+[>] Loading JSON file .//magic-metadata/DefaultRouting/DefaultRouting.json
+[>] Loading JSON file .//magic-metadata/App1/App1.json
+[>] Loading JSON file .//magic-metadata/App2/App2.json
+[>] Loading JSON file .//magic-metadata/App3/App3.json
+*** Step 2: Processing JSON files -  (4 components) ***
+[>] Processing JSON file for component DefaultRouting
+[>] Processing JSON file for component App1
+[>] Processing JSON file for component App2
+[>] Processing JSON file for component App3
+*** Step 3: generate components. (4 components) ***
+[>] generate component DefaultRouting
+[>] generate component App1
+[>] generate component App2
+[>] generate component App3
+[>] Step 4: components-list.
+[>]  ********************************* E N D    GENERATE *********************************
+UPDATE src/app/magic/DefaultRouting/DefaultRouting.mg.controls.g.ts (774 bytes)
+UPDATE src/app/magic/DefaultRouting/DefaultRouting.component.ts (709 bytes)
+UPDATE src/app/magic/DefaultRouting/DefaultRouting.component.html (1396 bytes)
+UPDATE src/app/magic/App1/App1.mg.controls.g.ts (713 bytes)
+UPDATE src/app/magic/App1/App1.component.ts (669 bytes)
+UPDATE src/app/magic/App1/App1.component.html (857 bytes)
+UPDATE src/app/magic/App2/App2.mg.controls.g.ts (713 bytes)
+UPDATE src/app/magic/App2/App2.component.ts (669 bytes)
+UPDATE src/app/magic/App2/App2.component.html (857 bytes)
+UPDATE src/app/magic/App3/App3.mg.controls.g.ts (713 bytes)
+UPDATE src/app/magic/App3/App3.component.ts (669 bytes)
+UPDATE src/app/magic/App3/App3.component.html (857 bytes)
+
+
+

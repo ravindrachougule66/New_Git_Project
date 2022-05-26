@@ -1,0 +1,88 @@
+<div
+    novalidate
+    [formGroup]="screenFormGroup"
+>
+    <div
+        style="display: flex; flex-direction: column"
+        [magic]="mgc.Package1"
+    >
+        <div style="display: flex; flex-direction: row">
+            <label
+                [magic]="mgc.Label7"
+                class="lable_overflow"
+            >
+                varid:
+            </label>
+            <div>
+                <mat-form-field>
+                    <div>
+                        <input
+                            matInput
+                            type='number'
+                            [magic]="mgc.varid"
+                            [formControlName]="mgc.varid"
+                            mgFormat
+                        >
+                        <mgError [magic]=mgc.varid> </mgError>
+                    </div>
+                </mat-form-field>
+            </div>
+        </div>
+        <div style="display: flex; flex-direction: row">
+            <label
+                [magic]="mgc.Label8"
+                class="lable_overflow"
+            >
+                Var2:
+            </label>
+            <div>
+                <mat-form-field>
+                    <div>
+                        <input
+                            matInput
+                            [magic]="mgc.Var2"
+                            [formControlName]="mgc.Var2"
+                            mgFormat
+                        >
+                        <mgError [magic]=mgc.Var2> </mgError>
+                    </div>
+                </mat-form-field>
+            </div>
+            <button
+                mat-raised-button
+                color="primary"
+                [magic]="mgc.Button9"
+            >
+                App1
+            </button>
+            <button
+                mat-raised-button
+                color="primary"
+                [magic]="mgc.Button10"
+            >
+                App2
+            </button>
+            <button
+                mat-raised-button
+                color="primary"
+                [magic]="mgc.Button11"
+            >
+                App3
+            </button>
+        </div>
+        <div style="display: flex; flex-direction: row">
+            <router-outlet [magic]="mgc.Subform6">
+            </router-outlet>
+            <router-outlet
+                [magic]="mgc.Subform7"
+                name="Subform7"
+            >
+            </router-outlet>
+            <router-outlet
+                [magic]="mgc.Subform8"
+                name="Subform8"
+            >
+            </router-outlet>
+        </div>
+    </div>
+</div>

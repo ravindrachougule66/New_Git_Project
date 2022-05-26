@@ -1,0 +1,24 @@
+ <Application>
+ 
+<Header>
+
+  <Version val="14080.00"/>
+
+  <WithIsn val="Y"/>
+
+  <Exe comp="-1"/>
+
+  <LastIsn val="3"/>
+
+  <LastIsnFolder val="0"/>
+
+</Header>
+
+<DataRepositoryProperties/>
+ <DataSourceRepository>
+  <DataObjects>
+ 
+<DataObject PhysicalName="ReadFileFirst" Resident="N" UniqueISNConvState="12" data_source="SQLite Database" id="1" name="ReadFileFirst" offset="228" length="4362"/> 
+<DataObject PhysicalName="ReadFileSecond" Resident="N" UniqueISNConvState="12" data_source="SQLite Database" id="3" name="ReadFileSecond" offset="4591" length="472"/>  </DataObjects>
+ </DataSourceRepository>
+ <LastModified val="30954916-146230989"/>  </Application>

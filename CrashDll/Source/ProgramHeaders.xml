@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Application>
+
+  <Header>
+    <Version val="14081.00"/>
+    <WithIsn val="Y"/>
+  </Header>
+
+  <ProgramsRepositoryHeaders>
+    <Program>
+      <Header Description="Main Program" ISN_2="1" LastIsn="1" id="1">
+        <Resident val="N"/>
+        <SQL val="N"/>
+        <ReturnValue>
+          <ReturnValueAttr/>
+          <ParametersAttributes/>
+        </ReturnValue>
+        <SqlWhereExist val="N"/>
+        <TaskType val="B"/>
+        <External val="N"/>
+        <Offline val="N"/>
+        <Closeopentasks val="N"/>
+        <RunProjectAs val="O"/>
+        <FormType val="N"/>
+        <DotNetObjectExists val="N"/>
+        <LastModified _date="738292" _time="37014" date="17/05/2022" time="10:16:54"/>
+      </Header>
+      <SourceFileTimeStamp _date="738292" _time="17214" date="17/05/2022" time="04:46:54"/>
+    </Program>
+    <Program>
+      <Header Description="Lecture Buffer ZalixEcritPlan" ISN_2="1" LastIsn="1" id="3">
+        <Comment val="07/12/20 : JPK&#xD;&#xA;  Passage de 1 link Create en Write&#xD;&#xA;06/12/19 : AE&#xD;&#xA;  Gestion des NULL des champs dates&#xD;&#xA;12/09/19 : AE&#xD;&#xA;  Correction passage variables par valeur (WFL015)&#xD;&#xA;03/07/19: AE&#xD;&#xA;  Optimisations MagicOptimizer WFL001&#xD;&#xA;27/05/19 : AE&#xD;&#xA;  Modification Link Create&#xD;&#xA;24/09/18 : AE&#xD;&#xA;  Affichage date '##/##/##' suite changement format date pour SQL"/>
+        <ExecutionRight comp="-1"/>
+        <Resident val="N"/>
+        <SQL val="N"/>
+        <ReturnValue>
+          <ReturnValueAttr/>
+          <ParametersAttributes/>
+        </ReturnValue>
+        <SqlWhereExist val="N"/>
+        <TaskType val="B"/>
+        <External val="N"/>
+        <Offline val="N"/>
+        <FormType val="N"/>
+        <DotNetObjectExists val="N"/>
+        <LastModified _date="738292" _time="35496" date="17/05/2022" time="09:51:36"/>
+      </Header>
+      <SourceFileTimeStamp _date="738292" _time="35532" date="17/05/2022" time="09:52:12"/>
+    </Program>
+  </ProgramsRepositoryHeaders>
+
+</Application>
