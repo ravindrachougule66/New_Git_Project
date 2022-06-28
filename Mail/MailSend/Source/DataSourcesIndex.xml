@@ -1,0 +1,32 @@
+ <Application>
+ 
+<Header>
+
+  <Version val="14081.00"/>
+
+  <WithIsn val="Y"/>
+
+  <Exe comp="-1"/>
+
+  <LastIsn val="4"/>
+
+  <LastIsnFolder val="1"/>
+
+  <Folders>
+    <Folder id="1">
+      <Name val="Memory Tables"/>
+    </Folder>
+  </Folders>
+
+</Header>
+
+<DataRepositoryProperties/>
+ <DataSourceRepository>
+  <DataObjects>
+ 
+<DataObject Comment="/* This table is used to illustrate sending and receiving email */" FolderIsn="1" PhysicalName="eMail" Resident="N" UniqueISNConvState="12" data_source="Memory" id="1" name="eMail" offset="322" length="11913"/> 
+<DataObject Comment="/* This table is used to illustrate sending and receiving email attachments*/" FolderIsn="1" PhysicalName="eMail_Attachments" Resident="N" UniqueISNConvState="12" data_source="Memory" id="2" name="eMail Attachments" offset="12236" length="2668"/> 
+<DataObject Comment="/* This table is used to illustrate sending and receiving email */" FolderIsn="1" PhysicalName="eMail" Resident="N" UniqueISNConvState="12" data_source="Memory" id="3" name="eMail" offset="14905" length="11913"/> 
+<DataObject Comment="/* This table is used to illustrate sending and receiving email attachments*/" FolderIsn="1" PhysicalName="eMail_Attachments" Resident="N" UniqueISNConvState="12" data_source="Memory" id="4" name="eMail Attachments" offset="26819" length="2668"/>  </DataObjects>
+ </DataSourceRepository>
+ <LastModified val="30964343138664566"/>  </Application>

@@ -5,7 +5,7 @@
     <Version val="14081.00"/>
     <WithIsn val="Y"/>
     <Exe comp="-1"/>
-    <LastIsn val="1"/>
+    <LastIsn val="11"/>
     <LastIsnFolder val="0"/>
   </Header>
 
@@ -19,6 +19,989 @@
         <Comment val="This component provides an interface for the user to perform Range, Locate, Sort and Print Data.The component does not expose any object. It has logic units for handling the Range, Locate, Sort and Print Data internal events.The source code for this component is available in the Add_On\UserFunctionality directory, so you can customize the screens of the component as you wish."/>
         <CompId val="738976342-28670-18720-BFE77D42E"/>
         <MciFile val="E:\Magic_XPA\XPA48\Add_On\UserFunctionality\UserFunctionality.eci"/>
+        <CABINET_FILE val="%EngineDir%Add_On\UserFunctionality\UserFunctionality.ecf"/>
+      </Component>
+      <Component id="2" name="UserFunctionality">
+        <Description val="Handles the Range, Locate, Sort and Print Data internal events"/>
+        <ComponentType val="Magic xpa"/>
+        <Type val="U"/>
+        <LoadImmediate val="Y"/>
+        <Comment val="This component provides an interface for the user to perform Range, Locate, Sort and Print Data.The component does not expose any object. It has logic units for handling the Range, Locate, Sort and Print Data internal events.The source code for this component is available in the Add_On\UserFunctionality directory, so you can customize the screens of the component as you wish."/>
+        <MciFile val="UserFunctionality.eci"/>
+        <CABINET_FILE val="%EngineDir%Add_On\UserFunctionality\UserFunctionality.ecf"/>
+      </Component>
+      <Component id="3" name="System">
+        <Description val="System"/>
+        <ComponentType val=".NET"/>
+        <Type val="D"/>
+        <LoadImmediate val="Y"/>
+        <LastISN val="156"/>
+        <AssemblyName val="System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"/>
+        <AssemblyPath val="C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll"/>
+        <UseSpecificVersion val="N"/>
+        <isGuiThreadExecution val="N"/>
+      </Component>
+      <Component id="4" name="System.Data">
+        <Description val="System.Data"/>
+        <ComponentType val=".NET"/>
+        <Type val="D"/>
+        <LoadImmediate val="Y"/>
+        <LastISN val="156"/>
+        <AssemblyName val="System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"/>
+        <AssemblyPath val="C:\WINDOWS\Microsoft.Net\assembly\GAC_64\System.Data\v4.0_4.0.0.0__b77a5c561934e089\System.Data.dll"/>
+        <UseSpecificVersion val="N"/>
+        <isGuiThreadExecution val="Y"/>
+      </Component>
+      <Component id="5" name="System drawing">
+        <Description val="System.Drawing"/>
+        <ComponentType val=".NET"/>
+        <Type val="D"/>
+        <LoadImmediate val="Y"/>
+        <LastISN val="156"/>
+        <AssemblyName val="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"/>
+        <AssemblyPath val="C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Drawing\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Drawing.dll"/>
+        <UseSpecificVersion val="N"/>
+        <isGuiThreadExecution val="Y"/>
+      </Component>
+      <Component id="6" name="System Windows forms">
+        <Description val="System.Windows.Forms"/>
+        <ComponentType val=".NET"/>
+        <Type val="D"/>
+        <LoadImmediate val="Y"/>
+        <LastISN val="156"/>
+        <AssemblyName val="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"/>
+        <AssemblyPath val="C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Windows.Forms\v4.0_4.0.0.0__b77a5c561934e089\System.Windows.Forms.dll"/>
+        <UseSpecificVersion val="N"/>
+        <isGuiThreadExecution val="Y"/>
+      </Component>
+      <Component id="7" name="UserFunctionality">
+        <Description val="Handles the Range, Locate, Sort and Print Data internal events"/>
+        <ComponentType val="Magic xpa"/>
+        <Type val="U"/>
+        <LoadImmediate val="Y"/>
+        <LastISN val="93"/>
+        <Comment val="This component provides an interface for the user to perform Range, Locate, Sort and Print Data.The component does not expose any object. It has logic units for handling the Range, Locate, Sort and Print Data internal events.The source code for this component is available in the Add_On\UserFunctionality directory, so you can customize the screens of the component as you wish."/>
+        <MciFile val="UserFunctionality.eci"/>
+        <CABINET_FILE val="%EngineDir%Add_On\UserFunctionality\UserFunctionality.ecf"/>
+      </Component>
+      <Component id="8" name="Isoa_General_Base">
+        <Description val="Isoa General Base"/>
+        <ComponentType val="Magic xpa"/>
+        <Type val="U"/>
+        <LoadImmediate val="Y"/>
+        <LastISN val="79"/>
+        <CompId val="4067954603-45871-17112-8DED3C772"/>
+        <MciFile val="C:\apl\ISOA\Builders\ECI\Isoa General\Isoa_General_Base.eci"/>
+        <CABINET_FILE val="C:\apl\ISOA\General\IsoaGeneral.ecf"/>
+        <ComponentModels>
+          <Object>
+            <ItemIsn val="1"/>
+            <PublicName val="mf_gc_code"/>
+          </Object>
+          <Object>
+            <ItemIsn val="2"/>
+            <PublicName val="mf_gc_valuei"/>
+          </Object>
+          <Object>
+            <ItemIsn val="3"/>
+            <PublicName val="mf_gc_valuee"/>
+          </Object>
+          <Object>
+            <ItemIsn val="4"/>
+            <PublicName val="mf_gc_addinfo"/>
+          </Object>
+          <Object>
+            <ItemIsn val="5"/>
+            <PublicName val="mf_lang"/>
+          </Object>
+          <Object>
+            <ItemIsn val="6"/>
+            <PublicName val="mf_desc"/>
+          </Object>
+          <Object>
+            <ItemIsn val="7"/>
+            <PublicName val="mf_amount"/>
+          </Object>
+          <Object>
+            <ItemIsn val="8"/>
+            <PublicName val="mf_code"/>
+          </Object>
+          <Object>
+            <ItemIsn val="9"/>
+            <PublicName val="mf_internal"/>
+          </Object>
+          <Object>
+            <ItemIsn val="10"/>
+            <PublicName val="mf_year"/>
+          </Object>
+          <Object>
+            <ItemIsn val="11"/>
+            <PublicName val="mf_date"/>
+          </Object>
+          <Object>
+            <ItemIsn val="12"/>
+            <PublicName val="mf_time"/>
+          </Object>
+          <Object>
+            <ItemIsn val="13"/>
+            <PublicName val="mf_user"/>
+          </Object>
+          <Object>
+            <ItemIsn val="14"/>
+            <PublicName val="mf_pwd"/>
+          </Object>
+          <Object>
+            <ItemIsn val="15"/>
+            <PublicName val="mf_action"/>
+          </Object>
+          <Object>
+            <ItemIsn val="16"/>
+            <PublicName val="mf_class"/>
+          </Object>
+          <Object>
+            <ItemIsn val="17"/>
+            <PublicName val="mf_task"/>
+          </Object>
+          <Object>
+            <ItemIsn val="18"/>
+            <PublicName val="mf_active"/>
+          </Object>
+          <Object>
+            <ItemIsn val="19"/>
+            <PublicName val="mf_lock"/>
+          </Object>
+          <Object>
+            <ItemIsn val="20"/>
+            <PublicName val="mf_seq3"/>
+          </Object>
+          <Object>
+            <ItemIsn val="21"/>
+            <PublicName val="mf_pos"/>
+          </Object>
+          <Object>
+            <ItemIsn val="22"/>
+            <PublicName val="mf_len"/>
+          </Object>
+          <Object>
+            <ItemIsn val="23"/>
+            <PublicName val="mf_data32"/>
+          </Object>
+          <Object>
+            <ItemIsn val="24"/>
+            <PublicName val="mf_data64"/>
+          </Object>
+          <Object>
+            <ItemIsn val="25"/>
+            <PublicName val="mf_msgid"/>
+          </Object>
+          <Object>
+            <ItemIsn val="26"/>
+            <PublicName val="mf_logical"/>
+          </Object>
+          <Object>
+            <ItemIsn val="27"/>
+            <PublicName val="mf_type1"/>
+          </Object>
+          <Object>
+            <ItemIsn val="28"/>
+            <PublicName val="mf_type3"/>
+          </Object>
+          <Object>
+            <ItemIsn val="29"/>
+            <PublicName val="mf_type5"/>
+          </Object>
+          <Object>
+            <ItemIsn val="30"/>
+            <PublicName val="mf_option"/>
+          </Object>
+          <Object>
+            <ItemIsn val="31"/>
+            <PublicName val="mf_file"/>
+          </Object>
+          <Object>
+            <ItemIsn val="32"/>
+            <PublicName val="mf_path"/>
+          </Object>
+          <Object>
+            <ItemIsn val="33"/>
+            <PublicName val="mf_blob"/>
+          </Object>
+          <Object>
+            <ItemIsn val="34"/>
+            <PublicName val="mf_tel"/>
+          </Object>
+        </ComponentModels>
+        <ComponentFuncs>
+          <Object>
+            <ItemIsn val="35"/>
+            <PublicName val="user_lang"/>
+          </Object>
+          <Object>
+            <ItemIsn val="36"/>
+            <PublicName val="set_user"/>
+          </Object>
+          <Object>
+            <ItemIsn val="37"/>
+            <PublicName val="reset_user"/>
+          </Object>
+          <Object>
+            <ItemIsn val="38"/>
+            <PublicName val="enter_user"/>
+          </Object>
+          <Object>
+            <ItemIsn val="39"/>
+            <PublicName val="tab_ok"/>
+          </Object>
+          <Object>
+            <ItemIsn val="40"/>
+            <PublicName val="tab_int"/>
+          </Object>
+          <Object>
+            <ItemIsn val="41"/>
+            <PublicName val="tab_ext"/>
+          </Object>
+          <Object>
+            <ItemIsn val="42"/>
+            <PublicName val="tab_desc"/>
+          </Object>
+          <Object>
+            <ItemIsn val="43"/>
+            <PublicName val="tab_addinfo"/>
+          </Object>
+          <Object>
+            <ItemIsn val="44"/>
+            <PublicName val="sec_ok"/>
+          </Object>
+          <Object>
+            <ItemIsn val="45"/>
+            <PublicName val="test_numeric"/>
+          </Object>
+          <Object>
+            <ItemIsn val="46"/>
+            <PublicName val="next_counter"/>
+          </Object>
+          <Object>
+            <ItemIsn val="47"/>
+            <PublicName val="get_next_counter"/>
+          </Object>
+          <Object>
+            <ItemIsn val="48"/>
+            <PublicName val="get_last_counter"/>
+          </Object>
+          <Object>
+            <ItemIsn val="49"/>
+            <PublicName val="Get_Highest_Nbr"/>
+          </Object>
+          <Object>
+            <ItemIsn val="50"/>
+            <PublicName val="Set_Highest_Nbr"/>
+          </Object>
+          <Object>
+            <ItemIsn val="51"/>
+            <PublicName val="action_logging"/>
+          </Object>
+          <Object>
+            <ItemIsn val="52"/>
+            <PublicName val="action_logging_extra"/>
+          </Object>
+          <Object>
+            <ItemIsn val="53"/>
+            <PublicName val="action_logging_date"/>
+          </Object>
+          <Object>
+            <ItemIsn val="54"/>
+            <PublicName val="action_logging_date_extra"/>
+          </Object>
+          <Object>
+            <ItemIsn val="55"/>
+            <PublicName val="action_detail"/>
+          </Object>
+          <Object>
+            <ItemIsn val="56"/>
+            <PublicName val="action_delete"/>
+          </Object>
+          <Object>
+            <ItemIsn val="57"/>
+            <PublicName val="file_detail"/>
+          </Object>
+          <Object>
+            <ItemIsn val="58"/>
+            <PublicName val="create_file_info"/>
+          </Object>
+          <Object>
+            <ItemIsn val="59"/>
+            <PublicName val="session_id"/>
+          </Object>
+          <Object>
+            <ItemIsn val="60"/>
+            <PublicName val="session_nbr"/>
+          </Object>
+          <Object>
+            <ItemIsn val="61"/>
+            <PublicName val="Put_Data"/>
+          </Object>
+          <Object>
+            <ItemIsn val="62"/>
+            <PublicName val="Upd_Data"/>
+          </Object>
+          <Object>
+            <ItemIsn val="63"/>
+            <PublicName val="Get_Data"/>
+          </Object>
+          <Object>
+            <ItemIsn val="64"/>
+            <PublicName val="Put_CatDoss_Data"/>
+          </Object>
+          <Object>
+            <ItemIsn val="65"/>
+            <PublicName val="Get_CatDoss_Data"/>
+          </Object>
+          <Object>
+            <ItemIsn val="66"/>
+            <PublicName val="Get_Act_Data"/>
+          </Object>
+          <Object>
+            <ItemIsn val="67"/>
+            <PublicName val="Upd_Act_Data"/>
+          </Object>
+          <Object>
+            <ItemIsn val="68"/>
+            <PublicName val="user_at_work"/>
+          </Object>
+          <Object>
+            <ItemIsn val="69"/>
+            <PublicName val="lang_at_work"/>
+          </Object>
+          <Object>
+            <ItemIsn val="70"/>
+            <PublicName val="tel_at_work"/>
+          </Object>
+          <Object>
+            <ItemIsn val="71"/>
+            <PublicName val="itel_at_work"/>
+          </Object>
+          <Object>
+            <ItemIsn val="72"/>
+            <PublicName val="mail_at_work"/>
+          </Object>
+          <Object>
+            <ItemIsn val="73"/>
+            <PublicName val="mailpwd_at_work"/>
+          </Object>
+          <Object>
+            <ItemIsn val="74"/>
+            <PublicName val="mail_SYS"/>
+          </Object>
+          <Object>
+            <ItemIsn val="75"/>
+            <PublicName val="mailpwd_SYS"/>
+          </Object>
+          <Object>
+            <ItemIsn val="76"/>
+            <PublicName val="appl_data_path"/>
+          </Object>
+          <Object>
+            <ItemIsn val="77"/>
+            <PublicName val="appl_pgm_path"/>
+          </Object>
+          <Object>
+            <ItemIsn val="78"/>
+            <PublicName val="appl_image_path"/>
+          </Object>
+          <Object>
+            <ItemIsn val="79"/>
+            <PublicName val="dft_lang"/>
+          </Object>
+        </ComponentFuncs>
+      </Component>
+      <Component id="9" name="Isoa_General_Programs">
+        <Description val="Isoa General Programs"/>
+        <ComponentType val="Magic xpa"/>
+        <Type val="U"/>
+        <LoadImmediate val="Y"/>
+        <LastISN val="98"/>
+        <CompId val="704049435-23374-19929-81CEA84BD"/>
+        <MciFile val="C:\apl\ISOA\Builders\ECI\Isoa General\Isoa_General_Programs.eci"/>
+        <CABINET_FILE val="C:\apl\ISOA\General\IsoaGeneral.ecf"/>
+        <ComponentPrograms>
+          <Object>
+            <ItemIsn val="1"/>
+            <PublicName val="set_user_info"/>
+          </Object>
+          <Object>
+            <ItemIsn val="2"/>
+            <PublicName val="Read_Session"/>
+          </Object>
+          <Object>
+            <ItemIsn val="3"/>
+            <PublicName val="Read_ASession"/>
+          </Object>
+          <Object>
+            <ItemIsn val="4"/>
+            <PublicName val="Write_ASession"/>
+          </Object>
+          <Object>
+            <ItemIsn val="5"/>
+            <PublicName val="Delete_ASession"/>
+          </Object>
+          <Object>
+            <ItemIsn val="6"/>
+            <PublicName val="Forced_Delete_ASession"/>
+          </Object>
+          <Object>
+            <ItemIsn val="7"/>
+            <PublicName val="set_language"/>
+          </Object>
+          <Object>
+            <ItemIsn val="8"/>
+            <PublicName val="action_logging"/>
+          </Object>
+          <Object>
+            <ItemIsn val="9"/>
+            <PublicName val="action_logging_extra"/>
+          </Object>
+          <Object>
+            <ItemIsn val="10"/>
+            <PublicName val="Action_Maintenance"/>
+          </Object>
+          <Object>
+            <ItemIsn val="11"/>
+            <PublicName val="Get_Action_Data"/>
+          </Object>
+          <Object>
+            <ItemIsn val="12"/>
+            <PublicName val="Upd_Action_Data"/>
+          </Object>
+          <Object>
+            <ItemIsn val="13"/>
+            <PublicName val="Action_Detail"/>
+          </Object>
+          <Object>
+            <ItemIsn val="14"/>
+            <PublicName val="Action_Delete"/>
+          </Object>
+          <Object>
+            <ItemIsn val="15"/>
+            <PublicName val="Reset_Classes"/>
+          </Object>
+          <Object>
+            <ItemIsn val="16"/>
+            <PublicName val="sec_ok"/>
+          </Object>
+          <Object>
+            <ItemIsn val="17"/>
+            <PublicName val="user_lang"/>
+          </Object>
+          <Object>
+            <ItemIsn val="18"/>
+            <PublicName val="set_user"/>
+          </Object>
+          <Object>
+            <ItemIsn val="19"/>
+            <PublicName val="reset_user"/>
+          </Object>
+          <Object>
+            <ItemIsn val="20"/>
+            <PublicName val="enter_user"/>
+          </Object>
+          <Object>
+            <ItemIsn val="21"/>
+            <PublicName val="Encrypt"/>
+          </Object>
+          <Object>
+            <ItemIsn val="22"/>
+            <PublicName val="DFU Calendar"/>
+          </Object>
+          <Object>
+            <ItemIsn val="23"/>
+            <PublicName val="DFU Caldef"/>
+          </Object>
+          <Object>
+            <ItemIsn val="24"/>
+            <PublicName val="DFU Confirm Action Def"/>
+          </Object>
+          <Object>
+            <ItemIsn val="25"/>
+            <PublicName val="DFU Confirm Def"/>
+          </Object>
+          <Object>
+            <ItemIsn val="26"/>
+            <PublicName val="DFU General Data"/>
+          </Object>
+          <Object>
+            <ItemIsn val="27"/>
+            <PublicName val="DFU CatDoss Data"/>
+          </Object>
+          <Object>
+            <ItemIsn val="28"/>
+            <PublicName val="DFU CatDoss"/>
+          </Object>
+          <Object>
+            <ItemIsn val="29"/>
+            <PublicName val="DFU Category Data Def"/>
+          </Object>
+          <Object>
+            <ItemIsn val="30"/>
+            <PublicName val="DFU CatDoss Key Def"/>
+          </Object>
+          <Object>
+            <ItemIsn val="31"/>
+            <PublicName val="DFU CatDoss Def"/>
+          </Object>
+          <Object>
+            <ItemIsn val="32"/>
+            <PublicName val="DFU File Links"/>
+          </Object>
+          <Object>
+            <ItemIsn val="33"/>
+            <PublicName val="DFU File Storage"/>
+          </Object>
+          <Object>
+            <ItemIsn val="34"/>
+            <PublicName val="DFU General Numbering"/>
+          </Object>
+          <Object>
+            <ItemIsn val="35"/>
+            <PublicName val="DFU General Code"/>
+          </Object>
+          <Object>
+            <ItemIsn val="36"/>
+            <PublicName val="DFU General Add Def"/>
+          </Object>
+          <Object>
+            <ItemIsn val="37"/>
+            <PublicName val="DFU General Add"/>
+          </Object>
+          <Object>
+            <ItemIsn val="38"/>
+            <PublicName val="DFU Act Msg Def"/>
+          </Object>
+          <Object>
+            <ItemIsn val="39"/>
+            <PublicName val="DFU Opt Pos Def"/>
+          </Object>
+          <Object>
+            <ItemIsn val="40"/>
+            <PublicName val="DFU Opt Def"/>
+          </Object>
+          <Object>
+            <ItemIsn val="41"/>
+            <PublicName val="DFU Data Def"/>
+          </Object>
+          <Object>
+            <ItemIsn val="42"/>
+            <PublicName val="DFU Act Data"/>
+          </Object>
+          <Object>
+            <ItemIsn val="43"/>
+            <PublicName val="DFU Act Header Def"/>
+          </Object>
+          <Object>
+            <ItemIsn val="44"/>
+            <PublicName val="DFU Act Header"/>
+          </Object>
+          <Object>
+            <ItemIsn val="45"/>
+            <PublicName val="DFU Calhdr"/>
+          </Object>
+          <Object>
+            <ItemIsn val="46"/>
+            <PublicName val="DFU Caladet"/>
+          </Object>
+          <Object>
+            <ItemIsn val="47"/>
+            <PublicName val="DFU Calndet"/>
+          </Object>
+          <Object>
+            <ItemIsn val="48"/>
+            <PublicName val="DFU Sec Right"/>
+          </Object>
+          <Object>
+            <ItemIsn val="49"/>
+            <PublicName val="DFU Sec User"/>
+          </Object>
+          <Object>
+            <ItemIsn val="50"/>
+            <PublicName val="DFU Act Alarm"/>
+          </Object>
+          <Object>
+            <ItemIsn val="51"/>
+            <PublicName val="DFU Act Alarm Def"/>
+          </Object>
+          <Object>
+            <ItemIsn val="52"/>
+            <PublicName val="DFU Act Alarm Pos Def"/>
+          </Object>
+          <Object>
+            <ItemIsn val="53"/>
+            <PublicName val="DFU Act Task Def"/>
+          </Object>
+          <Object>
+            <ItemIsn val="54"/>
+            <PublicName val="DFU Act Task Pos Def"/>
+          </Object>
+          <Object>
+            <ItemIsn val="55"/>
+            <PublicName val="DFU Act Class"/>
+          </Object>
+          <Object>
+            <ItemIsn val="56"/>
+            <PublicName val="DFU Act Class Def"/>
+          </Object>
+          <Object>
+            <ItemIsn val="57"/>
+            <PublicName val="DFU Act Class Pos Def"/>
+          </Object>
+          <Object>
+            <ItemIsn val="58"/>
+            <PublicName val="DFU Act Distri"/>
+          </Object>
+          <Object>
+            <ItemIsn val="59"/>
+            <PublicName val="Act Distri Def"/>
+          </Object>
+          <Object>
+            <ItemIsn val="60"/>
+            <PublicName val="Act Header"/>
+          </Object>
+          <Object>
+            <ItemIsn val="61"/>
+            <PublicName val="DFU General Header Def"/>
+          </Object>
+          <Object>
+            <ItemIsn val="62"/>
+            <PublicName val="tab_ok"/>
+          </Object>
+          <Object>
+            <ItemIsn val="63"/>
+            <PublicName val="tab_int"/>
+          </Object>
+          <Object>
+            <ItemIsn val="64"/>
+            <PublicName val="tab_ext"/>
+          </Object>
+          <Object>
+            <ItemIsn val="65"/>
+            <PublicName val="tab_addinfo"/>
+          </Object>
+          <Object>
+            <ItemIsn val="66"/>
+            <PublicName val="tab_cre"/>
+          </Object>
+          <Object>
+            <ItemIsn val="67"/>
+            <PublicName val="tab_addinfo_cre"/>
+          </Object>
+          <Object>
+            <ItemIsn val="68"/>
+            <PublicName val="next_counter"/>
+          </Object>
+          <Object>
+            <ItemIsn val="69"/>
+            <PublicName val="test_numeric"/>
+          </Object>
+          <Object>
+            <ItemIsn val="70"/>
+            <PublicName val="Put_General_Data"/>
+          </Object>
+          <Object>
+            <ItemIsn val="71"/>
+            <PublicName val="Upd_General_Data"/>
+          </Object>
+          <Object>
+            <ItemIsn val="72"/>
+            <PublicName val="Get_General_Data"/>
+          </Object>
+          <Object>
+            <ItemIsn val="73"/>
+            <PublicName val="Put_CatDoss_Data"/>
+          </Object>
+          <Object>
+            <ItemIsn val="74"/>
+            <PublicName val="Get_CatDoss_Data"/>
+          </Object>
+          <Object>
+            <ItemIsn val="75"/>
+            <PublicName val="general_code_general"/>
+          </Object>
+          <Object>
+            <ItemIsn val="76"/>
+            <PublicName val="File_Detail"/>
+          </Object>
+          <Object>
+            <ItemIsn val="77"/>
+            <PublicName val="Get_Highest_Nbr"/>
+          </Object>
+          <Object>
+            <ItemIsn val="78"/>
+            <PublicName val="Set_Highest_Nbr"/>
+          </Object>
+          <Object>
+            <ItemIsn val="79"/>
+            <PublicName val="tab_desc"/>
+          </Object>
+          <Object>
+            <ItemIsn val="80"/>
+            <PublicName val="general_code_select"/>
+          </Object>
+          <Object>
+            <ItemIsn val="81"/>
+            <PublicName val="general_code_select_##yesno"/>
+          </Object>
+          <Object>
+            <ItemIsn val="82"/>
+            <PublicName val="general_code_select_##sysval"/>
+          </Object>
+          <Object>
+            <ItemIsn val="83"/>
+            <PublicName val="general_code_select_##pgmval"/>
+          </Object>
+          <Object>
+            <ItemIsn val="84"/>
+            <PublicName val="general_code_select_##path"/>
+          </Object>
+          <Object>
+            <ItemIsn val="85"/>
+            <PublicName val="general_code_select_lang"/>
+          </Object>
+          <Object>
+            <ItemIsn val="86"/>
+            <PublicName val="general_code_select_dspmsg"/>
+          </Object>
+          <Object>
+            <ItemIsn val="87"/>
+            <PublicName val="general_code_select_dsptxt"/>
+          </Object>
+          <Object>
+            <ItemIsn val="88"/>
+            <PublicName val="general_code_list"/>
+          </Object>
+          <Object>
+            <ItemIsn val="89"/>
+            <PublicName val="general_code_list_##yesno"/>
+          </Object>
+          <Object>
+            <ItemIsn val="90"/>
+            <PublicName val="general_code_list_##sysval"/>
+          </Object>
+          <Object>
+            <ItemIsn val="91"/>
+            <PublicName val="general_code_list_##pgmval"/>
+          </Object>
+          <Object>
+            <ItemIsn val="92"/>
+            <PublicName val="general_code_list_##path"/>
+          </Object>
+          <Object>
+            <ItemIsn val="93"/>
+            <PublicName val="general_code_list_lang"/>
+          </Object>
+          <Object>
+            <ItemIsn val="94"/>
+            <PublicName val="general_code_list_dspmsg"/>
+          </Object>
+          <Object>
+            <ItemIsn val="95"/>
+            <PublicName val="general_code_list_dsptxt"/>
+          </Object>
+          <Object>
+            <ItemIsn val="96"/>
+            <PublicName val="file_for_REL"/>
+          </Object>
+          <Object>
+            <ItemIsn val="97"/>
+            <PublicName val="file_for_INST"/>
+          </Object>
+          <Object>
+            <ItemIsn val="98"/>
+            <PublicName val="file_for_INST"/>
+          </Object>
+        </ComponentPrograms>
+      </Component>
+      <Component id="10" name="Isoa_General_Files">
+        <ComponentType val="Magic xpa"/>
+        <Type val="U"/>
+        <LoadImmediate val="Y"/>
+        <LastISN val="41"/>
+        <CompId val="2091227660-47957-17691-9713C7D51"/>
+        <MciFile val="C:\apl\ISOA\Builders\ECI\Isoa General\Isoa_General_Files.eci"/>
+        <CABINET_FILE val="C:\apl\ISOA\General\IsoaGeneral.ecf"/>
+        <ComponentDataObjects>
+          <Object>
+            <ItemIsn val="1"/>
+            <PublicName val="calendar"/>
+          </Object>
+          <Object>
+            <ItemIsn val="2"/>
+            <PublicName val="caldef"/>
+          </Object>
+          <Object>
+            <ItemIsn val="3"/>
+            <PublicName val="calhdr"/>
+          </Object>
+          <Object>
+            <ItemIsn val="4"/>
+            <PublicName val="caladet"/>
+          </Object>
+          <Object>
+            <ItemIsn val="5"/>
+            <PublicName val="calndet"/>
+          </Object>
+          <Object>
+            <ItemIsn val="6"/>
+            <PublicName val="Sec_Right"/>
+          </Object>
+          <Object>
+            <ItemIsn val="7"/>
+            <PublicName val="Sec_User"/>
+          </Object>
+          <Object>
+            <ItemIsn val="8"/>
+            <PublicName val="Act_Alarm"/>
+          </Object>
+          <Object>
+            <ItemIsn val="9"/>
+            <PublicName val="Act_Alarm_Def"/>
+          </Object>
+          <Object>
+            <ItemIsn val="10"/>
+            <PublicName val="Act_Alarm_Pos_Def"/>
+          </Object>
+          <Object>
+            <ItemIsn val="11"/>
+            <PublicName val="Act_Task_Def"/>
+          </Object>
+          <Object>
+            <ItemIsn val="12"/>
+            <PublicName val="Act_Task_Parm_Pos_Def"/>
+          </Object>
+          <Object>
+            <ItemIsn val="13"/>
+            <PublicName val="Act_Class"/>
+          </Object>
+          <Object>
+            <ItemIsn val="14"/>
+            <PublicName val="Act_Class_Def"/>
+          </Object>
+          <Object>
+            <ItemIsn val="15"/>
+            <PublicName val="Act_Classdta_Pos_Def"/>
+          </Object>
+          <Object>
+            <ItemIsn val="16"/>
+            <PublicName val="Act_Distri"/>
+          </Object>
+          <Object>
+            <ItemIsn val="17"/>
+            <PublicName val="Act_Distri_Def"/>
+          </Object>
+          <Object>
+            <ItemIsn val="18"/>
+            <PublicName val="Act_Header"/>
+          </Object>
+          <Object>
+            <ItemIsn val="19"/>
+            <PublicName val="Act_Header_File"/>
+          </Object>
+          <Object>
+            <ItemIsn val="20"/>
+            <PublicName val="Act_Header_Def"/>
+          </Object>
+          <Object>
+            <ItemIsn val="21"/>
+            <PublicName val="Act_Data"/>
+          </Object>
+          <Object>
+            <ItemIsn val="22"/>
+            <PublicName val="Act_Data_Def"/>
+          </Object>
+          <Object>
+            <ItemIsn val="23"/>
+            <PublicName val="Act_Opt_Def"/>
+          </Object>
+          <Object>
+            <ItemIsn val="24"/>
+            <PublicName val="Act_Opt_Pos_Def"/>
+          </Object>
+          <Object>
+            <ItemIsn val="25"/>
+            <PublicName val="Act_Msg_Def"/>
+          </Object>
+          <Object>
+            <ItemIsn val="26"/>
+            <PublicName val="General_Additional"/>
+          </Object>
+          <Object>
+            <ItemIsn val="27"/>
+            <PublicName val="General_Additional_Def"/>
+          </Object>
+          <Object>
+            <ItemIsn val="28"/>
+            <PublicName val="General_Code"/>
+          </Object>
+          <Object>
+            <ItemIsn val="29"/>
+            <PublicName val="General_Header_Def"/>
+          </Object>
+          <Object>
+            <ItemIsn val="30"/>
+            <PublicName val="General_Numbering"/>
+          </Object>
+          <Object>
+            <ItemIsn val="31"/>
+            <PublicName val="File_Storage"/>
+          </Object>
+          <Object>
+            <ItemIsn val="32"/>
+            <PublicName val="File_Links"/>
+          </Object>
+          <Object>
+            <ItemIsn val="33"/>
+            <PublicName val="Catdoss_Def"/>
+          </Object>
+          <Object>
+            <ItemIsn val="34"/>
+            <PublicName val="CatDoss_Key_Def"/>
+          </Object>
+          <Object>
+            <ItemIsn val="35"/>
+            <PublicName val="CatDoss_Data_Def"/>
+          </Object>
+          <Object>
+            <ItemIsn val="36"/>
+            <PublicName val="CatDoss"/>
+          </Object>
+          <Object>
+            <ItemIsn val="37"/>
+            <PublicName val="CatDoss_Data"/>
+          </Object>
+          <Object>
+            <ItemIsn val="38"/>
+            <PublicName val="General_Data"/>
+          </Object>
+          <Object>
+            <ItemIsn val="39"/>
+            <PublicName val="Confirm_Def"/>
+          </Object>
+          <Object>
+            <ItemIsn val="40"/>
+            <PublicName val="Confirm_Action_Def"/>
+          </Object>
+          <Object>
+            <ItemIsn val="41"/>
+            <PublicName val="test"/>
+          </Object>
+        </ComponentDataObjects>
+      </Component>
+      <Component id="11" name="UserFunctionality">
+        <Description val="Handles the Range, Locate, Sort and Print Data internal events"/>
+        <ComponentType val="Magic xpa"/>
+        <Type val="U"/>
+        <LoadImmediate val="Y"/>
+        <LastISN val="98"/>
+        <Comment val="This component provides an interface for the user to perform Range, Locate, Sort and Print Data.The component does not expose any object. It has logic units for handling the Range, Locate, Sort and Print Data internal events.The source code for this component is available in the Add_On\UserFunctionality directory, so you can customize the screens of the component as you wish."/>
+        <CompId val="738976342-28670-18720-BFE77D42E"/>
+        <MciFile val="C:\XPA\Magic33g\Add_On\UserFunctionality\UserFunctionality.eci"/>
         <CABINET_FILE val="%EngineDir%Add_On\UserFunctionality\UserFunctionality.ecf"/>
       </Component>
     </Components>

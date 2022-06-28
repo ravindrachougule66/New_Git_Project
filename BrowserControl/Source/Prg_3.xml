@@ -13,7 +13,7 @@
   <ProgramsRepository>
     <Programs>
       <Task MainProgram="N">
-        <Header ISEMPTY_TSK="1" ISN_2="1" LastIsn="1" id="3">
+        <Header Description="vidoe" ISN_2="1" LastIsn="1" id="3">
           <ExecutionRight comp="-1"/>
           <Resident val="N"/>
           <SQL val="N"/>
@@ -22,21 +22,33 @@
             <ParametersAttributes/>
           </ReturnValue>
           <SqlWhereExist val="N"/>
-          <TaskType val="O"/>
+          <TaskType val="C"/>
+          <Interactive val="Y"/>
           <External val="N"/>
           <Offline val="N"/>
-          <FormType val="N"/>
+          <FormType val="M"/>
           <DotNetObjectExists val="N"/>
-          <LastModified date="00/00/0000" time="00:00:00"/>
+          <LastModified _date="738322" _time="46038" date="16/06/2022" time="12:47:18"/>
         </Header>
+        <ItemIsn val="1"/>
         <Resource>
-          <Columns/>
+          <Columns>
+            <Column id="1" name="a">
+              <PropertyList model="FIELD">
+                <Model attr_obj="FIELD_ALPHA" id="1"/>
+                <Picture id="157" valUnicode="20"/>
+                <StoredAs id="173" val="1"/>
+                <Size id="174" val="20"/>
+                <_Flip id="194"/>
+              </PropertyList>
+            </Column>
+          </Columns>
         </Resource>
         <Information>
           <Key>
             <Mode val="N"/>
           </Key>
-          <DB/>
+          <DB comp="-1"/>
           <Sort>
             <CLS val="A"/>
           </Sort>
@@ -71,8 +83,8 @@
             <AllowRange val="Y"/>
             <AllowIndexChange val="Y"/>
             <AllowSorting val="Y"/>
-            <AllowIOFiles val="Y"/>
-            <RecordCycle val="Y"/>
+            <AllowIOFiles val="N"/>
+            <TabbingCycle val="R"/>
             <AllowEvents val="Y"/>
             <AllowIndexOptimization val="Y"/>
             <AllowLocationInQuery val="Y"/>
@@ -100,6 +112,7 @@
             <Event>
               <EventType val="S"/>
             </Event>
+            <ExecuteOn_ val="O"/>
             <LogicLines>
               <LogicLine>
                 <DATAVIEW_SRC FlowIsn="1" Type="M">
@@ -108,17 +121,75 @@
                   <Direction val="C"/>
                 </DATAVIEW_SRC>
               </LogicLine>
+              <LogicLine>
+                <Select FieldID="1" FlowIsn="3" id="1">
+                  <Column val="1"/>
+                  <Type val="V"/>
+                  <ExposedToRoute val="N"/>
+                  <IsParameter val="N"/>
+                  <_DitIndexForToolkit val="2"/>
+                  <DIFF_UPDATE val="T"/>
+                  <Condition val="Y"/>
+                  <Modifier val="S"/>
+                  <Direction val="C"/>
+                </Select>
+              </LogicLine>
             </LogicLines>
           </LogicUnit>
         </TaskLogic>
         <TaskForms>
-          <FormEntry id="1">
-            <PropertyList model="FORM_GUI0">
+          <FormEntry _last_isn="3" _last_test_id="3" id="1">
+            <PropertyList model="FORM_RICH_CLIENT">
+              <X id="21" val="114"/>
+              <Y id="22" val="16"/>
               <_Comment id="218"/>
-              <FormName id="311"/>
+              <FormName id="311" valUnicode="vidoe"/>
             </PropertyList>
+            <Control _test_id="3" id="3">
+              <PropertyList model="CTRL_RICH_CLIENT_LABEL">
+                <Text id="19" valUnicode="a"/>
+                <X id="21" val="101"/>
+                <Y id="22" val="16"/>
+                <Width id="23" val="6"/>
+                <Height id="24" val="9"/>
+                <Font id="50" val="1"/>
+                <Style id="63" val="7"/>
+                <_Orientation id="143"/>
+              </PropertyList>
+            </Control>
+            <Control _test_id="2" id="2">
+              <PropertyList model="CTRL_RICH_CLIENT_EDIT">
+                <Model ID="MODEL_RICH_CLIENT" id="1">
+                  <Var FieldID="1"/>
+                </Model>
+                <X id="21" val="111"/>
+                <Y id="22" val="16"/>
+                <Width id="23" val="111"/>
+                <Height id="24" val="12"/>
+                <Data FieldID="1" id="43"/>
+                <ControlName id="46" val="a"/>
+                <TabOrder id="314" val="1"/>
+              </PropertyList>
+            </Control>
+            <Control _test_id="1" id="1">
+              <PropertyList model="CTRL_RICH_CLIENT_BROWSER">
+                <X id="21" val="33"/>
+                <Y id="22" val="55"/>
+                <Width id="23" val="255"/>
+                <Height id="24" val="129"/>
+                <Data Exp="1" id="43"/>
+                <Attribute id="83" val="85"/>
+                <TabOrder id="314" val="2"/>
+              </PropertyList>
+            </Control>
           </FormEntry>
         </TaskForms>
+        <Expressions>
+          <Expression id="1">
+            <ExpSyntax val="Translate('%WorkingDir%1.mp4')"/>
+            <ExpAttribute val="A"/>
+          </Expression>
+        </Expressions>
       </Task>
     </Programs>
   </ProgramsRepository>

@@ -4,7 +4,7 @@
   <Header>
     <Version val="14081.00"/>
     <WithIsn val="Y"/>
-    <LastIsn val="1"/>
+    <LastIsn val="3"/>
   </Header>
 
   <MenusRepository>
@@ -292,6 +292,1952 @@
               </Tool>
             </MenuEntry>
             <MenuEntry id="17">
+              <MenuType val="3"/>
+              <Flags val="1024"/>
+              <Description_U val="&amp;Set to NULL"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Event>
+                <EventType val="I"/>
+                <InternalEventID val="209"/>
+              </Event>
+              <Tool>
+                <ToolNumber val="200"/>
+                <ToolGroup val="999"/>
+              </Tool>
+            </MenuEntry>
+          </Menu>
+        </MenuEntry>
+        <MenuEntry id="3">
+          <MenuType val="1"/>
+          <Description_U val="&amp;Options"/>
+          <Right comp="-1"/>
+          <Help comp="-1"/>
+          <Prompt comp="-1"/>
+          <Menu>
+            <MenuType val="1"/>
+            <LastIsn val="18"/>
+            <MenuEntry id="1">
+              <MenuType val="3"/>
+              <Flags val="1088"/>
+              <Description_U val="&amp;Modify Records"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Event>
+                <EventType val="I"/>
+                <InternalEventID val="30"/>
+              </Event>
+              <Tool>
+                <ToolNumber val="23"/>
+                <ToolGroup val="1"/>
+              </Tool>
+            </MenuEntry>
+            <MenuEntry id="2">
+              <MenuType val="3"/>
+              <Flags val="1088"/>
+              <Description_U val="&amp;Create Records"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Event>
+                <EventType val="I"/>
+                <InternalEventID val="31"/>
+              </Event>
+              <Tool>
+                <ToolNumber val="24"/>
+                <ToolGroup val="1"/>
+              </Tool>
+            </MenuEntry>
+            <MenuEntry id="3">
+              <MenuType val="3"/>
+              <Flags val="1088"/>
+              <Description_U val="&amp;Query Records"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Event>
+                <EventType val="I"/>
+                <InternalEventID val="32"/>
+              </Event>
+              <Tool>
+                <ToolNumber val="25"/>
+                <ToolGroup val="1"/>
+              </Tool>
+            </MenuEntry>
+            <MenuEntry id="4">
+              <MenuType val="5"/>
+            </MenuEntry>
+            <MenuEntry id="5">
+              <MenuType val="3"/>
+              <Flags val="1088"/>
+              <Description_U val="&amp;Locate"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Event>
+                <EventType val="I"/>
+                <InternalEventID val="122"/>
+              </Event>
+              <Tool>
+                <ToolNumber val="26"/>
+                <ToolGroup val="2"/>
+              </Tool>
+            </MenuEntry>
+            <MenuEntry id="6">
+              <MenuType val="3"/>
+              <Flags val="1088"/>
+              <Description_U val="Locate &amp;Next"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Event>
+                <EventType val="I"/>
+                <InternalEventID val="165"/>
+              </Event>
+              <Tool>
+                <ToolNumber val="27"/>
+                <ToolGroup val="2"/>
+              </Tool>
+            </MenuEntry>
+            <MenuEntry id="7">
+              <MenuType val="3"/>
+              <Flags val="1088"/>
+              <Description_U val="&amp;Range of Records"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Event>
+                <EventType val="I"/>
+                <InternalEventID val="123"/>
+              </Event>
+              <Tool>
+                <ToolNumber val="28"/>
+                <ToolGroup val="2"/>
+              </Tool>
+            </MenuEntry>
+            <MenuEntry id="8">
+              <MenuType val="3"/>
+              <Flags val="1088"/>
+              <Description_U val="&amp;View by Key"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Event>
+                <EventType val="I"/>
+                <InternalEventID val="124"/>
+              </Event>
+              <Tool>
+                <ToolNumber val="29"/>
+                <ToolGroup val="2"/>
+              </Tool>
+            </MenuEntry>
+            <MenuEntry id="9">
+              <MenuType val="3"/>
+              <Flags val="1088"/>
+              <Description_U val="Sor&amp;t Records"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Event>
+                <EventType val="I"/>
+                <InternalEventID val="125"/>
+              </Event>
+              <Tool>
+                <ToolNumber val="30"/>
+                <ToolGroup val="2"/>
+              </Tool>
+            </MenuEntry>
+            <MenuEntry id="10">
+              <MenuType val="3"/>
+              <Flags val="1024"/>
+              <Description_U val="&amp;Print Data"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Event>
+                <EventType val="I"/>
+                <InternalEventID val="160"/>
+              </Event>
+              <Tool>
+                <ToolNumber val="193"/>
+                <ToolGroup val="999"/>
+              </Tool>
+            </MenuEntry>
+            <MenuEntry id="11">
+              <MenuType val="5"/>
+            </MenuEntry>
+            <MenuEntry id="12">
+              <MenuType val="3"/>
+              <Flags val="1088"/>
+              <Description_U val="Begin Table"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Event>
+                <EventType val="I"/>
+                <InternalEventID val="72"/>
+              </Event>
+              <Tool>
+                <ToolNumber val="32"/>
+                <ToolGroup val="4"/>
+              </Tool>
+            </MenuEntry>
+            <MenuEntry id="13">
+              <MenuType val="3"/>
+              <Flags val="1088"/>
+              <Description_U val="Previous Screen"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Event>
+                <EventType val="I"/>
+                <InternalEventID val="66"/>
+              </Event>
+              <Tool>
+                <ToolNumber val="34"/>
+                <ToolGroup val="4"/>
+              </Tool>
+            </MenuEntry>
+            <MenuEntry id="14">
+              <MenuType val="3"/>
+              <Flags val="1088"/>
+              <Description_U val="Previous Row"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Event>
+                <EventType val="I"/>
+                <InternalEventID val="64"/>
+              </Event>
+              <Tool>
+                <ToolNumber val="36"/>
+                <ToolGroup val="4"/>
+              </Tool>
+            </MenuEntry>
+            <MenuEntry id="15">
+              <MenuType val="3"/>
+              <Flags val="1088"/>
+              <Description_U val="Next Row"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Event>
+                <EventType val="I"/>
+                <InternalEventID val="65"/>
+              </Event>
+              <Tool>
+                <ToolNumber val="37"/>
+                <ToolGroup val="4"/>
+              </Tool>
+            </MenuEntry>
+            <MenuEntry id="16">
+              <MenuType val="3"/>
+              <Flags val="1088"/>
+              <Description_U val="Next Screen"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Event>
+                <EventType val="I"/>
+                <InternalEventID val="67"/>
+              </Event>
+              <Tool>
+                <ToolNumber val="35"/>
+                <ToolGroup val="4"/>
+              </Tool>
+            </MenuEntry>
+            <MenuEntry id="17">
+              <MenuType val="3"/>
+              <Flags val="1088"/>
+              <Description_U val="End Table"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Event>
+                <EventType val="I"/>
+                <InternalEventID val="73"/>
+              </Event>
+              <Tool>
+                <ToolNumber val="33"/>
+                <ToolGroup val="4"/>
+              </Tool>
+            </MenuEntry>
+          </Menu>
+        </MenuEntry>
+        <MenuEntry id="4">
+          <MenuType val="1"/>
+          <Description_U val="&amp;Window"/>
+          <Right comp="-1"/>
+          <Help comp="-1"/>
+          <Prompt comp="-1"/>
+          <Menu>
+            <MenuType val="1"/>
+            <LastIsn val="7"/>
+            <MenuEntry id="1">
+              <MenuType val="3"/>
+              <Flags val="1024"/>
+              <Description_U val="Close &amp;All"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Event>
+                <EventType val="I"/>
+                <InternalEventID val="370"/>
+              </Event>
+              <Tool>
+                <ToolNumber val="208"/>
+                <ToolGroup val="999"/>
+              </Tool>
+            </MenuEntry>
+            <MenuEntry id="2">
+              <MenuType val="5"/>
+            </MenuEntry>
+            <MenuEntry id="3">
+              <MenuType val="3"/>
+              <Flags val="1024"/>
+              <Description_U val="&amp;Next Window"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Event>
+                <EventType val="I"/>
+                <InternalEventID val="462"/>
+              </Event>
+              <Tool>
+                <ToolNumber val="206"/>
+                <ToolGroup val="999"/>
+              </Tool>
+            </MenuEntry>
+            <MenuEntry id="4">
+              <MenuType val="3"/>
+              <Flags val="1024"/>
+              <Description_U val="&amp;Previous Window"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Event>
+                <EventType val="I"/>
+                <InternalEventID val="463"/>
+              </Event>
+              <Tool>
+                <ToolNumber val="205"/>
+                <ToolGroup val="999"/>
+              </Tool>
+            </MenuEntry>
+            <MenuEntry id="5">
+              <MenuType val="5"/>
+            </MenuEntry>
+            <MenuEntry id="6">
+              <MenuType val="7"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+            </MenuEntry>
+          </Menu>
+        </MenuEntry>
+      </Menu>
+      <Menu>
+        <MenuType val="4"/>
+        <ToolNumber val="2"/>
+        <Name val="Pulldown menu"/>
+        <LastIsn val="20"/>
+        <MenuEntry id="1">
+          <MenuType val="2"/>
+          <Description_U val="Relaties"/>
+          <Right comp="-1"/>
+          <Help comp="-1"/>
+          <Prompt comp="-1"/>
+          <Program ObjIsn="56" comp="-1" obj="56"/>
+          <SourceContext val="67"/>
+        </MenuEntry>
+        <MenuEntry id="2">
+          <MenuType val="1"/>
+          <Description_U val="Relatie Def"/>
+          <Right comp="-1"/>
+          <Help comp="-1"/>
+          <Prompt comp="-1"/>
+          <Menu>
+            <MenuType val="1"/>
+            <LastIsn val="1"/>
+          </Menu>
+        </MenuEntry>
+        <MenuEntry id="3">
+          <MenuType val="2"/>
+          <Description_U val="Artikels"/>
+          <Right comp="-1"/>
+          <Help comp="-1"/>
+          <Prompt comp="-1"/>
+          <Program ObjIsn="77" comp="-1" obj="77"/>
+          <SourceContext val="67"/>
+        </MenuEntry>
+        <MenuEntry id="4">
+          <MenuType val="1"/>
+          <Description_U val="Artikel Def"/>
+          <Right comp="-1"/>
+          <Help comp="-1"/>
+          <Prompt comp="-1"/>
+          <Menu>
+            <MenuType val="1"/>
+            <LastIsn val="2"/>
+            <MenuEntry id="1">
+              <MenuType val="2"/>
+              <Description_U val="Update Prices"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Program ObjIsn="82" comp="-1" obj="82"/>
+              <SourceContext val="67"/>
+            </MenuEntry>
+          </Menu>
+        </MenuEntry>
+        <MenuEntry id="5">
+          <MenuType val="1"/>
+          <Description_U val="Planning ..."/>
+          <Right comp="-1"/>
+          <Help comp="-1"/>
+          <Prompt comp="-1"/>
+          <Menu>
+            <MenuType val="1"/>
+            <LastIsn val="2"/>
+            <MenuEntry id="1">
+              <MenuType val="2"/>
+              <Description_U val="List to Plan"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Program ObjIsn="290" comp="-1" obj="290"/>
+              <SourceContext val="67"/>
+            </MenuEntry>
+          </Menu>
+        </MenuEntry>
+        <MenuEntry id="6">
+          <MenuType val="1"/>
+          <Description_U val="Verkoop ..."/>
+          <Right comp="-1"/>
+          <Help comp="-1"/>
+          <Prompt comp="-1"/>
+          <Menu>
+            <MenuType val="1"/>
+            <LastIsn val="21"/>
+            <MenuEntry id="1">
+              <MenuType val="2"/>
+              <Description_U val="Zoutafhaling"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Program ObjIsn="132" comp="-1" obj="132"/>
+              <SourceContext val="67"/>
+            </MenuEntry>
+            <MenuEntry id="2">
+              <MenuType val="2"/>
+              <Description_U val="Beheer Ritten"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Program ObjIsn="143" comp="-1" obj="143"/>
+              <SourceContext val="67"/>
+            </MenuEntry>
+            <MenuEntry id="3">
+              <MenuType val="5"/>
+            </MenuEntry>
+            <MenuEntry id="4">
+              <MenuType val="1"/>
+              <Description_U val="Offertes"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Menu>
+                <MenuType val="1"/>
+                <LastIsn val="1"/>
+              </Menu>
+            </MenuEntry>
+            <MenuEntry id="5">
+              <MenuType val="2"/>
+              <Description_U val="Bestellingen"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Program ObjIsn="109" comp="-1" obj="109"/>
+              <SourceContext val="67"/>
+            </MenuEntry>
+            <MenuEntry id="6">
+              <MenuType val="2"/>
+              <Description_U val="Leveringen"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Program ObjIsn="111" comp="-1" obj="111"/>
+              <SourceContext val="67"/>
+            </MenuEntry>
+            <MenuEntry id="7">
+              <MenuType val="2"/>
+              <Description_U val="Facturen"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Program ObjIsn="112" comp="-1" obj="112"/>
+              <SourceContext val="67"/>
+            </MenuEntry>
+            <MenuEntry id="8">
+              <MenuType val="2"/>
+              <Description_U val="Creditnota's"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Program ObjIsn="113" comp="-1" obj="113"/>
+              <SourceContext val="67"/>
+            </MenuEntry>
+            <MenuEntry id="9">
+              <MenuType val="2"/>
+              <Description_U val="Rappels"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Program ObjIsn="114" comp="-1" obj="114"/>
+              <SourceContext val="67"/>
+            </MenuEntry>
+            <MenuEntry id="10">
+              <MenuType val="2"/>
+              <Description_U val="Afbetalingsplannen"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Program ObjIsn="115" comp="-1" obj="115"/>
+              <SourceContext val="67"/>
+            </MenuEntry>
+            <MenuEntry id="11">
+              <MenuType val="5"/>
+            </MenuEntry>
+            <MenuEntry id="12">
+              <MenuType val="2"/>
+              <Description_U val="Openstaande Klanten"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Program ObjIsn="123" comp="-1" obj="123"/>
+              <SourceContext val="67"/>
+            </MenuEntry>
+            <MenuEntry id="13">
+              <MenuType val="5"/>
+            </MenuEntry>
+            <MenuEntry id="14">
+              <MenuType val="2"/>
+              <Description_U val="Invoice Runs"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Program ObjIsn="172" comp="-1" obj="172"/>
+              <SourceContext val="67"/>
+            </MenuEntry>
+            <MenuEntry id="15">
+              <MenuType val="5"/>
+            </MenuEntry>
+            <MenuEntry id="16">
+              <MenuType val="2"/>
+              <Description_U val="Rappel Runs"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Program ObjIsn="225" comp="-1" obj="225"/>
+              <SourceContext val="67"/>
+            </MenuEntry>
+            <MenuEntry id="17">
+              <MenuType val="2"/>
+              <Description_U val="Rappel Runs Call Lvl2"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Program ObjIsn="226" comp="-1" obj="226"/>
+              <SourceContext val="67"/>
+            </MenuEntry>
+            <MenuEntry id="18">
+              <MenuType val="2"/>
+              <Description_U val="Rappel Runs Trivion"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Program ObjIsn="227" comp="-1" obj="227"/>
+              <SourceContext val="67"/>
+            </MenuEntry>
+            <MenuEntry id="19">
+              <MenuType val="5"/>
+            </MenuEntry>
+            <MenuEntry id="20">
+              <MenuType val="1"/>
+              <Description_U val="Parameters"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Menu>
+                <MenuType val="1"/>
+                <LastIsn val="4"/>
+                <MenuEntry id="1">
+                  <MenuType val="2"/>
+                  <Description_U val="Sales Standaard Teksten"/>
+                  <Right comp="-1"/>
+                  <Help comp="-1"/>
+                  <Prompt comp="-1"/>
+                  <Program ObjIsn="198" comp="-1" obj="198"/>
+                  <SourceContext val="67"/>
+                </MenuEntry>
+                <MenuEntry id="2">
+                  <MenuType val="2"/>
+                  <Description_U val="Quick OE Wizard Maintenance"/>
+                  <Right comp="-1"/>
+                  <Help comp="-1"/>
+                  <Prompt comp="-1"/>
+                  <Program comp="-1"/>
+                  <SourceContext val="67"/>
+                </MenuEntry>
+                <MenuEntry id="3">
+                  <MenuType val="2"/>
+                  <Description_U val="Quick OE Wizard Link Maintenance"/>
+                  <Right comp="-1"/>
+                  <Help comp="-1"/>
+                  <Prompt comp="-1"/>
+                  <Program comp="-1"/>
+                  <SourceContext val="67"/>
+                </MenuEntry>
+              </Menu>
+            </MenuEntry>
+          </Menu>
+        </MenuEntry>
+        <MenuEntry id="7">
+          <MenuType val="1"/>
+          <Description_U val="Aankoop ..."/>
+          <Right comp="-1"/>
+          <Help comp="-1"/>
+          <Prompt comp="-1"/>
+          <Menu>
+            <MenuType val="1"/>
+            <LastIsn val="8"/>
+            <MenuEntry id="1">
+              <MenuType val="2"/>
+              <Description_U val="Bestellingen"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Program ObjIsn="116" comp="-1" obj="116"/>
+              <SourceContext val="67"/>
+            </MenuEntry>
+            <MenuEntry id="2">
+              <MenuType val="2"/>
+              <Description_U val="Leveringen"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Program ObjIsn="117" comp="-1" obj="117"/>
+              <SourceContext val="67"/>
+            </MenuEntry>
+            <MenuEntry id="3">
+              <MenuType val="2"/>
+              <Description_U val="Facturen"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Program ObjIsn="118" comp="-1" obj="118"/>
+              <SourceContext val="67"/>
+            </MenuEntry>
+            <MenuEntry id="4">
+              <MenuType val="2"/>
+              <Description_U val="Creditnota's"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Program ObjIsn="119" comp="-1" obj="119"/>
+              <SourceContext val="67"/>
+            </MenuEntry>
+            <MenuEntry id="5">
+              <MenuType val="2"/>
+              <Description_U val="Afbetalingsplannen"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Program ObjIsn="120" comp="-1" obj="120"/>
+              <SourceContext val="67"/>
+            </MenuEntry>
+            <MenuEntry id="6">
+              <MenuType val="5"/>
+            </MenuEntry>
+            <MenuEntry id="7">
+              <MenuType val="2"/>
+              <Description_U val="Openstaande Leveranciers"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Program ObjIsn="124" comp="-1" obj="124"/>
+              <SourceContext val="67"/>
+            </MenuEntry>
+          </Menu>
+        </MenuEntry>
+        <MenuEntry id="8">
+          <MenuType val="1"/>
+          <Description_U val="Financieel"/>
+          <Right comp="-1"/>
+          <Help comp="-1"/>
+          <Prompt comp="-1"/>
+          <Menu>
+            <MenuType val="1"/>
+            <LastIsn val="17"/>
+            <MenuEntry id="1">
+              <MenuType val="2"/>
+              <Description_U val="Load Bank"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Program ObjIsn="261" comp="-1" obj="261"/>
+              <SourceContext val="67"/>
+            </MenuEntry>
+            <MenuEntry id="2">
+              <MenuType val="2"/>
+              <Description_U val="Betalingsloten"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Program ObjIsn="279" comp="-1" obj="279"/>
+              <SourceContext val="67"/>
+            </MenuEntry>
+            <MenuEntry id="3">
+              <MenuType val="5"/>
+            </MenuEntry>
+            <MenuEntry id="4">
+              <MenuType val="2"/>
+              <Description_U val="Financiële dagboeken"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Program ObjIsn="239" comp="-1" obj="239"/>
+              <SourceContext val="67"/>
+            </MenuEntry>
+            <MenuEntry id="5">
+              <MenuType val="2"/>
+              <Description_U val="Credit Card dagboeken"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Program ObjIsn="241" comp="-1" obj="241"/>
+              <SourceContext val="67"/>
+            </MenuEntry>
+            <MenuEntry id="6">
+              <MenuType val="2"/>
+              <Description_U val="Diverse dagboeken"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Program ObjIsn="240" comp="-1" obj="240"/>
+              <SourceContext val="67"/>
+            </MenuEntry>
+            <MenuEntry id="7">
+              <MenuType val="2"/>
+              <Description_U val="Verkoop Aankoop dagboeken"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Program ObjIsn="242" comp="-1" obj="242"/>
+              <SourceContext val="67"/>
+            </MenuEntry>
+            <MenuEntry id="8">
+              <MenuType val="5"/>
+            </MenuEntry>
+            <MenuEntry id="9">
+              <MenuType val="2"/>
+              <Description_U val="Balans Algemene Rekeningen"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Program ObjIsn="243" comp="-1" obj="243"/>
+              <SourceContext val="67"/>
+            </MenuEntry>
+            <MenuEntry id="10">
+              <MenuType val="5"/>
+            </MenuEntry>
+            <MenuEntry id="11">
+              <MenuType val="2"/>
+              <Description_U val="499999 List"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Program ObjIsn="245" comp="-1" obj="245"/>
+              <SourceContext val="67"/>
+            </MenuEntry>
+            <MenuEntry id="12">
+              <MenuType val="5"/>
+            </MenuEntry>
+            <MenuEntry id="13">
+              <MenuType val="2"/>
+              <Description_U val="Invoice Monthly totals Sales"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Program ObjIsn="183" comp="-1" obj="183"/>
+              <SourceContext val="67"/>
+            </MenuEntry>
+            <MenuEntry id="14">
+              <MenuType val="2"/>
+              <Description_U val="Invoice Monthly totals Purchase"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Program ObjIsn="184" comp="-1" obj="184"/>
+              <SourceContext val="67"/>
+            </MenuEntry>
+            <MenuEntry id="15">
+              <MenuType val="2"/>
+              <Description_U val="VTW Sales Header"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Program ObjIsn="202" comp="-1" obj="202"/>
+              <SourceContext val="67"/>
+            </MenuEntry>
+            <MenuEntry id="16">
+              <MenuType val="2"/>
+              <Description_U val="VTW Sales Detail"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Program ObjIsn="205" comp="-1" obj="205"/>
+              <SourceContext val="67"/>
+            </MenuEntry>
+          </Menu>
+        </MenuEntry>
+        <MenuEntry id="9">
+          <MenuType val="1"/>
+          <Description_U val="Stock ..."/>
+          <Right comp="-1"/>
+          <Help comp="-1"/>
+          <Prompt comp="-1"/>
+          <Menu>
+            <MenuType val="1"/>
+            <LastIsn val="1"/>
+          </Menu>
+        </MenuEntry>
+        <MenuEntry id="10">
+          <MenuType val="1"/>
+          <Description_U val="Statistieken ..."/>
+          <Right comp="-1"/>
+          <Help comp="-1"/>
+          <Prompt comp="-1"/>
+          <Menu>
+            <MenuType val="1"/>
+            <LastIsn val="1"/>
+          </Menu>
+        </MenuEntry>
+        <MenuEntry id="11">
+          <MenuType val="1"/>
+          <Description_U val="HR"/>
+          <Right comp="-1"/>
+          <Help comp="-1"/>
+          <Prompt comp="-1"/>
+          <Menu>
+            <MenuType val="1"/>
+            <LastIsn val="2"/>
+            <MenuEntry id="1">
+              <MenuType val="2"/>
+              <Description_U val="HR Calendar Prest"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Program ObjIsn="10" comp="-1" obj="10"/>
+              <SourceContext val="67"/>
+            </MenuEntry>
+          </Menu>
+        </MenuEntry>
+        <MenuEntry id="12">
+          <MenuType val="5"/>
+        </MenuEntry>
+        <MenuEntry id="13">
+          <MenuType val="1"/>
+          <Description_U val="Algemeen"/>
+          <Right comp="-1"/>
+          <Help comp="-1"/>
+          <Prompt comp="-1"/>
+          <Menu>
+            <MenuType val="1"/>
+            <LastIsn val="2"/>
+            <MenuEntry id="1">
+              <MenuType val="2"/>
+              <Description_U val="Shedule Monitor"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Program ObjIsn="36" comp="-1" obj="36"/>
+              <SourceContext val="67"/>
+            </MenuEntry>
+          </Menu>
+        </MenuEntry>
+        <MenuEntry id="14">
+          <MenuType val="1"/>
+          <Description_U val="Security ..."/>
+          <Right comp="-1"/>
+          <Help comp="-1"/>
+          <Prompt comp="-1"/>
+          <Menu>
+            <MenuType val="1"/>
+            <LastIsn val="1"/>
+          </Menu>
+        </MenuEntry>
+        <MenuEntry id="15">
+          <MenuType val="1"/>
+          <Description_U val="ICT ..."/>
+          <Right comp="-1"/>
+          <Help comp="-1"/>
+          <Prompt comp="-1"/>
+          <Menu>
+            <MenuType val="1"/>
+            <LastIsn val="6"/>
+            <MenuEntry id="1">
+              <MenuType val="1"/>
+              <Description_U val="DFU Technical"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Menu>
+                <MenuType val="1"/>
+                <LastIsn val="5"/>
+                <MenuEntry id="1">
+                  <MenuType val="1"/>
+                  <Description_U val="Sales Purch"/>
+                  <Right comp="-1"/>
+                  <Help comp="-1"/>
+                  <Prompt comp="-1"/>
+                  <Menu>
+                    <MenuType val="1"/>
+                    <LastIsn val="18"/>
+                    <MenuEntry id="1">
+                      <MenuType val="2"/>
+                      <Description_U val="Browse - BKKP CS Tot"/>
+                      <Right comp="-1"/>
+                      <Help comp="-1"/>
+                      <Prompt comp="-1"/>
+                      <Program comp="-1"/>
+                      <SourceContext val="67"/>
+                    </MenuEntry>
+                    <MenuEntry id="2">
+                      <MenuType val="2"/>
+                      <Description_U val="Browse - Sales_Purch_Hdr"/>
+                      <Right comp="-1"/>
+                      <Help comp="-1"/>
+                      <Prompt comp="-1"/>
+                      <Program comp="-1"/>
+                      <SourceContext val="67"/>
+                    </MenuEntry>
+                    <MenuEntry id="3">
+                      <MenuType val="2"/>
+                      <Description_U val="Browse - Sales_Purch_Hdr_Curr"/>
+                      <Right comp="-1"/>
+                      <Help comp="-1"/>
+                      <Prompt comp="-1"/>
+                      <Program comp="-1"/>
+                      <SourceContext val="67"/>
+                    </MenuEntry>
+                    <MenuEntry id="4">
+                      <MenuType val="2"/>
+                      <Description_U val="Browse - Sales_Purch_VAT"/>
+                      <Right comp="-1"/>
+                      <Help comp="-1"/>
+                      <Prompt comp="-1"/>
+                      <Program comp="-1"/>
+                      <SourceContext val="67"/>
+                    </MenuEntry>
+                    <MenuEntry id="5">
+                      <MenuType val="2"/>
+                      <Description_U val="Browse - Sales_Purch_Ref"/>
+                      <Right comp="-1"/>
+                      <Help comp="-1"/>
+                      <Prompt comp="-1"/>
+                      <Program comp="-1"/>
+                      <SourceContext val="67"/>
+                    </MenuEntry>
+                    <MenuEntry id="6">
+                      <MenuType val="2"/>
+                      <Description_U val="Browse - Sales_Purch_Info"/>
+                      <Right comp="-1"/>
+                      <Help comp="-1"/>
+                      <Prompt comp="-1"/>
+                      <Program comp="-1"/>
+                      <SourceContext val="67"/>
+                    </MenuEntry>
+                    <MenuEntry id="7">
+                      <MenuType val="2"/>
+                      <Description_U val="Browse - Sales_Purch_Det"/>
+                      <Right comp="-1"/>
+                      <Help comp="-1"/>
+                      <Prompt comp="-1"/>
+                      <Program comp="-1"/>
+                      <SourceContext val="67"/>
+                    </MenuEntry>
+                    <MenuEntry id="8">
+                      <MenuType val="2"/>
+                      <Description_U val="Browse - Sales_Purch_Qty_Temp"/>
+                      <Right comp="-1"/>
+                      <Help comp="-1"/>
+                      <Prompt comp="-1"/>
+                      <Program comp="-1"/>
+                      <SourceContext val="67"/>
+                    </MenuEntry>
+                    <MenuEntry id="9">
+                      <MenuType val="2"/>
+                      <Description_U val="Browse - Sales_Purch_Det_Ia"/>
+                      <Right comp="-1"/>
+                      <Help comp="-1"/>
+                      <Prompt comp="-1"/>
+                      <Program comp="-1"/>
+                      <SourceContext val="67"/>
+                    </MenuEntry>
+                    <MenuEntry id="10">
+                      <MenuType val="2"/>
+                      <Description_U val="Browse - Sales_Purch_Det_Da"/>
+                      <Right comp="-1"/>
+                      <Help comp="-1"/>
+                      <Prompt comp="-1"/>
+                      <Program comp="-1"/>
+                      <SourceContext val="67"/>
+                    </MenuEntry>
+                    <MenuEntry id="11">
+                      <MenuType val="2"/>
+                      <Description_U val="Browse - Sales_Purch_Link"/>
+                      <Right comp="-1"/>
+                      <Help comp="-1"/>
+                      <Prompt comp="-1"/>
+                      <Program comp="-1"/>
+                      <SourceContext val="67"/>
+                    </MenuEntry>
+                    <MenuEntry id="12">
+                      <MenuType val="2"/>
+                      <Description_U val="Browse - Sales_Purch_Lock"/>
+                      <Right comp="-1"/>
+                      <Help comp="-1"/>
+                      <Prompt comp="-1"/>
+                      <Program comp="-1"/>
+                      <SourceContext val="67"/>
+                    </MenuEntry>
+                    <MenuEntry id="13">
+                      <MenuType val="2"/>
+                      <Description_U val="Browse - Sales_Purch_Inv_Run"/>
+                      <Right comp="-1"/>
+                      <Help comp="-1"/>
+                      <Prompt comp="-1"/>
+                      <Program comp="-1"/>
+                      <SourceContext val="67"/>
+                    </MenuEntry>
+                    <MenuEntry id="14">
+                      <MenuType val="5"/>
+                    </MenuEntry>
+                    <MenuEntry id="15">
+                      <MenuType val="2"/>
+                      <Description_U val="Browse - OE Wizard"/>
+                      <Right comp="-1"/>
+                      <Help comp="-1"/>
+                      <Prompt comp="-1"/>
+                      <Program comp="-1"/>
+                      <SourceContext val="67"/>
+                    </MenuEntry>
+                    <MenuEntry id="16">
+                      <MenuType val="2"/>
+                      <Description_U val="Browse - OE Wizard IA"/>
+                      <Right comp="-1"/>
+                      <Help comp="-1"/>
+                      <Prompt comp="-1"/>
+                      <Program comp="-1"/>
+                      <SourceContext val="67"/>
+                    </MenuEntry>
+                    <MenuEntry id="17">
+                      <MenuType val="2"/>
+                      <Description_U val="Browse - OE Wizard DA"/>
+                      <Right comp="-1"/>
+                      <Help comp="-1"/>
+                      <Prompt comp="-1"/>
+                      <Program comp="-1"/>
+                      <SourceContext val="67"/>
+                    </MenuEntry>
+                  </Menu>
+                </MenuEntry>
+                <MenuEntry id="2">
+                  <MenuType val="1"/>
+                  <Description_U val="Finance"/>
+                  <Right comp="-1"/>
+                  <Help comp="-1"/>
+                  <Prompt comp="-1"/>
+                  <Menu>
+                    <MenuType val="1"/>
+                    <LastIsn val="12"/>
+                    <MenuEntry id="1">
+                      <MenuType val="2"/>
+                      <Description_U val="Browse - BKKP Fin Run"/>
+                      <Right comp="-1"/>
+                      <Help comp="-1"/>
+                      <Prompt comp="-1"/>
+                      <Program comp="-1"/>
+                      <SourceContext val="67"/>
+                    </MenuEntry>
+                    <MenuEntry id="2">
+                      <MenuType val="2"/>
+                      <Description_U val="Browse - BKKP Fin"/>
+                      <Right comp="-1"/>
+                      <Help comp="-1"/>
+                      <Prompt comp="-1"/>
+                      <Program comp="-1"/>
+                      <SourceContext val="67"/>
+                    </MenuEntry>
+                    <MenuEntry id="3">
+                      <MenuType val="2"/>
+                      <Description_U val="Browse - BKKP Tot"/>
+                      <Right comp="-1"/>
+                      <Help comp="-1"/>
+                      <Prompt comp="-1"/>
+                      <Program comp="-1"/>
+                      <SourceContext val="67"/>
+                    </MenuEntry>
+                    <MenuEntry id="4">
+                      <MenuType val="2"/>
+                      <Description_U val="Browse - BKKP Hdr"/>
+                      <Right comp="-1"/>
+                      <Help comp="-1"/>
+                      <Prompt comp="-1"/>
+                      <Program comp="-1"/>
+                      <SourceContext val="67"/>
+                    </MenuEntry>
+                    <MenuEntry id="5">
+                      <MenuType val="2"/>
+                      <Description_U val="Browse - BKKP Det"/>
+                      <Right comp="-1"/>
+                      <Help comp="-1"/>
+                      <Prompt comp="-1"/>
+                      <Program comp="-1"/>
+                      <SourceContext val="67"/>
+                    </MenuEntry>
+                    <MenuEntry id="6">
+                      <MenuType val="2"/>
+                      <Description_U val="Browse - BKKP AFC Link"/>
+                      <Right comp="-1"/>
+                      <Help comp="-1"/>
+                      <Prompt comp="-1"/>
+                      <Program comp="-1"/>
+                      <SourceContext val="67"/>
+                    </MenuEntry>
+                    <MenuEntry id="7">
+                      <MenuType val="2"/>
+                      <Description_U val="Browse - BKKP Hdr Prepare"/>
+                      <Right comp="-1"/>
+                      <Help comp="-1"/>
+                      <Prompt comp="-1"/>
+                      <Program comp="-1"/>
+                      <SourceContext val="67"/>
+                    </MenuEntry>
+                    <MenuEntry id="8">
+                      <MenuType val="2"/>
+                      <Description_U val="Browse - BKKP Det Prepare"/>
+                      <Right comp="-1"/>
+                      <Help comp="-1"/>
+                      <Prompt comp="-1"/>
+                      <Program comp="-1"/>
+                      <SourceContext val="67"/>
+                    </MenuEntry>
+                    <MenuEntry id="9">
+                      <MenuType val="2"/>
+                      <Description_U val="Browse - BKKP AFC Link Prepare"/>
+                      <Right comp="-1"/>
+                      <Help comp="-1"/>
+                      <Prompt comp="-1"/>
+                      <Program comp="-1"/>
+                      <SourceContext val="67"/>
+                    </MenuEntry>
+                    <MenuEntry id="10">
+                      <MenuType val="5"/>
+                    </MenuEntry>
+                    <MenuEntry id="11">
+                      <MenuType val="2"/>
+                      <Description_U val="Browse - BKKP Accounts"/>
+                      <Right comp="-1"/>
+                      <Help comp="-1"/>
+                      <Prompt comp="-1"/>
+                      <Program comp="-1"/>
+                      <SourceContext val="67"/>
+                    </MenuEntry>
+                  </Menu>
+                </MenuEntry>
+                <MenuEntry id="3">
+                  <MenuType val="1"/>
+                  <Description_U val="Operational"/>
+                  <Right comp="-1"/>
+                  <Help comp="-1"/>
+                  <Prompt comp="-1"/>
+                  <Menu>
+                    <MenuType val="1"/>
+                    <LastIsn val="4"/>
+                    <MenuEntry id="1">
+                      <MenuType val="2"/>
+                      <Description_U val="Browse - Planning"/>
+                      <Right comp="-1"/>
+                      <Help comp="-1"/>
+                      <Prompt comp="-1"/>
+                      <Program comp="-1"/>
+                      <SourceContext val="67"/>
+                    </MenuEntry>
+                    <MenuEntry id="2">
+                      <MenuType val="2"/>
+                      <Description_U val="Browse - Exec"/>
+                      <Right comp="-1"/>
+                      <Help comp="-1"/>
+                      <Prompt comp="-1"/>
+                      <Program comp="-1"/>
+                      <SourceContext val="67"/>
+                    </MenuEntry>
+                    <MenuEntry id="3">
+                      <MenuType val="2"/>
+                      <Description_U val="Browse - Prep Planning"/>
+                      <Right comp="-1"/>
+                      <Help comp="-1"/>
+                      <Prompt comp="-1"/>
+                      <Program comp="-1"/>
+                      <SourceContext val="67"/>
+                    </MenuEntry>
+                  </Menu>
+                </MenuEntry>
+                <MenuEntry id="4">
+                  <MenuType val="1"/>
+                  <Description_U val="General"/>
+                  <Right comp="-1"/>
+                  <Help comp="-1"/>
+                  <Prompt comp="-1"/>
+                  <Menu>
+                    <MenuType val="1"/>
+                    <LastIsn val="4"/>
+                    <MenuEntry id="1">
+                      <MenuType val="2"/>
+                      <Description_U val="Browse - General Code"/>
+                      <Right comp="-1"/>
+                      <Help comp="-1"/>
+                      <Prompt comp="-1"/>
+                      <Program comp="-1"/>
+                      <SourceContext val="67"/>
+                    </MenuEntry>
+                    <MenuEntry id="2">
+                      <MenuType val="2"/>
+                      <Description_U val="Browse - General Additional"/>
+                      <Right comp="-1"/>
+                      <Help comp="-1"/>
+                      <Prompt comp="-1"/>
+                      <Program comp="-1"/>
+                      <SourceContext val="67"/>
+                    </MenuEntry>
+                    <MenuEntry id="3">
+                      <MenuType val="2"/>
+                      <Description_U val="Browse - General Additional Def"/>
+                      <Right comp="-1"/>
+                      <Help comp="-1"/>
+                      <Prompt comp="-1"/>
+                      <Program comp="-1"/>
+                      <SourceContext val="67"/>
+                    </MenuEntry>
+                  </Menu>
+                </MenuEntry>
+              </Menu>
+            </MenuEntry>
+            <MenuEntry id="2">
+              <MenuType val="5"/>
+            </MenuEntry>
+            <MenuEntry id="3">
+              <MenuType val="1"/>
+              <Description_U val="System Checks"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Menu>
+                <MenuType val="1"/>
+                <LastIsn val="6"/>
+                <MenuEntry id="1">
+                  <MenuType val="2"/>
+                  <Description_U val="CS Open vs Open Lines"/>
+                  <Right comp="-1"/>
+                  <Help comp="-1"/>
+                  <Prompt comp="-1"/>
+                  <Program comp="-1"/>
+                  <SourceContext val="67"/>
+                </MenuEntry>
+                <MenuEntry id="2">
+                  <MenuType val="2"/>
+                  <Description_U val="Open Lines vs CS Open"/>
+                  <Right comp="-1"/>
+                  <Help comp="-1"/>
+                  <Prompt comp="-1"/>
+                  <Program comp="-1"/>
+                  <SourceContext val="67"/>
+                </MenuEntry>
+                <MenuEntry id="3">
+                  <MenuType val="2"/>
+                  <Description_U val="Check existance of 0 bkkp"/>
+                  <Right comp="-1"/>
+                  <Help comp="-1"/>
+                  <Prompt comp="-1"/>
+                  <Program ObjIsn="16" comp="-1" obj="16"/>
+                  <SourceContext val="67"/>
+                </MenuEntry>
+                <MenuEntry id="4">
+                  <MenuType val="2"/>
+                  <Description_U val="Check existance of 5000 bkkp"/>
+                  <Right comp="-1"/>
+                  <Help comp="-1"/>
+                  <Prompt comp="-1"/>
+                  <Program ObjIsn="17" comp="-1" obj="17"/>
+                  <SourceContext val="67"/>
+                </MenuEntry>
+                <MenuEntry id="5">
+                  <MenuType val="2"/>
+                  <Description_U val="Check existance of no &lt;5000 bkkp"/>
+                  <Right comp="-1"/>
+                  <Help comp="-1"/>
+                  <Prompt comp="-1"/>
+                  <Program ObjIsn="18" comp="-1" obj="18"/>
+                  <SourceContext val="67"/>
+                </MenuEntry>
+              </Menu>
+            </MenuEntry>
+            <MenuEntry id="4">
+              <MenuType val="5"/>
+            </MenuEntry>
+            <MenuEntry id="5">
+              <MenuType val="1"/>
+              <Description_U val="Toolbar Entries"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Menu>
+                <MenuType val="1"/>
+                <LastIsn val="15"/>
+                <MenuEntry id="1">
+                  <MenuType val="2"/>
+                  <Name val="Mail"/>
+                  <Flags val="1120"/>
+                  <Description_U val="Mail"/>
+                  <Right comp="-1"/>
+                  <Help comp="-1"/>
+                  <Prompt comp="-1"/>
+                  <Program ObjIsn="94" comp="-1" obj="94"/>
+                  <SourceContext val="67"/>
+                  <AccessKeyID val="302"/>
+                  <Tool>
+                    <Icon val="C:\apl\ISOA\images\Mail-Norm.ico"/>
+                    <ToolGroup val="3"/>
+                  </Tool>
+                </MenuEntry>
+                <MenuEntry id="2">
+                  <MenuType val="2"/>
+                  <Name val="To Do Mail"/>
+                  <Flags val="1120"/>
+                  <Description_U val="To Do Mail"/>
+                  <Right comp="-1"/>
+                  <Help comp="-1"/>
+                  <Prompt comp="-1"/>
+                  <Program ObjIsn="94" comp="-1" obj="94"/>
+                  <SourceContext val="67"/>
+                  <AccessKeyID val="302"/>
+                  <Tool>
+                    <Icon val="C:\apl\ISOA\images\Mail-Yellow.ico"/>
+                    <ToolGroup val="3"/>
+                  </Tool>
+                </MenuEntry>
+                <MenuEntry id="3">
+                  <MenuType val="2"/>
+                  <Name val="New Mail"/>
+                  <Flags val="1120"/>
+                  <Description_U val="New Mail"/>
+                  <Right comp="-1"/>
+                  <Help comp="-1"/>
+                  <Prompt comp="-1"/>
+                  <Program ObjIsn="94" comp="-1" obj="94"/>
+                  <SourceContext val="67"/>
+                  <AccessKeyID val="302"/>
+                  <Tool>
+                    <Icon val="C:\apl\ISOA\images\Mail-Red.ico"/>
+                    <ToolGroup val="3"/>
+                  </Tool>
+                </MenuEntry>
+                <MenuEntry id="4">
+                  <MenuType val="5"/>
+                </MenuEntry>
+                <MenuEntry id="5">
+                  <MenuType val="3"/>
+                  <Flags val="1088"/>
+                  <Description_U val="Begin Table"/>
+                  <Right comp="-1"/>
+                  <Help comp="-1"/>
+                  <Prompt comp="-1"/>
+                  <Event>
+                    <EventType val="I"/>
+                    <InternalEventID val="72"/>
+                  </Event>
+                  <Tool>
+                    <ToolNumber val="32"/>
+                    <ToolGroup val="4"/>
+                  </Tool>
+                </MenuEntry>
+                <MenuEntry id="6">
+                  <MenuType val="3"/>
+                  <Flags val="1088"/>
+                  <Description_U val="Previous Screen"/>
+                  <Right comp="-1"/>
+                  <Help comp="-1"/>
+                  <Prompt comp="-1"/>
+                  <Event>
+                    <EventType val="I"/>
+                    <InternalEventID val="66"/>
+                  </Event>
+                  <Tool>
+                    <ToolNumber val="34"/>
+                    <ToolGroup val="4"/>
+                  </Tool>
+                </MenuEntry>
+                <MenuEntry id="7">
+                  <MenuType val="3"/>
+                  <Flags val="1088"/>
+                  <Description_U val="Previous Row"/>
+                  <Right comp="-1"/>
+                  <Help comp="-1"/>
+                  <Prompt comp="-1"/>
+                  <Event>
+                    <EventType val="I"/>
+                    <InternalEventID val="64"/>
+                  </Event>
+                  <Tool>
+                    <ToolNumber val="36"/>
+                    <ToolGroup val="4"/>
+                  </Tool>
+                </MenuEntry>
+                <MenuEntry id="8">
+                  <MenuType val="3"/>
+                  <Flags val="1088"/>
+                  <Description_U val="Next Row"/>
+                  <Right comp="-1"/>
+                  <Help comp="-1"/>
+                  <Prompt comp="-1"/>
+                  <Event>
+                    <EventType val="I"/>
+                    <InternalEventID val="65"/>
+                  </Event>
+                  <Tool>
+                    <ToolNumber val="37"/>
+                    <ToolGroup val="4"/>
+                  </Tool>
+                </MenuEntry>
+                <MenuEntry id="9">
+                  <MenuType val="3"/>
+                  <Flags val="1088"/>
+                  <Description_U val="Next Screen"/>
+                  <Right comp="-1"/>
+                  <Help comp="-1"/>
+                  <Prompt comp="-1"/>
+                  <Event>
+                    <EventType val="I"/>
+                    <InternalEventID val="67"/>
+                  </Event>
+                  <Tool>
+                    <ToolNumber val="35"/>
+                    <ToolGroup val="4"/>
+                  </Tool>
+                </MenuEntry>
+                <MenuEntry id="10">
+                  <MenuType val="3"/>
+                  <Flags val="1088"/>
+                  <Description_U val="End Table"/>
+                  <Right comp="-1"/>
+                  <Help comp="-1"/>
+                  <Prompt comp="-1"/>
+                  <Event>
+                    <EventType val="I"/>
+                    <InternalEventID val="73"/>
+                  </Event>
+                  <Tool>
+                    <ToolNumber val="33"/>
+                    <ToolGroup val="4"/>
+                  </Tool>
+                </MenuEntry>
+                <MenuEntry id="11">
+                  <MenuType val="5"/>
+                </MenuEntry>
+                <MenuEntry id="12">
+                  <MenuType val="2"/>
+                  <Name val="Sheduler Monitor"/>
+                  <Flags val="1120"/>
+                  <Description_U val="Sheduler Monitor"/>
+                  <Right comp="-1"/>
+                  <Help comp="-1"/>
+                  <Prompt comp="-1"/>
+                  <Program ObjIsn="36" comp="-1" obj="36"/>
+                  <SourceContext val="67"/>
+                  <Tool>
+                    <Icon val="C:\apl\ISOA\images\ok.ico"/>
+                    <ToolGroup val="5"/>
+                  </Tool>
+                </MenuEntry>
+                <MenuEntry id="13">
+                  <MenuType val="2"/>
+                  <Name val="Sheduler Busy"/>
+                  <Flags val="1120"/>
+                  <Description_U val="Sheduler Busy"/>
+                  <Right comp="-1"/>
+                  <Help comp="-1"/>
+                  <Prompt comp="-1"/>
+                  <Program ObjIsn="36" comp="-1" obj="36"/>
+                  <SourceContext val="67"/>
+                  <Tool>
+                    <Icon val="C:\apl\ISOA\images\Application.ico"/>
+                    <ToolGroup val="5"/>
+                  </Tool>
+                </MenuEntry>
+                <MenuEntry id="14">
+                  <MenuType val="2"/>
+                  <Name val="Sheduler in Error"/>
+                  <Flags val="1120"/>
+                  <Description_U val="Sheduler in Error"/>
+                  <Right comp="-1"/>
+                  <Help comp="-1"/>
+                  <Prompt comp="-1"/>
+                  <Program ObjIsn="36" comp="-1" obj="36"/>
+                  <SourceContext val="67"/>
+                  <Tool>
+                    <Icon val="C:\apl\ISOA\images\Alert.ico"/>
+                    <ToolGroup val="5"/>
+                  </Tool>
+                </MenuEntry>
+              </Menu>
+            </MenuEntry>
+          </Menu>
+        </MenuEntry>
+        <MenuEntry id="16">
+          <MenuType val="1"/>
+          <Description_U val="DFU Technical ..."/>
+          <Right comp="-1"/>
+          <Help comp="-1"/>
+          <Prompt comp="-1"/>
+          <Menu>
+            <MenuType val="1"/>
+            <LastIsn val="2"/>
+            <MenuEntry id="1">
+              <MenuType val="2"/>
+              <Description_U val="DFU-OE Wizard"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Program comp="-1"/>
+              <SourceContext val="67"/>
+            </MenuEntry>
+          </Menu>
+        </MenuEntry>
+        <MenuEntry id="17">
+          <MenuType val="1"/>
+          <Description_U val="Load/Import ..."/>
+          <Right comp="-1"/>
+          <Help comp="-1"/>
+          <Prompt comp="-1"/>
+          <Menu>
+            <MenuType val="1"/>
+            <LastIsn val="8"/>
+            <MenuEntry id="1">
+              <MenuType val="2"/>
+              <Description_U val="Reset Maintenance code"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Program ObjIsn="292" comp="-1" obj="292"/>
+              <SourceContext val="67"/>
+            </MenuEntry>
+            <MenuEntry id="2">
+              <MenuType val="5"/>
+            </MenuEntry>
+            <MenuEntry id="3">
+              <MenuType val="2"/>
+              <Description_U val="View actions mail out"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Program ObjIsn="293" comp="-1" obj="293"/>
+              <SourceContext val="67"/>
+            </MenuEntry>
+            <MenuEntry id="4">
+              <MenuType val="2"/>
+              <Description_U val="Browse - Error Log"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Program ObjIsn="294" comp="-1" obj="294"/>
+              <SourceContext val="67"/>
+            </MenuEntry>
+            <MenuEntry id="5">
+              <MenuType val="5"/>
+            </MenuEntry>
+            <MenuEntry id="6">
+              <MenuType val="2"/>
+              <Description_U val="Prepare Planning"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Program ObjIsn="287" comp="-1" obj="287"/>
+              <SourceContext val="67"/>
+            </MenuEntry>
+            <MenuEntry id="7">
+              <MenuType val="2"/>
+              <Description_U val="Statistic Catalog Articles"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Program ObjIsn="422" comp="-1" obj="422"/>
+              <SourceContext val="67"/>
+            </MenuEntry>
+          </Menu>
+        </MenuEntry>
+        <MenuEntry id="18">
+          <MenuType val="1"/>
+          <Description_U val="Temporary"/>
+          <Right comp="-1"/>
+          <Help comp="-1"/>
+          <Prompt comp="-1"/>
+          <Menu>
+            <MenuType val="1"/>
+            <LastIsn val="9"/>
+            <MenuEntry id="1">
+              <MenuType val="2"/>
+              <Description_U val="Handle Diff addresses"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Program ObjIsn="755" comp="-1" obj="755"/>
+              <SourceContext val="67"/>
+            </MenuEntry>
+            <MenuEntry id="2">
+              <MenuType val="2"/>
+              <Description_U val="Check Installs on Multi Addr"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Program ObjIsn="758" comp="-1" obj="758"/>
+              <SourceContext val="67"/>
+            </MenuEntry>
+            <MenuEntry id="3">
+              <MenuType val="5"/>
+            </MenuEntry>
+            <MenuEntry id="4">
+              <MenuType val="2"/>
+              <Description_U val="Browse -  Total Year pro customer"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Program comp="-1"/>
+              <SourceContext val="67"/>
+            </MenuEntry>
+            <MenuEntry id="5">
+              <MenuType val="5"/>
+            </MenuEntry>
+            <MenuEntry id="6">
+              <MenuType val="2"/>
+              <Description_U val="Reset Dates on BKKP Det"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Program ObjIsn="332" comp="-1" obj="332"/>
+              <SourceContext val="67"/>
+            </MenuEntry>
+            <MenuEntry id="7">
+              <MenuType val="5"/>
+            </MenuEntry>
+            <MenuEntry id="8">
+              <MenuType val="2"/>
+              <Description_U val="Totalize All Bookings Only JP"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Program ObjIsn="30" comp="-1" obj="30"/>
+              <SourceContext val="67"/>
+            </MenuEntry>
+          </Menu>
+        </MenuEntry>
+        <MenuEntry id="19">
+          <MenuType val="3"/>
+          <Description_U val="Exit (Alt F4)"/>
+          <Right comp="-1"/>
+          <Help comp="-1"/>
+          <Prompt comp="-1"/>
+          <Event>
+            <EventType val="I"/>
+            <InternalEventID val="28"/>
+          </Event>
+        </MenuEntry>
+      </Menu>
+      <Menu>
+        <MenuType val="4"/>
+        <ToolNumber val="3"/>
+        <Name val="Default Pulldown menu"/>
+        <LastIsn val="5"/>
+        <MenuEntry id="1">
+          <MenuType val="1"/>
+          <Description_U val="&amp;File"/>
+          <Right comp="-1"/>
+          <Help comp="-1"/>
+          <Prompt comp="-1"/>
+          <Menu>
+            <MenuType val="1"/>
+            <LastIsn val="7"/>
+            <MenuEntry id="1">
+              <MenuType val="3"/>
+              <Flags val="1088"/>
+              <Description_U val="&amp;Open Application"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Event>
+                <EventType val="I"/>
+                <InternalEventID val="23"/>
+              </Event>
+              <Tool>
+                <ToolNumber val="1"/>
+              </Tool>
+            </MenuEntry>
+            <MenuEntry id="2">
+              <MenuType val="3"/>
+              <Flags val="1088"/>
+              <Description_U val="&amp;Close Application"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Event>
+                <EventType val="I"/>
+                <InternalEventID val="24"/>
+              </Event>
+              <Tool>
+                <ToolNumber val="21"/>
+              </Tool>
+            </MenuEntry>
+            <MenuEntry id="3">
+              <MenuType val="5"/>
+            </MenuEntry>
+            <MenuEntry id="4">
+              <MenuType val="3"/>
+              <Flags val="1024"/>
+              <Description_U val="Printer &amp;Setup"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Event>
+                <EventType val="I"/>
+                <InternalEventID val="162"/>
+              </Event>
+              <Tool>
+                <ToolNumber val="153"/>
+                <ToolGroup val="999"/>
+              </Tool>
+            </MenuEntry>
+            <MenuEntry id="5">
+              <MenuType val="5"/>
+            </MenuEntry>
+            <MenuEntry id="6">
+              <MenuType val="3"/>
+              <Description_U val="E&amp;xit"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Event>
+                <EventType val="I"/>
+                <InternalEventID val="28"/>
+              </Event>
+            </MenuEntry>
+          </Menu>
+        </MenuEntry>
+        <MenuEntry id="2">
+          <MenuType val="1"/>
+          <Description_U val="&amp;Edit"/>
+          <Right comp="-1"/>
+          <Help comp="-1"/>
+          <Prompt comp="-1"/>
+          <Menu>
+            <MenuType val="1"/>
+            <LastIsn val="17"/>
+            <MenuEntry id="1">
+              <MenuType val="3"/>
+              <Description_U val="C&amp;ancel"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Event>
+                <EventType val="I"/>
+                <InternalEventID val="33"/>
+              </Event>
+            </MenuEntry>
+            <MenuEntry id="2">
+              <MenuType val="3"/>
+              <Flags val="1024"/>
+              <Description_U val="&amp;Undo Editing"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Event>
+                <EventType val="I"/>
+                <InternalEventID val="180"/>
+              </Event>
+              <Tool>
+                <ToolNumber val="115"/>
+                <ToolGroup val="999"/>
+              </Tool>
+            </MenuEntry>
+            <MenuEntry id="3">
+              <MenuType val="5"/>
+            </MenuEntry>
+            <MenuEntry id="4">
+              <MenuType val="3"/>
+              <Flags val="1024"/>
+              <Description_U val="Cu&amp;t"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Event>
+                <EventType val="I"/>
+                <InternalEventID val="11"/>
+              </Event>
+              <Tool>
+                <ToolNumber val="78"/>
+                <ToolGroup val="999"/>
+              </Tool>
+            </MenuEntry>
+            <MenuEntry id="5">
+              <MenuType val="3"/>
+              <Flags val="1024"/>
+              <Description_U val="&amp;Copy"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Event>
+                <EventType val="I"/>
+                <InternalEventID val="239"/>
+              </Event>
+              <Tool>
+                <ToolNumber val="79"/>
+                <ToolGroup val="999"/>
+              </Tool>
+            </MenuEntry>
+            <MenuEntry id="6">
+              <MenuType val="3"/>
+              <Flags val="1024"/>
+              <Description_U val="&amp;Paste"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Event>
+                <EventType val="I"/>
+                <InternalEventID val="240"/>
+              </Event>
+              <Tool>
+                <ToolNumber val="80"/>
+                <ToolGroup val="999"/>
+              </Tool>
+            </MenuEntry>
+            <MenuEntry id="7">
+              <MenuType val="5"/>
+            </MenuEntry>
+            <MenuEntry id="8">
+              <MenuType val="3"/>
+              <Flags val="1024"/>
+              <Description_U val="C&amp;reate Line"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Event>
+                <EventType val="I"/>
+                <InternalEventID val="37"/>
+              </Event>
+              <Tool>
+                <ToolNumber val="195"/>
+                <ToolGroup val="999"/>
+              </Tool>
+            </MenuEntry>
+            <MenuEntry id="9">
+              <MenuType val="3"/>
+              <Flags val="1024"/>
+              <Description_U val="&amp;Delete Line"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Event>
+                <EventType val="I"/>
+                <InternalEventID val="36"/>
+              </Event>
+              <Tool>
+                <ToolNumber val="196"/>
+                <ToolGroup val="999"/>
+              </Tool>
+            </MenuEntry>
+            <MenuEntry id="10">
+              <MenuType val="3"/>
+              <Flags val="1024"/>
+              <Description_U val="S&amp;elect All"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Event>
+                <EventType val="I"/>
+                <InternalEventID val="286"/>
+              </Event>
+              <Tool>
+                <ToolNumber val="194"/>
+                <ToolGroup val="999"/>
+              </Tool>
+            </MenuEntry>
+            <MenuEntry id="11">
+              <MenuType val="5"/>
+            </MenuEntry>
+            <MenuEntry id="12">
+              <MenuType val="3"/>
+              <Flags val="1024"/>
+              <Description_U val="&amp;Zoom"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Event>
+                <EventType val="I"/>
+                <InternalEventID val="34"/>
+              </Event>
+              <Tool>
+                <ToolNumber val="199"/>
+                <ToolGroup val="999"/>
+              </Tool>
+            </MenuEntry>
+            <MenuEntry id="13">
+              <MenuType val="3"/>
+              <Flags val="1024"/>
+              <Description_U val="&amp;Wide"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Event>
+                <EventType val="I"/>
+                <InternalEventID val="35"/>
+              </Event>
+              <Tool>
+                <ToolNumber val="198"/>
+                <ToolGroup val="999"/>
+              </Tool>
+            </MenuEntry>
+            <MenuEntry id="14">
+              <MenuType val="5"/>
+            </MenuEntry>
+            <MenuEntry id="15">
+              <MenuType val="3"/>
+              <Flags val="1024"/>
+              <Description_U val="D&amp;itto"/>
+              <Right comp="-1"/>
+              <Help comp="-1"/>
+              <Prompt comp="-1"/>
+              <Event>
+                <EventType val="I"/>
+                <InternalEventID val="77"/>
+              </Event>
+              <Tool>
+                <ToolNumber val="197"/>
+                <ToolGroup val="999"/>
+              </Tool>
+            </MenuEntry>
+            <MenuEntry id="16">
               <MenuType val="3"/>
               <Flags val="1024"/>
               <Description_U val="&amp;Set to NULL"/>

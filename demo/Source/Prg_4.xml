@@ -27,7 +27,7 @@
           <Offline val="N"/>
           <FormType val="N"/>
           <DotNetObjectExists val="N"/>
-          <LastModified _date="738271" _time="56314" date="26/04/2022" time="15:38:34"/>
+          <LastModified _date="738320" _time="61187" date="14/06/2022" time="16:59:47"/>
         </Header>
         <ItemIsn val="3"/>
         <Resource>
@@ -563,7 +563,7 @@
           </Expression>
         </Expressions>
         <Task MainProgram="N">
-          <Header Description="WK??" ISN_2="2" LastIsn="6" id="4">
+          <Header Description="WK??" ISN_2="2" LastIsn="2" id="4">
             <ExecutionRight comp="-1"/>
             <Resident val="N"/>
             <SQL val="N"/>
@@ -680,7 +680,7 @@
           </TaskForms>
         </Task>
         <Task MainProgram="N">
-          <Header Description="??WK??" ISN_2="3" LastIsn="6" id="4">
+          <Header Description="??WK??" ISN_2="3" LastIsn="3" id="4">
             <ExecutionRight comp="-1"/>
             <Resident val="N"/>
             <SQL val="N"/>
@@ -797,7 +797,7 @@
           </TaskForms>
         </Task>
         <Task MainProgram="N">
-          <Header Description="WK??(???)" ISN_2="4" LastIsn="6" id="4">
+          <Header Description="WK??(???)" ISN_2="4" LastIsn="4" id="4">
             <ExecutionRight comp="-1"/>
             <Resident val="N"/>
             <SQL val="N"/>
@@ -1076,7 +1076,7 @@
             <External val="N"/>
             <FormType val="N"/>
             <DotNetObjectExists val="N"/>
-            <LastModified _date="738271" _time="36841" date="26/04/2022" time="10:14:01"/>
+            <LastModified _date="738320" _time="61187" date="14/06/2022" time="16:59:47"/>
           </Header>
           <ItemIsn val="6"/>
           <Resource>
@@ -1262,50 +1262,6 @@
                   </Remark>
                 </LogicLine>
               </LogicLines>
-            </LogicUnit>
-            <LogicUnit id="3" propagate="78">
-              <Level val="T"/>
-              <Type val="P"/>
-              <Scope val="S"/>
-              <EngineDirective val="S"/>
-              <ShowMessage val="Y"/>
-              <Condition val="89"/>
-              <Event>
-                <EventType val="S"/>
-              </Event>
-            </LogicUnit>
-            <LogicUnit id="4" propagate="78">
-              <Level val="T"/>
-              <Type val="S"/>
-              <Scope val="S"/>
-              <EngineDirective val="S"/>
-              <ShowMessage val="Y"/>
-              <Condition val="89"/>
-              <Event>
-                <EventType val="S"/>
-              </Event>
-            </LogicUnit>
-            <LogicUnit id="5" propagate="78">
-              <Level val="R"/>
-              <Type val="P"/>
-              <Scope val="S"/>
-              <EngineDirective val="S"/>
-              <ShowMessage val="Y"/>
-              <Condition val="89"/>
-              <Event>
-                <EventType val="S"/>
-              </Event>
-            </LogicUnit>
-            <LogicUnit id="6" propagate="78">
-              <Level val="R"/>
-              <Type val="S"/>
-              <Scope val="S"/>
-              <EngineDirective val="S"/>
-              <ShowMessage val="Y"/>
-              <Condition val="89"/>
-              <Event>
-                <EventType val="S"/>
-              </Event>
             </LogicUnit>
           </TaskLogic>
           <TaskForms>

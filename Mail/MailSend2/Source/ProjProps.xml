@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Application>
+
+  <Header>
+    <Version val="14080.00"/>
+    <WithIsn val="Y"/>
+    <LastIsn val="0"/>
+  </Header>
+
+  <ProjectProperties>
+    <ProjectData>
+      <GUID val="{F80465FF-B522-481F-9300-87AF3725C6C7}"/>
+      <RemoteFlowMonitorRight comp="-1"/>
+      <ApplColorDefinitionFile val="%WorkingDir%Support\Color_Runtime.eng"/>
+      <ApplFontDefinitionFile val="%WorkingDir%Support\Font_Runtime.eng"/>
+      <NulArithmetic val="N"/>
+      <WindowSortBy val="R"/>
+      <_SystemPulldownMenu comp="-1"/>
+      <_SystemContextMenu comp="-1"/>
+      <ExposeComment val="N"/>
+      <ProjectName val="MailSend2"/>
+    </ProjectData>
+  </ProjectProperties>
+
+</Application>

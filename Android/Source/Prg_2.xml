@@ -13,7 +13,8 @@
   <ProgramsRepository>
     <Programs>
       <Task MainProgram="N">
-        <Header ISEMPTY_TSK="1" ISN_2="1" LastIsn="1" id="2">
+        <Header Description="Test" ISN_2="1" LastIsn="1" id="2">
+          <Public val="Test"/>
           <ExecutionRight comp="-1"/>
           <Resident val="N"/>
           <SQL val="N"/>
@@ -22,21 +23,45 @@
             <ParametersAttributes/>
           </ReturnValue>
           <SqlWhereExist val="N"/>
-          <TaskType val="O"/>
-          <External val="N"/>
-          <Offline val="N"/>
-          <FormType val="N"/>
+          <TaskType val="C"/>
+          <Interactive val="Y"/>
+          <External val="Y"/>
+          <Offline val="Y"/>
+          <FormType val="M"/>
           <DotNetObjectExists val="N"/>
-          <LastModified date="00/00/0000" time="00:00:00"/>
+          <LastModified _date="738314" _time="60438" date="08/06/2022" time="16:47:18"/>
         </Header>
+        <ItemIsn val="3"/>
         <Resource>
-          <Columns/>
+          <Columns>
+            <Column id="1" name="q">
+              <PropertyList model="FIELD">
+                <Model attr_obj="FIELD_TIME" id="1"/>
+                <_FieldStyle id="276" val="1"/>
+              </PropertyList>
+            </Column>
+            <Column id="2" name="w">
+              <PropertyList model="FIELD">
+                <Model attr_obj="FIELD_ALPHA" id="1"/>
+                <Picture id="157" valUnicode="10"/>
+                <StoredAs id="173" val="1"/>
+                <Size id="174" val="10"/>
+                <_Flip id="194"/>
+              </PropertyList>
+            </Column>
+            <Column id="3" name="e">
+              <PropertyList model="FIELD">
+                <Model attr_obj="FIELD_DATE" id="1"/>
+                <_FieldStyle id="276" val="1"/>
+              </PropertyList>
+            </Column>
+          </Columns>
         </Resource>
         <Information>
           <Key>
             <Mode val="N"/>
           </Key>
-          <DB/>
+          <DB comp="-1"/>
           <Sort>
             <CLS val="A"/>
           </Sort>
@@ -71,8 +96,8 @@
             <AllowRange val="Y"/>
             <AllowIndexChange val="Y"/>
             <AllowSorting val="Y"/>
-            <AllowIOFiles val="Y"/>
-            <RecordCycle val="Y"/>
+            <AllowIOFiles val="N"/>
+            <TabbingCycle val="R"/>
             <AllowEvents val="Y"/>
             <AllowIndexOptimization val="Y"/>
             <AllowLocationInQuery val="Y"/>
@@ -100,6 +125,7 @@
             <Event>
               <EventType val="S"/>
             </Event>
+            <ExecuteOn_ val="O"/>
             <LogicLines>
               <LogicLine>
                 <DATAVIEW_SRC FlowIsn="1" Type="M">
@@ -108,15 +134,133 @@
                   <Direction val="C"/>
                 </DATAVIEW_SRC>
               </LogicLine>
+              <LogicLine>
+                <Select FieldID="1" FlowIsn="3" id="1">
+                  <Column val="1"/>
+                  <Type val="V"/>
+                  <ExposedToRoute val="N"/>
+                  <IsParameter val="N"/>
+                  <_DitIndexForToolkit val="2"/>
+                  <DIFF_UPDATE val="T"/>
+                  <Condition val="Y"/>
+                  <Modifier val="S"/>
+                  <Direction val="C"/>
+                </Select>
+              </LogicLine>
+              <LogicLine>
+                <Select FieldID="2" FlowIsn="4" id="2">
+                  <Column val="2"/>
+                  <Type val="V"/>
+                  <ExposedToRoute val="N"/>
+                  <IsParameter val="N"/>
+                  <_DitIndexForToolkit val="4"/>
+                  <DIFF_UPDATE val="T"/>
+                  <Condition val="Y"/>
+                  <Modifier val="S"/>
+                  <Direction val="C"/>
+                </Select>
+              </LogicLine>
+              <LogicLine>
+                <Select FieldID="3" FlowIsn="5" id="3">
+                  <Column val="3"/>
+                  <Type val="V"/>
+                  <ExposedToRoute val="N"/>
+                  <IsParameter val="N"/>
+                  <_DitIndexForToolkit val="6"/>
+                  <DIFF_UPDATE val="T"/>
+                  <Condition val="Y"/>
+                  <Modifier val="S"/>
+                  <Direction val="C"/>
+                </Select>
+              </LogicLine>
             </LogicLines>
           </LogicUnit>
         </TaskLogic>
         <TaskForms>
-          <FormEntry id="1">
-            <PropertyList model="FORM_GUI0">
+          <FormEntry _last_isn="6" _last_test_id="6" id="1">
+            <PropertyList model="FORM_RICH_CLIENT">
+              <X id="21" val="73"/>
+              <Y id="22" val="26"/>
               <_Comment id="218"/>
-              <FormName id="311"/>
+              <FormName id="311" valUnicode="Test"/>
             </PropertyList>
+            <Control _test_id="4" id="4">
+              <PropertyList model="CTRL_RICH_CLIENT_LABEL">
+                <Text id="19" valUnicode="q:"/>
+                <X id="21" val="118"/>
+                <Y id="22" val="50"/>
+                <Width id="23" val="9"/>
+                <Height id="24" val="9"/>
+                <Style id="63" val="7"/>
+                <_Orientation id="143"/>
+              </PropertyList>
+            </Control>
+            <Control PDOD="128" _test_id="1" id="1">
+              <PropertyList model="CTRL_RICH_CLIENT_EDIT">
+                <Model ID="MODEL_RICH_CLIENT" id="1">
+                  <Var FieldID="1"/>
+                </Model>
+                <X id="21" val="132"/>
+                <Y id="22" val="50"/>
+                <Width id="23" val="57"/>
+                <Height id="24" val="12"/>
+                <Data FieldID="1" id="43"/>
+                <ControlName id="46" val="q"/>
+                <TabOrder id="314" val="1"/>
+                <OpenPicker id="669"/>
+              </PropertyList>
+            </Control>
+            <Control _test_id="5" id="5">
+              <PropertyList model="CTRL_RICH_CLIENT_LABEL">
+                <Text id="19" valUnicode="w:"/>
+                <X id="21" val="118"/>
+                <Y id="22" val="70"/>
+                <Width id="23" val="10"/>
+                <Height id="24" val="9"/>
+                <Style id="63" val="7"/>
+                <_Orientation id="143"/>
+              </PropertyList>
+            </Control>
+            <Control _test_id="2" id="2">
+              <PropertyList model="CTRL_RICH_CLIENT_EDIT">
+                <Model ID="MODEL_RICH_CLIENT" id="1">
+                  <Var FieldID="2"/>
+                </Model>
+                <X id="21" val="132"/>
+                <Y id="22" val="70"/>
+                <Width id="23" val="57"/>
+                <Height id="24" val="12"/>
+                <Data FieldID="2" id="43"/>
+                <ControlName id="46" val="w"/>
+                <TabOrder id="314" val="2"/>
+              </PropertyList>
+            </Control>
+            <Control _test_id="6" id="6">
+              <PropertyList model="CTRL_RICH_CLIENT_LABEL">
+                <Text id="19" valUnicode="e:"/>
+                <X id="21" val="118"/>
+                <Y id="22" val="90"/>
+                <Width id="23" val="9"/>
+                <Height id="24" val="9"/>
+                <Style id="63" val="7"/>
+                <_Orientation id="143"/>
+              </PropertyList>
+            </Control>
+            <Control PDOD="128" _test_id="3" id="3">
+              <PropertyList model="CTRL_RICH_CLIENT_EDIT">
+                <Model ID="MODEL_RICH_CLIENT" id="1">
+                  <Var FieldID="3"/>
+                </Model>
+                <X id="21" val="132"/>
+                <Y id="22" val="90"/>
+                <Width id="23" val="57"/>
+                <Height id="24" val="12"/>
+                <Data FieldID="3" id="43"/>
+                <ControlName id="46" val="e"/>
+                <TabOrder id="314" val="3"/>
+                <OpenPicker id="669"/>
+              </PropertyList>
+            </Control>
           </FormEntry>
         </TaskForms>
       </Task>

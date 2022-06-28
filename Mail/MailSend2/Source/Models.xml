@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Application>
+
+  <Header>
+    <Version val="14080.00"/>
+    <WithIsn val="Y"/>
+    <LastIsn val="1"/>
+    <LastIsnFolder val="0"/>
+  </Header>
+
+  <ModelsRepository>
+    <Models>
+      <Object Public="V9 Compatible Default Table" id="1" name="V9 Compatible Default Table">
+        <PropertyList model="CTRL_GUI0_TABLE">
+          <BorderStyle id="64" val="1"/>
+          <LineDivider id="78" val="Y"/>
+          <ColumnDivider id="189" val="Y"/>
+          <TableInWindow id="190" val="Y"/>
+          <_WindowWidth id="241"/>
+          <RowHighlightStyle id="409" val="2"/>
+          <BottomPositionInterval id="411" val="2"/>
+          <V11TableInWindow id="535"/>
+        </PropertyList>
+      </Object>
+    </Models>
+  </ModelsRepository>
+
+</Application>

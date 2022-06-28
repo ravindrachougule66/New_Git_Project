@@ -29,7 +29,7 @@
           <FormType val="N"/>
           <DotNetObjectExists val="N"/>
           <ToBeMigrated val="Y"/>
-          <LastModified _date="738250" _time="65492" date="05/04/2022" time="18:11:32"/>
+          <LastModified _date="738313" _time="70827" date="07/06/2022" time="19:40:27"/>
         </Header>
         <ItemIsn val="8"/>
         <Resource>
@@ -567,7 +567,7 @@
                 <Data FieldID="3" id="43"/>
                 <ControlName id="46" val="Password_0001"/>
                 <Color id="51" val="2"/>
-                <PasswordEdit id="85" val="Y"/>
+                <PasswordEdit id="85"/>
                 <_Orientation id="143"/>
                 <TabOrder id="314" val="3"/>
               </PropertyList>

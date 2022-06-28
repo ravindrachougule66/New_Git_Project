@@ -1,0 +1,75 @@
+﻿ <496854802268037120> 31/03/2022 19:11:34.974     [Error  ] - JavaMailClient::CheckAndUpdateErrorDescriptionText - "java.lang.Exception: Mail format mismatch.
+	at com.magicsoftware.xpa.utils.mail.MailReaderBase.GetMessgeBody(MailReaderBase.java:240)
+", Program: "EL03_Receiving email.Store one email".
+ <496854802268037120> 31/03/2022 19:11:35.510     [Error  ] - JavaMailClient::CheckAndUpdateErrorDescriptionText - "java.lang.Exception: Mail format mismatch.
+	at com.magicsoftware.xpa.utils.mail.MailReaderBase.GetMessgeBody(MailReaderBase.java:240)
+", Program: "EL03_Receiving email.Store one email".
+ <496854802268037120> 31/03/2022 19:11:42.323     [Error  ] - JavaMailClient::CheckAndUpdateErrorDescriptionText - "java.lang.Exception: Specified file index - 1 does not exist.
+	at com.magicsoftware.xpa.utils.mail.MailReaderBase.GetAttachmentFileName(MailReaderBase.java:311)
+", Program: "EL03_Receiving email.Store one email".
+ <496854802268037120> 31/03/2022 19:11:44.867     [Error  ] - JavaMailClient::CheckAndUpdateErrorDescriptionText - "java.lang.Exception: Specified file index - 1 does not exist.
+	at com.magicsoftware.xpa.utils.mail.MailReaderBase.SaveAttachedFile(MailReaderBase.java:493)
+", Program: "EL03_Receiving email.Store one email".
+ <496854802268037120> 31/03/2022 19:12:00.759     [Error  ] - JavaMailClient::CheckAndUpdateErrorDescriptionText - "java.lang.Exception: Mail format mismatch.
+	at com.magicsoftware.xpa.utils.mail.MailReaderBase.GetMessgeBody(MailReaderBase.java:240)
+", Program: "EL03_Receiving email.Store one email".
+ <496854802268037120> 31/03/2022 19:12:01.452     [Error  ] - JavaMailClient::CheckAndUpdateErrorDescriptionText - "java.lang.Exception: Mail format mismatch.
+	at com.magicsoftware.xpa.utils.mail.MailReaderBase.GetMessgeBody(MailReaderBase.java:240)
+", Program: "EL03_Receiving email.Store one email".
+ <496854802268037120> 31/03/2022 19:12:05.077     [Error  ] - JavaMailClient::CheckAndUpdateErrorDescriptionText - "java.lang.Exception: Specified file index - 1 does not exist.
+	at com.magicsoftware.xpa.utils.mail.MailReaderBase.GetAttachmentFileName(MailReaderBase.java:311)
+", Program: "EL03_Receiving email.Store one email".
+ <496854802268037120> 31/03/2022 19:12:07.572     [Error  ] - JavaMailClient::CheckAndUpdateErrorDescriptionText - "java.lang.Exception: Specified file index - 1 does not exist.
+	at com.magicsoftware.xpa.utils.mail.MailReaderBase.SaveAttachedFile(MailReaderBase.java:493)
+", Program: "EL03_Receiving email.Store one email".
+ <496854802268037120> 31/03/2022 19:12:21.064     [Error  ] - JavaMailClient::CheckAndUpdateErrorDescriptionText - "java.lang.Exception: Mail format mismatch.
+	at com.magicsoftware.xpa.utils.mail.MailReaderBase.GetMessgeBody(MailReaderBase.java:240)
+", Program: "EL03_Receiving email.Store one email".
+ <15423434193894052> 31/03/2022 19:15:54.732     [Error  ] - JavaMailClient::CheckAndUpdateErrorDescriptionText - "java.lang.Exception: Mail format mismatch.
+	at com.magicsoftware.xpa.utils.mail.MailReaderBase.GetMessgeBody(MailReaderBase.java:240)
+", Program: "EL03_Receiving email.Store one email".
+ <15423434193894052> 31/03/2022 19:15:55.264     [Error  ] - JavaMailClient::CheckAndUpdateErrorDescriptionText - "java.lang.Exception: Mail format mismatch.
+	at com.magicsoftware.xpa.utils.mail.MailReaderBase.GetMessgeBody(MailReaderBase.java:240)
+", Program: "EL03_Receiving email.Store one email".
+ <15423434193894052> 31/03/2022 19:15:59.440     [Error  ] - JavaMailClient::CheckAndUpdateErrorDescriptionText - "java.lang.Exception: Specified file index - 1 does not exist.
+	at com.magicsoftware.xpa.utils.mail.MailReaderBase.GetAttachmentFileName(MailReaderBase.java:311)
+", Program: "EL03_Receiving email.Store one email".
+ <15423434193894052> 31/03/2022 19:16:01.664     [Error  ] - JavaMailClient::CheckAndUpdateErrorDescriptionText - "java.lang.Exception: Specified file index - 1 does not exist.
+	at com.magicsoftware.xpa.utils.mail.MailReaderBase.SaveAttachedFile(MailReaderBase.java:493)
+", Program: "EL03_Receiving email.Store one email".
+ <15423434193894052> 31/03/2022 19:16:27.483     [Error  ] - JavaMailClient::CheckAndUpdateErrorDescriptionText - "java.lang.Exception: Mail format mismatch.
+	at com.magicsoftware.xpa.utils.mail.MailReaderBase.GetMessgeBody(MailReaderBase.java:240)
+", Program: "EL03_Receiving email.Store one email".
+ <15423434193894052> 31/03/2022 19:16:28.054     [Error  ] - JavaMailClient::CheckAndUpdateErrorDescriptionText - "java.lang.Exception: Mail format mismatch.
+	at com.magicsoftware.xpa.utils.mail.MailReaderBase.GetMessgeBody(MailReaderBase.java:240)
+", Program: "EL03_Receiving email.Store one email".
+ <15423434193894052> 31/03/2022 19:16:37.687     [Error  ] - JavaMailClient::CheckAndUpdateErrorDescriptionText - "java.lang.Exception: Specified file index - 1 does not exist.
+	at com.magicsoftware.xpa.utils.mail.MailReaderBase.GetAttachmentFileName(MailReaderBase.java:311)
+", Program: "EL03_Receiving email.Store one email".
+ <15423434193894052> 31/03/2022 19:17:54.773     [Error  ] - JavaMailClient::CheckAndUpdateErrorDescriptionText - "java.lang.Exception: Specified file index - 1 does not exist.
+	at com.magicsoftware.xpa.utils.mail.MailReaderBase.SaveAttachedFile(MailReaderBase.java:493)
+", Program: "EL03_Receiving email.Store one email".
+ <15423434193894052> 31/03/2022 19:18:13.489     [Error  ] - JavaMailClient::CheckAndUpdateErrorDescriptionText - "java.lang.Exception: Mail format mismatch.
+	at com.magicsoftware.xpa.utils.mail.MailReaderBase.GetMessgeBody(MailReaderBase.java:240)
+", Program: "EL03_Receiving email.Store one email".
+ <15423434193894052> 31/03/2022 19:18:14.081     [Error  ] - JavaMailClient::CheckAndUpdateErrorDescriptionText - "java.lang.Exception: Mail format mismatch.
+	at com.magicsoftware.xpa.utils.mail.MailReaderBase.GetMessgeBody(MailReaderBase.java:240)
+", Program: "EL03_Receiving email.Store one email".
+ <15423434193894052> 31/03/2022 19:18:38.011     [Error  ] - JavaMailClient::CheckAndUpdateErrorDescriptionText - "java.lang.Exception: Mail format mismatch.
+	at com.magicsoftware.xpa.utils.mail.MailReaderBase.GetMessgeBody(MailReaderBase.java:240)
+", Program: "EL03_Receiving email.Store one email".
+ <15423434193894052> 31/03/2022 19:18:38.547     [Error  ] - JavaMailClient::CheckAndUpdateErrorDescriptionText - "java.lang.Exception: Mail format mismatch.
+	at com.magicsoftware.xpa.utils.mail.MailReaderBase.GetMessgeBody(MailReaderBase.java:240)
+", Program: "EL03_Receiving email.Store one email".
+ <434291071044804928> 31/03/2022 19:19:33.808     [Error  ] - JavaMailClient::CheckAndUpdateErrorDescriptionText - "java.lang.Exception: Mail format mismatch.
+	at com.magicsoftware.xpa.utils.mail.MailReaderBase.GetMessgeBody(MailReaderBase.java:240)
+", Program: "EL03_Receiving email.Store one email".
+ <434291071044804928> 31/03/2022 19:19:34.938     [Error  ] - JavaMailClient::CheckAndUpdateErrorDescriptionText - "java.lang.Exception: Mail format mismatch.
+	at com.magicsoftware.xpa.utils.mail.MailReaderBase.GetMessgeBody(MailReaderBase.java:240)
+", Program: "EL03_Receiving email.Store one email".
+ <434291071044804928> 31/03/2022 19:19:41.019     [Error  ] - JavaMailClient::CheckAndUpdateErrorDescriptionText - "java.lang.Exception: Specified file index - 1 does not exist.
+	at com.magicsoftware.xpa.utils.mail.MailReaderBase.GetAttachmentFileName(MailReaderBase.java:311)
+", Program: "EL03_Receiving email.Store one email".
+ <434291071044804928> 31/03/2022 19:19:44.785     [Error  ] - JavaMailClient::CheckAndUpdateErrorDescriptionText - "java.lang.Exception: Specified file index - 1 does not exist.
+	at com.magicsoftware.xpa.utils.mail.MailReaderBase.SaveAttachedFile(MailReaderBase.java:493)
+", Program: "EL03_Receiving email.Store one email".

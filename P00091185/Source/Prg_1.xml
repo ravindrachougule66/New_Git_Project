@@ -118,7 +118,7 @@
               <FormName id="311" valUnicode="207-634"/>
               <WindowType id="358" val="11"/>
               <StartupMode id="362" val="2"/>
-              <_PulldownMenu comp="-1" id="441" obj="4"/>
+              <_PulldownMenu comp="-1" id="441" obj="7"/>
               <AllowScaling id="731"/>
             </PropertyList>
           </FormEntry>

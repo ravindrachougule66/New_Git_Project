@@ -27,7 +27,7 @@
           <Offline val="N"/>
           <FormType val="N"/>
           <DotNetObjectExists val="N"/>
-          <LastModified _date="738271" _time="56314" date="26/04/2022" time="15:38:34"/>
+          <LastModified _date="738320" _time="61439" date="14/06/2022" time="17:03:59"/>
         </Header>
         <ItemIsn val="3"/>
         <Resource>
@@ -563,7 +563,7 @@
           </Expression>
         </Expressions>
         <Task MainProgram="N">
-          <Header Description="WK??" ISN_2="2" LastIsn="6" id="11">
+          <Header Description="WK??" ISN_2="2" LastIsn="2" id="11">
             <ExecutionRight comp="-1"/>
             <Resident val="N"/>
             <SQL val="N"/>
@@ -680,7 +680,7 @@
           </TaskForms>
         </Task>
         <Task MainProgram="N">
-          <Header Description="??WK??" ISN_2="3" LastIsn="6" id="11">
+          <Header Description="??WK??" ISN_2="3" LastIsn="3" id="11">
             <ExecutionRight comp="-1"/>
             <Resident val="N"/>
             <SQL val="N"/>
@@ -797,7 +797,7 @@
           </TaskForms>
         </Task>
         <Task MainProgram="N">
-          <Header Description="WK??(???)" ISN_2="4" LastIsn="6" id="11">
+          <Header Description="WK??(???)" ISN_2="4" LastIsn="4" id="11">
             <ExecutionRight comp="-1"/>
             <Resident val="N"/>
             <SQL val="N"/>
@@ -1407,7 +1407,7 @@
               <External val="N"/>
               <FormType val="N"/>
               <DotNetObjectExists val="N"/>
-              <LastModified _date="738271" _time="37287" date="26/04/2022" time="10:21:27"/>
+              <LastModified _date="738320" _time="61439" date="14/06/2022" time="17:03:59"/>
             </Header>
             <ItemIsn val="34"/>
             <Resource>
@@ -1431,8 +1431,8 @@
                 <CLS val="A"/>
               </Sort>
               <ForceRecordDelete DEL="N"/>
-              <EndTaskCondition Exp="2"/>
-              <EvaluateEndCondition val="I"/>
+              <EndTaskCondition val="N"/>
+              <EvaluateEndCondition val="B"/>
               <InitialMode val="M"/>
               <Locate Direction="A"/>
               <Range Direction="A"/>

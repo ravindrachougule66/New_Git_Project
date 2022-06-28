@@ -110,6 +110,34 @@
       <PrgIsn Val="5"/>
       <TaskIsn Val="1"/>
     </VisitedTask>
+    <VisitedTask>
+      <PrgIsn Val="6"/>
+      <TaskIsn Val="1"/>
+    </VisitedTask>
+    <VisitedTask>
+      <PrgIsn Val="7"/>
+      <TaskIsn Val="2"/>
+    </VisitedTask>
+    <VisitedTask>
+      <PrgIsn Val="7"/>
+      <TaskIsn Val="3"/>
+    </VisitedTask>
+    <VisitedTask>
+      <PrgIsn Val="7"/>
+      <TaskIsn Val="4"/>
+    </VisitedTask>
+    <VisitedTask>
+      <PrgIsn Val="7"/>
+      <TaskIsn Val="6"/>
+    </VisitedTask>
+    <VisitedTask>
+      <PrgIsn Val="7"/>
+      <TaskIsn Val="5"/>
+    </VisitedTask>
+    <VisitedTask>
+      <PrgIsn Val="7"/>
+      <TaskIsn Val="1"/>
+    </VisitedTask>
   </VisitedTasks>
 
 </Application>

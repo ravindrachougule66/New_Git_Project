@@ -14,6 +14,7 @@
     <Programs>
       <Task MainProgram="N">
         <Header ISEMPTY_TSK="1" ISN_2="1" LastIsn="1" id="5">
+          <Public val="W1"/>
           <ExecutionRight comp="-1"/>
           <Resident val="N"/>
           <SQL val="N"/>
@@ -36,7 +37,7 @@
           <Key>
             <Mode val="N"/>
           </Key>
-          <DB/>
+          <DB comp="-1"/>
           <Sort>
             <CLS val="A"/>
           </Sort>

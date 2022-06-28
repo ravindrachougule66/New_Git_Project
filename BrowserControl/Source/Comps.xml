@@ -5,7 +5,7 @@
     <Version val="14081.00"/>
     <WithIsn val="Y"/>
     <Exe comp="-1"/>
-    <LastIsn val="1"/>
+    <LastIsn val="2"/>
     <LastIsnFolder val="0"/>
   </Header>
 
@@ -20,6 +20,11 @@
         <CompId val="738976342-28670-18720-BFE77D42E"/>
         <MciFile val="E:\Magic_XPA\XPA48\Add_On\UserFunctionality\UserFunctionality.eci"/>
         <CABINET_FILE val="%EngineDir%Add_On\UserFunctionality\UserFunctionality.ecf"/>
+      </Component>
+      <Component id="2">
+        <ComponentType val="Magic xpa"/>
+        <Type val="U"/>
+        <LoadImmediate val="N"/>
       </Component>
     </Components>
   </ComponentsRepository>

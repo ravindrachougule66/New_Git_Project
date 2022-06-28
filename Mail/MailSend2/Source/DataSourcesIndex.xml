@@ -1,0 +1,32 @@
+ <Application>
+ 
+<Header>
+
+  <Version val="14080.00"/>
+
+  <WithIsn val="Y"/>
+
+  <Exe comp="-1"/>
+
+  <LastIsn val="4"/>
+
+  <LastIsnFolder val="1"/>
+
+  <Folders>
+    <Folder id="1">
+      <Name val="Memory Tables"/>
+    </Folder>
+  </Folders>
+
+</Header>
+
+<DataRepositoryProperties/>
+ <DataSourceRepository>
+  <DataObjects>
+ 
+<DataObject PhysicalName="xxFIL001.dat" Resident="N" UniqueISNConvState="12" data_source="Memory" id="1" name="Messages" offset="322" length="7004"/> 
+<DataObject PhysicalName="mg" Resident="N" UniqueISNConvState="12" data_source="SQLite Database" id="2" name="Messages" offset="7327" length="6725"/> 
+<DataObject Comment="/* This table is used to illustrate sending and receiving email */" FolderIsn="1" PhysicalName="eMail" Resident="N" UniqueISNConvState="12" data_source="Memory" id="3" name="eMail" offset="14053" length="11739"/> 
+<DataObject Comment="/* This table is used to illustrate sending and receiving email attachments*/" FolderIsn="1" PhysicalName="eMail_Attachments" Resident="N" UniqueISNConvState="12" data_source="Memory" id="4" name="eMail Attachments" offset="25793" length="2668"/>  </DataObjects>
+ </DataSourceRepository>
+ <LastModified val="30950656165708936"/>  </Application>
